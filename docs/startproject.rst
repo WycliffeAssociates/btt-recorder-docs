@@ -22,7 +22,7 @@ Open the Program
 
 7. If you want to re-record you profile name, tap ‘REDO‘ button.
 
-8. Tap ‘YES‘ button to confirm profile name
+8. Tap ‘YES‘ button to confirm profile name.
 
 
 From the Recording Section (Blue)
