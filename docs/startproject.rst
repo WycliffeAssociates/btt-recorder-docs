@@ -18,7 +18,7 @@ Open the Program
 
 5. Tap the green ‘I AGREE‘ link at the bottom of the window if you agree with all three statements to proceed to the next screen.
 
-6. Tap ‘Record‘ button and speak your actual name or a pseudonym within 3 seconds. A “pseudonym” is a false name that is used instead of the real name of the person doing the work. On the next screen you can listen your recording by tapping play button under waveform.
+6. Tap ‘Record‘ button and speak your actual name or a pseudonym within 3 seconds. A “pseudonym” is a false name that is used instead of the real name of the person doing the work. On the next screen you can listen to what you recorded by tapping play button under waveform.
 
 7. If you want to re-record you profile name, tap ‘REDO‘ button.
 
