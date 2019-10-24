@@ -8,23 +8,21 @@ Open the Program
 
 2.	Create or login to your account.
 
-3. Tap on the Create Offline Account bar. You will be able to create an online Door43 account later.
+3. Tap on ‘New User‘ card to create a profile.
 
-Note: Tapping on the Cancel button will close the program. 
+4.	Read the three Terms of Use 
 
-4.	Use the keyboard and type in the actual name or a pseudonym of the translator. A “pseudonym” is a false name that is used instead of the real name of the person doing the work.
-
-5.	Tap the blue ‘Continue’ button.
-
-4.	Accept the ‘Privacy Notice’ by tapping on the blue word ‘Continue.’
-
-5.	Read the three Terms of Use 
-
-•	Tap on each of the blue bars. 
+•	Tap on each of the green bars. 
 •	Read the content. You may need to scroll to see the entire contents of the ‘Translation Guidelines’ and the ‘Statement of Faith’.
 •	Tap on ‘Close’ at the bottom of each of the windows.
 
-6. Tap the blue I AGREE link at the bottom of the window if you agree with all three statements.
+5. Tap the green ‘I AGREE‘ link at the bottom of the window if you agree with all three statements to proceed to the next screen.
+
+6. Tap ‘Record‘ button and speak your actual name or a pseudonym within 3 seconds. A “pseudonym” is a false name that is used instead of the real name of the person doing the work. On the next screen you can listen your recording by tapping play button under waveform.
+
+7. If you want to re-record you profile name, tap ‘REDO‘ button.
+
+8. Tap ‘YES‘ button to confirm profile name
 
 
 From the Recording Section (Blue)
@@ -34,7 +32,7 @@ From the Recording Section (Blue)
 
 1.	From the home screen (half blue and half green), tap in the blue area to start recording.
 
-**NOTE**: You may tap on the left arrow in the top pink bar to go back to the previous screen at any time. You may want to go to the previous screen to make a different choice.
+**NOTE**: You may tap on the left arrow in the top blue bar to go back to the previous screen at any time. You may want to go to the previous screen to make a different choice.
 
 2.	Select the Target Language.  (The Target Language is the language into which you will translate.)
 
@@ -125,6 +123,6 @@ From the Project Manager Section (Green)
 
 10. Tap on the word ‘CONTINUE’ at the bottom right of the screen. 
 
-The program opens the recording screen. Go to the (http://tr-info.readthedocs.io/en/latest/recording.html) for more instruction.
+The program opens the recording screen. Go to the (http://btt-recorder.readthedocs.io/en/latest/recording.html) for more instruction.
 
 
