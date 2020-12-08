@@ -22,16 +22,16 @@ Create a New User Profile
 2. Read, or have someone read to you, the three Terms of Use.
 
 *  Tap on each of the green bars.
-*  Read the content. You may need to scroll to see the entire contents of the ‘Translation Guidelines’ and the ‘Statement of Faith’.
+*  Read the content. You may need to scroll to see the entire contents of the ‘Translation Guidelines’.
 *  Tap on ‘Close’ at the bottom of each of the windows. 
 
     **Note**: Tapping on the green 'NO THANKS' link closes the program. 
 
 3.	Tap the green I AGREE link at the bottom of the window if you agree with all three statements.
 
-4. Tap the Record icon (microphone) and record your name.  
+4.  Tap the Record icon (microphone) and record your name or pseudonym.  
 
-   A pseudonym is a false name that is used instead of the real name of the person doing the work.
+    A pseudonym is a false name that is used instead of the real name of the person doing the work. You could use a pseudonym if you are concerned that being associated with Bible translation work would compromise your safety or that of your family.
 
 5. You will need to record your name while the red circle is going around – 3 seconds.
 
@@ -45,7 +45,7 @@ If you can you hear your voice and understand your words, then tap the green Yes
     :height: 85 px
     :alt: Accept Recording of Name
 
-If your voice is too soft and you cannot understand your words, then tap the Redo button to make another recording.
+If your voice is too soft or you cannot understand your words, then tap the Redo button to make another recording.
 
 .. image:: ../images/RecordNameRedo.gif
     :width: 275 px
