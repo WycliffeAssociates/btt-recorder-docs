@@ -1,5 +1,5 @@
-Start a New Project
-=======
+Starting a New Project
+==========================
 
 Start a New Project From the Recording Section (Blue)
 -----
