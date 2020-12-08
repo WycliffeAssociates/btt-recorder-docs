@@ -1,4 +1,4 @@
-Installing the BTT Recording Program
+Installing the BTT Recorder Program
 =======
 
 There are two places to download the program:
