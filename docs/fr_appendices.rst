@@ -36,23 +36,23 @@ Power Point Presentations (with PDFs)
 ----
 
 **Installing translationRecorder 1.2.4** - 
- * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/translationRecorder_Installing_French_v1.2.4.pptx) 
+ * Power Point - download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/raw/master/french_files/translationRecorder_Installing_French_v1.2.4.pptx) 
  * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/translationRecorder_Installing_French_v1.2.4.pdf)
 
 **Recording from Program Manager - Oral Languages 1.2.4**
- * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/translationRecorder_Recording-Oral_Languages_French_%20v1.2.4.pptx)
+ * Power Point - download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/raw/master/french_files/translationRecorder_Recording-Oral_Languages_French_%20v1.2.4.pptx)
  * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/translationRecorder_Recording-Oral_Languages_French_%20v1.2.4.pdf)
  
 **Recording from Program Manager - Audio Recordings 1.2.4**
- * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/translationRecorder_Editing_Recording_in_Manager_French_v1.2.4.pptx)
+ * Power Point - download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/raw/master/french_files/translationRecorder_Editing_Recording_in_Manager_French_v1.2.4.pptx)
  * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/translationRecorder_Editing_Recording_in_Manager_French_v1.2.4.pdf)
   
 **Editing Oral Language Recordings 1.2.4**
- * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/translationRecorder_Editing_Recording-Oral_Language_French_v1.2.4.pptx)
+ * Power Point -download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/raw/master/french_files/translationRecorder_Editing_Recording-Oral_Language_French_v1.2.4.pptx)
  * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/translationRecorder_Editing_Recording-Oral_Language_French_v1.2.4.pdf)
 
 **Editing Audio Recordings 1.2.4** 
- * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/translationRecorder_Editing_Recording-Audio_Recording_French_v1.2.4.pptx)
+ * Power Point - download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/raw/master/french_files/translationRecorder_Editing_Recording-Audio_Recording_French_v1.2.4.pptx)
  * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/translationRecorder_Editing_Recording-Audio_Recording_French_v1.2.4.pdf)
 
 Manuals
