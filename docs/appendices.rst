@@ -52,8 +52,6 @@ Video Demonstrations
 Power Point Presentations (with PDFs)
 -------------------------------------
 
-*Click* **Download** *on the linked page to download the PowerPoints.*
-
 .. list-table:: **Presentations**
    :widths: 15 10 30
    :header-rows: 1
@@ -102,8 +100,6 @@ Power Point Presentations (with PDFs)
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4.pptx>`_
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4.pdf>`_
      
-\* *Click* **Download** *on the linked page to download the PowerPoints.*
- 
  
 **!!! THESE ARE COMING SOON !!!**
  
