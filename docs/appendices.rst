@@ -32,6 +32,23 @@ Use these files to give to the oral language translators. They might help them r
 
 **Recording with Source Audio v1.4** 
 
+
+Video Demonstrations
+--------------------
+
+`Installing BTT Writer on an Android Tablet <https://www.youtube.com/watch?v=rIxEcGSOJu0&feature=youtu.be>`_
+
+`Opening BTT Writer on a Tablet <https://www.youtube.com/watch?v=JfS0KQp1RJc&feature=youtu.be>`_
+
+`Creating a Server Account in BTT Writer for Android <https://www.youtube.com/watch?v=hHs1ZCEftvY&feature=youtu.be>`_
+
+`Agreeing to Terms of Use in BTT Writer for Android <https://www.youtube.com/watch?v=-i8IGNaeneU&feature=youtu.be>`_
+
+`Translating and Editing with BTT Writer for Android <https://www.youtube.com/watch?v=7LGmnx6bIKI&feature=youtu.be>`_
+
+`Uploading and Importing in BTT Writer for Android <https://www.youtube.com/watch?v=yeur2eGu5yU&feature=youtu.be>`_
+
+
 Power Point Presentations (with PDFs)
 -------------------------------------
 
@@ -46,43 +63,43 @@ Power Point Presentations (with PDFs)
      - PDF
      
    * - **Installing BTT Recorder 1.4**
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Installing_v1.4.x.pptx>`_ 
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Installing_v1.4.x.pptx>`_ 
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Installing_v1.4.x.pdf>`_ 
 
    * - **BTT Recorder User Setup 1.4**
-     -  \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_User_Setup_1.4.pptx>`_ 
+     -  \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_User_Setup_1.4.pptx>`_ 
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_User_Setup_1.4.pdf>`_  
 
    * - **BTT Recorder Menus and Icons 1.4**
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Menus_and_Icons_v1.4.pptx>`_ 
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Menus_and_Icons_v1.4.pptx>`_ 
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Menus_and_Icons_v1.4.pdf>`_
      
    * - **Starting a New Project using the Recording Section 1.4**
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Record_Section_v1.4.x.pptx>`_
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Starting_a_New_Project_Record_Section_v1.4.x.pptx>`_
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Record_Section_v1.4.x.pdf>`_
      
    * - **Starting a New Project using Project Management 1.4**
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Project_Management_v1.4.pptx>`_
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Starting_a_New_Project_Project_Management_v1.4.pptx>`_
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Project_Management_v1.4.pdf>`_  
      
    * - **Recording from Project Management - Oral Translations - WITH source audio 1.4**
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Recording_from_PM-Audio_Recordings_Without_Source_Audio%20v1.4.pptx>`_
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Recording_from_PM-Audio_Recordings_Without_Source_Audio%20v1.4.pptx>`_
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Recording_from_PM-Audio_Recordings_Without_Source_Audio%20v1.4.pdf>`_
 
    * - **Editing in Project Management 1.4**
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Project_Management_v1.4.pptx>`_
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Editing_Project_Management_v1.4.pptx>`_
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Project_Management_v1.4.pdf>`_
 
    * - **Editing Recordings - Cutting and Inserting 1.4** 
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Cutting_and_Inserting_v1.4.pptx>`_
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Editing_Cutting_and_Inserting_v1.4.pptx>`_
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Cutting_and_Inserting_v1.4.pdf>`_
 
    * - **Editing Recordings - Verse Markers and Rating 1.4**
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_VerseMarkers_and_Rating_v1.4.pptx>`_
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Editing_VerseMarkers_and_Rating_v1.4.pptx>`_
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_VerseMarkers_and_Rating_v1.4.pdf>`_
      
    * - **Create Chapter Recordings 1.4**
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4.pptx>`_
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4.pptx>`_
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4.pdf>`_
      
 \* *Click* **Download** *on the linked page to download the PowerPoints.*
