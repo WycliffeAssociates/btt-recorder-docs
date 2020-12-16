@@ -36,8 +36,21 @@ Use these files to give to the oral language translators. They might help them r
 Video Demonstrations
 --------------------
 
-Coming soon
+`Installing BTT Recorder on an Android Tablet <https://youtu.be/L3f7UPdPjSI>`_
 
+`Creating a New User Profile in BTT Recorder <https://youtu.be/BKADuEH8TVk>`_
+
+`How to Log Out and Log In for BTT Recorder <https://youtu.be/OcdluzgQazs>`_
+
+`Creating a New Recording Project in BTT Recorder <https://youtu.be/OpdGF8L7YdI>`_
+
+`Inserting a Section into a Recording in BTT Recorder <https://youtu.be/kgNQmFu_XAM>`_
+
+`Deleting a Section from a Recording in BTT Recorder <https://youtu.be/1C-7qk4na6w>`_
+
+`Inserting Verse Markers in BTT Recorder <https://youtu.be/u_CnbaF6T9U>`_
+
+`Compiling a Chapter Recording in BTT Recorder <https://youtu.be/NFEh85VwZ34>`_
 
 Power Point Presentations (with PDFs)
 -------------------------------------
