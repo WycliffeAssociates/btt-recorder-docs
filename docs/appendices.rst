@@ -36,17 +36,7 @@ Use these files to give to the oral language translators. They might help them r
 Video Demonstrations
 --------------------
 
-`Installing BTT Writer on an Android Tablet <https://www.youtube.com/watch?v=rIxEcGSOJu0&feature=youtu.be>`_
-
-`Opening BTT Writer on a Tablet <https://www.youtube.com/watch?v=JfS0KQp1RJc&feature=youtu.be>`_
-
-`Creating a Server Account in BTT Writer for Android <https://www.youtube.com/watch?v=hHs1ZCEftvY&feature=youtu.be>`_
-
-`Agreeing to Terms of Use in BTT Writer for Android <https://www.youtube.com/watch?v=-i8IGNaeneU&feature=youtu.be>`_
-
-`Translating and Editing with BTT Writer for Android <https://www.youtube.com/watch?v=7LGmnx6bIKI&feature=youtu.be>`_
-
-`Uploading and Importing in BTT Writer for Android <https://www.youtube.com/watch?v=yeur2eGu5yU&feature=youtu.be>`_
+Coming soon
 
 
 Power Point Presentations (with PDFs)
