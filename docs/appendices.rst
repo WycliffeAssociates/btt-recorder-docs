@@ -16,21 +16,21 @@ Translator Handouts
 -----
 Use these files to give to the oral language translators. They might help them remember the steps.
 
-**Recording with Source Audio v1.4** - https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Recording_with_Source_Audio_1.4.pdf
+`Recording with Source Audio v1.4 <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Recording_with_Source_Audio_1.4.pdf>`_
 
-**Recording without Source Audio v1.4** - https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Recording_without_Source_Audio_1.4.pdf)
+`Recording without Source Audio v1.4 <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Recording_without_Source_Audio_1.4.pdf>`_
 
-**Editing Audio Recordings v1.4** - https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Audio_Recordings_v1.4.pdf
+`Editing Audio Recordings v1.4 <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Audio_Recordings_v1.4.pdf>`_
 
-**Edit Screen Icons** - https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTT-Recorder_Edit_Screen_Icons_v1.4.pdf
+`Edit Screen Icons <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTT-Recorder_Edit_Screen_Icons_v1.4.pdf>`_
 
-**Marking Verses in Chunk Mode** - https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Marking_Verses_in_Chunk_Mode_v1.4.pdf
+`Marking Verses in Chunk Mode <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Marking_Verses_in_Chunk_Mode_v1.4.pdf>`_
 
-**Create Chapter Recordings** - https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4.pdf
+`Create Chapter Recordings <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4.pdf>`_
 
-**Sharing the Audio Files** - https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Sharing_the_Recording_v1.4.pdf
+`Sharing the Audio Files <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Sharing_the_Recording_v1.4.pdf>`_
 
-**Good Recording Levels** - https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Good_Recording_v1.4.pdf 
+`Good Recording Levels <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Good_Recording_v1.4.pdf>`_ 
 
 
 Video Demonstrations
@@ -83,7 +83,7 @@ Power Point Presentations (with PDFs)
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Starting_a_New_Project_Project_Management_v1.4.pptx>`_
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Project_Management_v1.4.pdf>`_  
      
-   * - **Recording from Project Management - Oral Translations - WITH source audio 1.4**
+   * - **Recording from Project Management WITH source audio 1.4**
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Recording_from_PM-Audio_Recordings_Without_Source_Audio%20v1.4.pptx>`_
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Recording_from_PM-Audio_Recordings_Without_Source_Audio%20v1.4.pdf>`_
 
