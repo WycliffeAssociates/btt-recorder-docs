@@ -115,7 +115,7 @@ Power Point Presentations (with PDFs)
 Manuals
 -----
 
-`What to Show the Oral Translator on the Tablet <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/What_to_Show_the_Oral_Translator_on_the_Tablet.pdf>`_
+`What to Show the Oral Translator on the Tablet <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/What_to_Show_the_Oral_Translator_on_the_Tablet.pdf>`_
 
 **Version 1.4 User Manual** - a manual with screen shots - **COMING SOON!!**
 
