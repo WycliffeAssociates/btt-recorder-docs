@@ -33,4 +33,4 @@ Rate the recording:
 2. Tap on OK to save.
 
 
-Go to the next topic - :ref:`Cutting and Inserting` to learn how to edit the recordings in BTT Recorder.
+Go to the next topic - :ref:`cut_insert` to learn how to edit the recordings in BTT Recorder.
