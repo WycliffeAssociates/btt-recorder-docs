@@ -44,12 +44,12 @@ Tap on the Information icon (gray circle with a white 'i' inside) for a project 
 
 The Book and Target Language are in the title of the details with the rest of the details:
 
-* Project - This will have the name of the book.
-* Target Language - This is the common name followed by the language code in parenthesis.
-* Translation Type - This provide the information on the choice made for the project. (Regular, UDB, or ULB)
-* Unit - This will be either 'chunk' or 'verse.'
-* Source Audio Language - If a source is chosen it will be displayed here. Tap on the pencil to change the Source Audio language.
-* Source Audio Location - If a source is chosen it will be displayed here. Tap on the pencil to change the Source Audio location.
+* Project - The name of the book.
+* Target Language - The common name followed by the language code in parenthesis.
+* Translation Type - The choice made for the project. (Regular, UDB, or ULB)
+* Unit - Either 'chunk' or 'verse.'
+* Source Audio Language - If source audio is chosen it's language is displayed here. Tap the pencil to change the Source Audio language.
+* Source Audio Location - If source audio is chosen it's location is displayed here. Tap on the pencil to change the Source Audio location.
 
 Tapping the Trashcan icon at the lower-left deletes your project. The other icons along the bottom right are for sharing your project (see `Sharing Your Recordings <https://btt-recorder.readthedocs.io/en/latest/sharing.html#>`_).
 
@@ -62,24 +62,10 @@ The Verse or Chunk Take Bar in Project Management
 Tap on the right arrow > at the end of a verse/chunk bar to view the options available for working with the audio recordings in Project Management. The items in the verse take bar are (listed top to bottom and left to right):
 
 1.  The time line of the length of the audio take. The line expands left to right as the audio take plays.
-2.	Garbage can icon - Tap on the garbage can icon to delete a selected take. **NOTE**: The numbering of the takes will change to reflect the lower number of takes available. 
-3.	Wave form icon - Tap on the wave form icon to enter the editing screen of BTT Recorder.
+2.	Garbage can icon - Tap the garbage can icon to delete a selected take. **NOTE**: The numbering of the takes will change to reflect the lower number of takes available. 
+3.	Waveform icon - Tap  the waveform icon to enter the editing screen of BTT Recorder.
 4.	Play icon - Tap the play icon to play the recording. Tap the pause icon to stop the recording.
-5.	Check mark – Tap to turn green. This icon is green when the take is approved to use. When the take is rated, this checkmark is green.
-6.	Star icon - Tap on the star icon to rate the recording.
-7.	Choose a recording - Tap on the right or left arrow to go between the audio takes for a verse. Notice the take number changes.
+5.	Checkmark – Indicates whether the take is approved to use. Tap to turn green. Only one take per verse/chunk can have a green checkmark. When the take is rated with 3 stars, this checkmark is green.
+6.	Star icon - Tap to rate the recording.
+7.	Choose a take - Tap on the right or left arrow to go between the audio takes for a verse. Notice that the take number changes.
 
-Icons on the Edit Screen
------
-
-* Star - Tap to rate the recording. Choose between 1, 2 or 3 stars. 
-* Re-record - Tap to open a new recording window.
-* Add a Recording - Tap on the microphone in a comment bubble to add a recording in a selected spot on timeline.
-* Timer - Shows the passage of time, in hour:minute:second, of the recording. The smaller numbers after the slash (/) show the total time length of the recording.
-* Rewind - Tap to go back to the start of the recording.	
-* Play - Tap to hear the recording.
-* Fast Forward - To go to the end of the recording.
-* Flag - Tap to edit the recording.
-* SD Card - Tap to save the recording.
-* Recording Waves - Tap to listen to the Target Language recording.
-* Listen - Tap to listen to the Source Language recording.
