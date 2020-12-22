@@ -27,6 +27,7 @@ Contents:
    compiling
    markingverses
    projectinformation
+   sharing
    appendices
    fr_appendices
    
