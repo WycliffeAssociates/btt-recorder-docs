@@ -4,7 +4,7 @@ Recording
 Steps to Follow from the Home Screen 
 ----
 
-**Note**: This procedure enables you to record only the project that is shown in the blue recording area. If a different project is shown, or no project is shown, you need to record from the Project Management screen as explained `below <https://btt-recorder.readthedocs.io/en/latest/recording.html#steps-to-follow-from-project-management>`_.
+**Note**: This procedure enables you to record only the project that is named in the blue recording area. If a different project is shown, or no project is shown, you need to record from the Project Management screen as explained `below <https://btt-recorder.readthedocs.io/en/latest/recording.html#steps-to-follow-from-project-management>`_.
 
 1.	On the home screen, tap in the blue recording area. 
 
