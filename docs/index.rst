@@ -16,8 +16,8 @@ Contents:
 
    install
    createuser
-   menus
    startproject
+   menus
    recording
    editing1
    editing2
