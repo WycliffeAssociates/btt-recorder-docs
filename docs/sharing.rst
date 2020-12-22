@@ -150,18 +150,86 @@ If the folder structure for the language does not exist, you need to create it.
 
 Now that you have the folders set up, you can upload your recordings to them. Translators typically upload from their tablets; however, a MAST technical support person may harvest the audio files from a tablet to a thumb drive and then use the computer to upload them. Both methods are discussed below.
 
-**Global Standard Nomenclature for Books in the Bible**
+.. list-table:: **Global Standard Nomenclature for Books in the Bible**
+   :widths: 30 30 30 30 30 30 30
 
-01-GEN	11-1KI	21-ECC	31-OBA	41-MAT	51-PHP	61-1PE
-02-EXO	12-2KI	22-SNG	32-JON	42-MRK	52-COL	62-2PE
-03-LEV	13-1CH	23-ISA	33-MIC	43-LUK	53-1TH	63-1JN
-04-NUM	14-2CH	24-JER	34-NAM	44-JHN	54-2TH	64-2JN
-05-DEU	15-EZR	25-LAM	35-HAB	45-ACT	55-1TI	65-3JN
-06-JOS	16-NEH	26-EZK	36-ZEP	46-ROM	56-2TI	66-JUD
-07-JDG	17-EST	27-DAN	37-HAG	47-1CO	57-TIT	67-REV
-08-RUT	18-JOB	28-HOS	38-ZEC	48-2CO	58-PHM	
-09-1SA	19-PSA	29-JOL	39-MAL	49-GAL	59-HEB	
-10-2SA	20-PRO	30-AMO	*	      50-EPH	60-JAS	
+
+   * - 01-GEN	
+     - 11-1KI	
+     - 21-ECC	
+     - 31-OBA	
+     - 41-MAT	
+     - 51-PHP	
+     - 61-1PE
+
+   * - 02-EXO	
+     - 12-2KI	
+     - 22-SNG	
+     - 32-JON	
+     - 42-MRK	
+     - 52-COL	
+     - 62-2PE
+     
+   * - 03-LEV	
+     - 13-1CH	
+     - 23-ISA	
+     - 33-MIC	
+     - 43-LUK	
+     - 53-1TH	
+     - 63-1JN
+
+   * - 04-NUM
+     - 14-2CH	
+     - 24-JER	
+     - 34-NAM	
+     - 44-JHN	
+     - 54-2TH	
+     - 64-2JN
+
+   * - 05-DEU	
+     - 15-EZR	
+     - 25-LAM	
+     - 35-HAB	
+     - 45-ACT	
+     - 55-1TI	
+     - 65-3JN
+
+   * - 06-JOS	
+     - 16-NEH	
+     - 26-EZK	
+     - 36-ZEP	
+     - 46-ROM	
+     - 56-2TI	
+     - 66-JUD
+
+   * - 07-JDG	
+     - 17-EST	
+     - 27-DAN	
+     - 37-HAG	
+     - 47-1CO	
+     - 57-TIT	
+     - 67-REV
+     
+   * - 08-RUT	
+     - 18-JOB	
+     - 28-HOS	
+     - 38-ZEC	
+     - 48-2CO	
+     - 58-PHM	
+
+   * - 09-1SA	
+     - 19-PSA	
+     - 29-JOL	
+     - 39-MAL	
+     - 49-GAL	
+     - 59-HEB	
+
+   * - 10-2SA	
+     - 20-PRO	
+     - 30-AMO	
+     - *	      
+     - 50-EPH	
+     - 60-JAS	
 
 *The number 40 is skipped
 
