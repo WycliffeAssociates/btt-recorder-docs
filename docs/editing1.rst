@@ -12,7 +12,7 @@ Find a recording
 
 The take management bar opens. (**A 'take' is the word that refers to a recording.**) It is now possible to work with the recordings from this verse. 
 
-Tap the right or left arrow to go between the audio takes for a verse. Notice the take number changes.
+Tap the right or left arrow to go between the audio takes for a verse. Notice that the take number changes.
 
 Verse/Chunk Take Bar
 *****
