@@ -79,17 +79,11 @@ Steps to Follow from the Project Management Screen
 Detailed instructions for the Recording Window
 ----
 
-Starting at the home screen:
+In the Recording window you can see the Target Language, the Source, the Book, the Chapter and the Verse in the gray bar at the top of the screen. 
 
-1.	Click anywhere in the blue section to take you into the Recorder.
+1.	If source audio is available, tap the Play button in the gray bar at the bottom of the screen to listen to the source language for that particular verse/chunk. The green dot will move along the line. The numbers on the left of the line count down and the numbers on the right count up the length of the audio recording. 
 
-2.	If the Security warning shows – Tap in the box before the words ‘Do not remind again.’ so that there is a check mark in the box. Then tap the word ‘ALLOW.’ (This is the only time you will need to check and allow.)
-
-You are now in the Recording window. You can see the Target Language, the Source, the Book, the Chapter and the Verse in the gray bar at the top of the screen. 
-
-3.	If source audio is available, tap the Play button in the gray bar at the bottom of the screen to listen to the source language for that particular verse/chunk. The green dot will move along the line. The numbers on the left of the line count down and the numbers on the right count up the length of the audio recording. 
-
-4.	Listen to the verse or chunk. 
+2.	Listen to the verse or chunk. 
 
   * The green dot will move along the line. 
   
@@ -97,21 +91,21 @@ You are now in the Recording window. You can see the Target Language, the Source
   
   * The numbers on the right display the length of the audio recording.
 
-5.	Tap the microphone icon in the blue bar to start recording.
+3.	Tap the microphone icon in the blue bar to start recording.
 
-6.	Speak clearly and loudly.
+4.	Speak clearly and loudly.
 
   * It is recommended that you use a headset with a microphone or a separate microphone. 
   
   * As you begin to speak you will see a wavy line appear on the screen which is a result of the sound of your voice. 
  
-7.	When done with that verse or chunk, tap the Puse button.
+5.	When done with that verse or chunk, tap the Puse button.
 
   * You can also tap Pause to temporarily Pause recording.
   
   * You can then start recording again by tapping on the microphone icon
   
-* When you are finished, tap the Checkmark to go to the Edit window.
+6 When you are finished, tap the Checkmark to go to the Edit window.
  
  
 
