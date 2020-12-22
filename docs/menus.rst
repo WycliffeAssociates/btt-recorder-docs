@@ -16,8 +16,8 @@ The 3-dot menu (Options menu) is only on the Project Management home screen and 
 
   Tap the back arrow at the top left to return to the Project Management screen.
 
-* Logout - Tap on 'Logout' to sign out of the program. The program will restart at the User Account screen.
-* Help - Tap to view the documentation on how to use the BTT Recorder program. Internet connection is necessary to view the documentation.
+* Logout - Tap **Logout** to sign out of the program. The program restarts at the User Account screen.
+* Help - View this set of documentation on how to use the BTT Recorder program. Internet connection is necessary to view the documentation.
 
 Information on the Project Management Screen
 -----
