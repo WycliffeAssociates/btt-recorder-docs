@@ -4,14 +4,14 @@ Creating a New User Profile
 Open the Program
 -----
 
-1.	Tap on the BTT Recorder program icon on the tablet screen.
+1.	Tap the **BTT Recorder icon** on the tablet screen. This icon may not be on the main screen; you may need to scroll to a different screen to find it, or open your apps. You can then tap and drag it to the main screen if desired.
 
-2.  The first time you open the program, tap ALLOW to grant BTT Recorder access to media files, and then tap ALLOW to give the program permission to record audio.
+2.  The first time you open the program, tap **ALLOW** to grant BTT Recorder access to media files, and then tap **ALLOW** to give the program permission to record audio.
 
 Create a New User Profile
 -----
 
-1.	Tap on 'New User' card to create a profile.
+1.	To create a new User profile, tap the **New User** card.
 
 .. image:: ../images/NewUserCard.gif
     :width: 200 px
@@ -54,3 +54,5 @@ If your voice is too soft or you cannot understand your words, then tap the Redo
     :alt: Redo Recording of Name
 
 When you accept the recording - the opening recording screen opens, and you are ready to start a new project.
+
+**NOTE**: If you want to create another user, you can log out of the program (see `The 3-dot (Options) Menu <https://btt-recorder.readthedocs.io/en/latest/menus.html#the-3-dot-menu-on-the-project-management-screen-home-screen>`_)
