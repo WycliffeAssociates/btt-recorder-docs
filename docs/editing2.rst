@@ -1,3 +1,5 @@
+.. _cut_insert:
+
 Using the Edit Screen - Cutting and Inserting
 =======
 
