@@ -22,9 +22,9 @@ This option is great if you are planning on leading an event and may not have in
 
 3.	The APK file downloads.
 
-5.	Navigate to the download folder.
+4.	Navigate to the download folder.
 
-6.	Tap on the **bttRecorder.apk** file and allow the program to install. (You may need to give permission for an APK to install on the device.)
+5.	Tap on the **bttRecorder.apk** file and allow the program to install. (You may need to give permission for an APK to install on the device.)
 
 
 Installing from Google Play Store
