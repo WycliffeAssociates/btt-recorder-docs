@@ -130,7 +130,7 @@ If the folder structure for the language does not exist, you need to create it.
 
 7.	Tap in the Name field and type the book name with the leading identification number. You may use the language’s name for the folder if the identifying number is there (such as 42-Markos for Spanish).
  
-    See the list of biblical book identification codes – 2-digit number and 3-letter. For example, the 2nd New Testament book for the Spanish Bible would be 42-MRK (or 42-Markos if you use the Spanish name with the leading identification code).
+    (see table entitled “Global Standard Nomenclature for Books in the Bible”  below – 2-digit number and 3-letter. For example, the 2nd New Testament book for the Spanish Bible would be 42-MRK (or 42-Markos if you use the Spanish name with the leading identification code).
 
 8.	Tap Create Folder. The new folder is created and opened. 
 
@@ -148,11 +148,9 @@ If the folder structure for the language does not exist, you need to create it.
  
     * Repeat steps a) through e) to create a folder for each chapter.
 
-Now that you have the folders set up, you can upload your recordings to them. Translators typically upload from their tablets; however, a MAST technical support person may harvest the audio files from a tablet to a thumb drive and then use the computer to upload them. Both methods are discussed below.
-
 .. list-table:: **Global Standard Nomenclature for Books in the Bible**
    :widths: 30 30 30 30 30 30 30
-
+   :header-rows: 0
 
    * - 01-GEN	
      - 11-1KI	
@@ -209,13 +207,14 @@ Now that you have the folders set up, you can upload your recordings to them. Tr
      - 47-1CO	
      - 57-TIT	
      - 67-REV
-     
+        
    * - 08-RUT	
      - 18-JOB	
      - 28-HOS	
      - 38-ZEC	
      - 48-2CO	
-     - 58-PHM	
+     - 58-PHM
+     - 
 
    * - 09-1SA	
      - 19-PSA	
@@ -223,15 +222,20 @@ Now that you have the folders set up, you can upload your recordings to them. Tr
      - 39-MAL	
      - 49-GAL	
      - 59-HEB	
+     - 
 
    * - 10-2SA	
      - 20-PRO	
      - 30-AMO	
-     - *	      
+     - ``*``     
      - 50-EPH	
      - 60-JAS	
+     -
+
 
 *The number 40 is skipped
+
+Now that you have the folders set up, you can upload your recordings to them. Translators typically upload from their tablets; however, a MAST technical support person may harvest the audio files from a tablet to a thumb drive and then use the computer to upload them. Both methods are discussed below.
 
 **Upload chapter recordings from the tablet**
 
