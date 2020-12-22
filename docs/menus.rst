@@ -38,7 +38,7 @@ In addition are two other icons on each of the project bars:
 * Information icon (gray circle with a white 'i' inside) - See further information below.
 * Microphone - Tap this icon to go directly to the recording screen.
 
-Information Menu on the Project Bar
+Information Window
 -----
 Tap on the Information icon (gray circle with a white 'i' inside) for a project and a window opens with further details about the project.
 
@@ -51,7 +51,10 @@ The Book and Target Language are in the title of the details with the rest of th
 * Source Audio Language - If a source is chosen it will be displayed here. Tap on the pencil to change the Source Audio language.
 * Source Audio Location - If a source is chosen it will be displayed here. Tap on the pencil to change the Source Audio location.
 
-Tap anywhere off the white area to close the Information Menu.
+Tapping the Trashcan icon at the lower-left deletes your project. The other icons along the bottom right are for sharing your project (see `Sharing Your Recordings <https://btt-recorder.readthedocs.io/en/latest/sharing.html#>`_).
+
+Tap anywhere outside of the white area to close the Information popup.
+
 
 The Verse or Chunk Take Bar in Project Management
 -----
