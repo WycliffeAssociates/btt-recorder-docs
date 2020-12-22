@@ -12,11 +12,11 @@ Steps to Follow from the Home Screen
 
 3.	Check the information on the top gray bar:
 
-•	Target Language
-•	Project Type
-•	Book
-•	Chapter
-•	Verse or Chunk
+  •	Target Language
+  •	Project Type
+  •	Book
+  •	Chapter
+  •	Verse or Chunk
 
 3.	Use the + and – signs to correct the chapter or verse/chunk number.
 
@@ -45,14 +45,16 @@ Steps to Follow from the Project Management Screen
 3.	Tap on the chapter bar that needs to be recorded.
 
 4.	On the verse bar that needs to be recorded, tap on the microphone icon.
+   
+   **HINT**: This is an easy way to keep track of which verses/chunks have recordings already so that you don’t unnecessarily record the same item over and over. It is also an easy way to navigate to the specific item you want to record. 
 
 5.	Check the information on the top gray bar:
 
-•	Target Language
-•	Project Type
-•	Book
-•	Chapter
-•	Verse or Chunk
+  •	Target Language
+  •	Project Type
+  •	Book
+  •	Chapter
+  •	Verse or Chunk
 
 6.	Use the + and – signs to correct the chapter or verse/chunk number.
 
