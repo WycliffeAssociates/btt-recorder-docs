@@ -20,7 +20,7 @@ Steps to Follow from the Home Screen
 
 3.	Use the + and – signs to correct the chapter or verse/chunk number.
 
-4.	Tap the microphone icon.
+4.	Tap the microphone icon. (See more `detailed instructions <https://btt-recorder.readthedocs.io/en/latest/recording.html#detailed-instructions-for-the-recording-window>`_ for recording below.)
 
 5.	Record the verse or chunk.
 
@@ -58,7 +58,7 @@ Steps to Follow from the Project Management Screen
 
 6.	Use the + and – signs to correct the chapter or verse/chunk number.
 
-7.	Tap the microphone icon.
+7.	Tap the microphone icon. (See more `detailed instructions <https://btt-recorder.readthedocs.io/en/latest/recording.html#detailed-instructions-for-the-recording-window>`_ for recording below.)
 
 8.	Record the verse or chunk.
 
@@ -99,7 +99,7 @@ In the Recording window you can see the Target Language, the Source, the Book, t
   
   * As you begin to speak you will see a wavy line appear on the screen which is a result of the sound of your voice. 
  
-5.	When done with that verse or chunk, tap the Puse button.
+5.	When done with that verse or chunk, tap the Pause button.
 
   * You can also tap Pause to temporarily Pause recording.
   
