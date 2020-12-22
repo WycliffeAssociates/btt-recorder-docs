@@ -44,7 +44,7 @@ Steps to Follow from the Project Management Screen
 
 3.	Tap on the chapter bar that needs to be recorded.
 
-4.	On the verse bar that needs to be recorded, tap on the microphone icon.
+4.	On the verse bar that needs to be recorded, tap on the Microphone icon.
    
    **HINT**: This is an easy way to keep track of which verses/chunks have recordings already so that you don’t unnecessarily record the same item over and over. It is also an easy way to navigate to the specific item you want to record. 
 
@@ -70,9 +70,9 @@ Steps to Follow from the Project Management Screen
 
 12.	Save the recording. The recording window closes and the Project Management window for the verses in that chapter appears.
 
-13.	On the next verse bar that needs to be recorded, tap on the microphone icon.
+13.	On the next verse bar that needs to be recorded, tap on the Microphone icon.
 
-14.	Repeat steps 8 to 13 for all verses in the book. 
+14.	Repeat steps 5 to 13 for all verses in the book. 
 
 
 
@@ -95,7 +95,7 @@ In the Recording window you can see the Target Language, the Source, the Book, t
 
 4.	Speak clearly and loudly.
 
-  * It is recommended that you use a headset with a microphone or a separate microphone. 
+  * It is recommended that you use a separate microphone or a headset with a microphone, not just the microphone that is built into the tablet. 
   
   * As you begin to speak you will see a wavy line appear on the screen which is a result of the sound of your voice. 
  
@@ -103,7 +103,7 @@ In the Recording window you can see the Target Language, the Source, the Book, t
 
   * You can also tap Pause to temporarily Pause recording.
   
-  * You can then start recording again by tapping on the microphone icon
+  * You can then start recording again by tapping on the Microphone icon
   
 6 When you are finished, tap the Checkmark to go to the Edit window.
  
