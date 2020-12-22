@@ -31,14 +31,14 @@ Start a New Project From the Recording Section (Blue)
 5. Choose a Translation Type - Tap to choose.  If you are translating from the UDB or ULB, tap one of those choices. Otherwise, tap REG: Regular. 
    **Note**: This choice does not apply to Open Bible Stories.
    
-**NOTE: You must select the same Translation Type and Mode as the source audio.**
+   **NOTE: You must select the same Translation Type and Mode as the source audio.**
 
 6. Choose a Mode - Tap to choose either Verse or Chunk mode. This is how the translation will be divided. 
 
   * The ‘Verse’ mode has each recording separated like a regular Bible, one verse at a time.
   * The ‘Chunk’ mode has each recording separated according to groups of verses.
 
-**NOTE: You must select the same Translation Type and Mode as the source audio.**
+    **NOTE: You must select the same Translation Type and Mode as the source audio.**
 
 The program goes to the Source Audio step. 
 
@@ -59,7 +59,7 @@ Choosing the Source Audio
 
 4. Tap on the bottom green bar (SELECT SOURCE LOCATION:) to load the source audio. The file manager should open to the directory of where the audio files are located.
 
-**NOTE**: The audio files are configured in this way: *Language Code*_*Translation Type*_*Book Code*.tr  So, for the ULB audio of the book of Titus in Swahili the file would be named "sw_ulb_Titus.tr". 
+**NOTE**: The audio files are configured in this way: *Language Code_Translation Type_Book Code*.tr  So, for the ULB audio of the book of Titus in Swahili the file would be named "sw_ulb_Titus.tr". 
 
 **Hint**: You may need to search in the Internal Storage for *.tr files. 
 
@@ -109,14 +109,14 @@ From the Project Management Section (Green)
 
 6. Choose a Translation Type - Tap to choose from the REG:Regular, ULB:Unlocked Literal Bible or UDB:Unlocked Dynamic Bible.
 
-**NOTE: You must select the same Translation Type and Mode as the source audio.**
+    **NOTE: You must select the same Translation Type and Mode as the source audio.**
 
 7.  Choose a Mode - Tap to choose either Verse or Chunk mode. This is how the information will be divided. 
 
   * The ‘Verse’ mode has each recording separated like a regular Bible, one verse at a time.
   * The ‘Chunk’ mode has each recording separated according to groups of verses.
 
-**NOTE: You must select the same Translation Type and Mode as the source audio.**
+    **NOTE: You must select the same Translation Type and Mode as the source audio.**
 
 The program goes to the Source Audio step. 
 
@@ -136,7 +136,7 @@ The program goes back to the Source Audio window.
 
  * The file manager should open to the directory of where the audio files are located.
 
-**NOTE**: The audio files are configured in this way: *Language Code*_*Translation Type*_*Book Code*.tr  So, for the ULB audio of the book of Titus in Swahili the file would be named "sw_ulb_Titus.tr". 
+**NOTE**: The audio files are configured in this way: *Language Code_Translation Type_Book Code*.tr  So, for the ULB audio of the book of Titus in Swahili the file would be named "sw_ulb_Titus.tr". 
 
 **Hint**: You may need to search in the Internal Storage for *.tr files. 
 
