@@ -7,7 +7,8 @@ Find a recording
 ***** 
 1. Start at the Project Management screen. Tap on a Project to edit.
 2. Tap on the Chapter bar.
-3. Tap on the arrow at the end of the verse bar. 
+3. To record a new take of a verse/chunk, tap the microphone icon.
+4. To see the existing takes, tap the arrow at the end of the verse bar. 
 
 The take management bar opens. (**A 'take' is the word that refers to a recording.**) It is now possible to work with the recordings from this verse. 
 
