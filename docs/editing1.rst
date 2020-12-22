@@ -7,12 +7,12 @@ Find a recording
 ***** 
 1. Start at the Project Management screen. Tap on a Project to edit.
 2. Tap on the Chapter bar.
-3. To record a new take of a verse/chunk, tap the microphone icon.
+3. To record a new take of a verse/chunk, tap the Microphone icon.
 4. To see the existing takes, tap the arrow at the end of the verse bar. 
 
 The take management bar opens. (**A 'take' is the word that refers to a recording.**) It is now possible to work with the recordings from this verse. 
 
-Tap on the right or left arrow to go between the audio takes for a verse. Notice the take number changes.
+Tap the right or left arrow to go between the audio takes for a verse. Notice the take number changes.
 
 Verse/Chunk Take Bar
 *****
@@ -46,7 +46,7 @@ To indicate the quality of the recording, you can add a star rating to it. The s
  * Tap the left star if the recording is not the best – the star turns red.
  * Tap the middle star if the recording is fine but could be better – the stars turn yellow.
  * Tap the right star for a very good recording – the starts turn green. Only one take per verse/chunk can be rated 3 stars, because this indicates the accepted take.
-2. Tap on OK to save.
+2. Tap OK to save.
 
 
 Go to the next topic - `Cutting and Inserting <https://btt-recorder.readthedocs.io/en/latest/editing2.html>`_ to learn how to edit the recordings in BTT Recorder.
