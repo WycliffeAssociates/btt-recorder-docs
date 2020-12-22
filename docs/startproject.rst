@@ -6,7 +6,7 @@ Start a New Project From the Recording Section (Blue)
 
 **NOTE**: You can start a new project in the Recording Section ONLY when it is the first time BTT Recorder is used (a new install.)
 
-1.	From the home screen (half blue and half green), tap in the blue area to start recording.
+1.	From the home screen (half green and half blue), tap in the blue area to start recording.
 
 **NOTE**: During these next steps, you may tap on the left arrow in the top blue bar to go back to the previous screen at any time. You may want to go to the previous screen to make a different choice.
 
