@@ -27,22 +27,25 @@ The items in the verse take bar are (listed top to bottom and left to right):
 
 1. The time line of the length of the audio take. The line expands left to right as the audio take plays.
 
-2. Garbage can icon - Tap on the garbage can icon to delete a selected take. 
+2. Garbage can icon - Delete a selected take. 
 
     **NOTE:** The numbering of the takes changes to reflect the lower number of takes available. 
 
-3. Waveform icon - Tap on the waveform icon to invoke the editing screen of BTT Recorder.
-4. Play icon - Tap the play icon to play the recording. Tap the pause icon to stop the recording.
-5. Checkmark – Indicates whether the take is approved to use. Tap to turn green. Only one take per verse/chunk can have a green checkmark. When the take is rated with 3 stars, this checkmark is green.
-6. Star icon - Tap on the star icon to rate the recording.
-7. Choose a recording - Tap on the right or left arrow to go between the audio takes for a verse. Notice that the take number changes.
+3. Waveform icon - Invoke the editing screen of BTT Recorder.
+4. Play icon - Play the recording. Tap the Pause icon (replaces the Play icon) to stop the recording.
+5. Checkmark – Tap to turn green, or if green, tap to turn black. The green color means that the take is approved to use. When the take is rated 3 stars, this checkmark is green, or you can just tap it to turn it green. Only one take per verse or chunk can be marked with a green checkmark.
+6. Star icon - Rate the recording.
+7. Left or right arrow - Navigate among takes for a verse. Notice that the take number changes.
 
 Rate the recording:
 *****
-1. Tap on the star icon on the verse bar.
- * Tap on the left star if the recording is not the best – the star turns red.
- * Tap on the middle star if the recording is fine but could be better – the stars turn yellow.
- * Tap on the right star for a very good recording – the starts turn green. Only one take per verse/chunk can be rated 3 stars, because this indicates the accepted take.
+
+To indicate the quality of the recording, you can add a star rating to it. The star ratings are used for the program to determine which take of a verse or chunk to use when compiling an entire chapter recording.
+
+1. Tap the Star icon on the verse bar.
+ * Tap the left star if the recording is not the best – the star turns red.
+ * Tap the middle star if the recording is fine but could be better – the stars turn yellow.
+ * Tap the right star for a very good recording – the starts turn green. Only one take per verse/chunk can be rated 3 stars, because this indicates the accepted take.
 2. Tap on OK to save.
 
 
