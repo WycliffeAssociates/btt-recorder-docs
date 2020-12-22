@@ -28,7 +28,7 @@ Steps to Follow from the Home Screen
 
 7.	Tap the Checkmark icon in the bottom blue bar.
 
-8.	Edit and rate the recording. See `Rate the Target Language Recording <https://btt-recorder.readthedocs.io/en/latest/editing3.html#rate-the-target-language-recording>`_ 
+8.	Edit and rate the recording. See `Rate the Target Language Recording <https://btt-recorder.readthedocs.io/en/latest/editing3.html#rate-the-target-language-recording>`_. 
 
 9.	Save the recording. The recording window closes and the home screen shows.
 
@@ -66,7 +66,7 @@ Steps to Follow from the Project Management Screen
 
 10.	Tap the Checkmark icon in the bottom blue bar.
 
-11.	Edit and rate the recording. See `Rate the Target Language Recording <https://btt-recorder.readthedocs.io/en/latest/editing3.html#rate-the-target-language-recording>`_
+11.	Edit and rate the recording. See `Rate the Target Language Recording <https://btt-recorder.readthedocs.io/en/latest/editing3.html#rate-the-target-language-recording>`_.
 
 12.	Save the recording. The recording window closes and the Project Management window for the verses in that chapter appears.
 
