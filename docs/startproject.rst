@@ -108,9 +108,9 @@ Choosing the Source Audio
 
 4. Tap on the bottom green bar (SELECT SOURCE LOCATION:) to load the source audio. The file manager should open to the directory of where the audio files are located.
 
-**NOTE**: The audio files are configured in this way: *Language Code_Translation Type_Book Code*.tr  So, for the ULB audio of the book of Titus in Swahili the file would be named "sw_ulb_Titus.tr". 
+**NOTE**: The audio files are named in this way: *Language Code_Translation Type_Book Code*.tr  So, for the ULB audio of the book of Titus in Swahili the file would be named "sw_ulb_Titus.tr". 
 
-**Hint**: You may need to search in the Internal Storage for *.tr files. 
+**Hint**: You may need to search in the Internal Storage for ``*``.tr files. 
 
 3. Tap on the name of the desired Source Language audio file. The program goes back to the Source Audio window.
 
