@@ -16,7 +16,7 @@ This option is great if you are planning on leading an event and may not have in
 *  Does not require a Google Play Store account.
 *  This will be the most up-to-date version of the program
 
-1.	Go to this URL: https://github.com/Bible-Translation-Tools/BTT-Recorder/releases.
+1.	Go to this URL: https://recorder.bibletranslationtools.org/download/.
 
 2.	Tap on the first listed release (the large blue words and letters). The list of files that can be downloaded shows.
 
