@@ -18,7 +18,7 @@ Verse/Chunk Take Bar
 *****
 
 .. image:: ../images/TakeBarIcons.jpg
-    :width: 305px
+    :width: 500px
     :align: center
     :height: 245px
     :alt: BTT Writer for Android
@@ -36,17 +36,5 @@ The items in the verse take bar are (listed top to bottom and left to right):
 5. Checkmark – Tap to turn green, or if green, tap to turn black. The green color means that the take is approved to use. When the take is rated 3 stars, this checkmark is green, or you can just tap it to turn it green. Only one take per verse or chunk can be marked with a green checkmark.
 6. Star icon - Rate the recording.
 7. Left or right arrow - Navigate among takes for a verse. Notice that the take number changes.
-
-Rate the recording:
-*****
-
-To indicate the quality of the recording, you can add a star rating to it. The star ratings are used for the program to determine which take of a verse or chunk to use when compiling an entire chapter recording.
-
-1. Tap the Star icon on the verse bar.
- * Tap the left star if the recording is not the best – the star turns red.
- * Tap the middle star if the recording is fine but could be better – the stars turn yellow.
- * Tap the right star for a very good recording – the starts turn green. Only one take per verse/chunk can be rated 3 stars, because this indicates the accepted take.
-2. Tap OK to save.
-
 
 Go to the next topic - `Cutting and Inserting <https://btt-recorder.readthedocs.io/en/latest/editing2.html>`_ to learn how to edit the recordings in BTT Recorder.
