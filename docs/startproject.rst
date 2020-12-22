@@ -44,40 +44,6 @@ Start a New Project From the Recording Section (Blue)
 
 The program goes to the Source Audio step. 
 
-Choosing the Source Audio
------
-
-1. Tap on the top green bar (SOURCE LANGUAGE:) to select the language of the Source Audio. (The Source Language audio is the language from which you will translate.)
-
-2. You can search for the desired source language in one of two ways:
-  
-    * By swiping from the bottom of the screen up to scroll through the languages.
-    
-    * By tapping the magnifying glass.
-     * The Keyboard appears. Type in the language or language code. 
-     * Close the keyboard by using the down arrow icon, or back arrow icon.
-
-3. Tap on the name of the desired Source Language. The program goes back to the Source Audio window.
-
-4. Tap on the bottom green bar (SELECT SOURCE LOCATION:) to load the source audio. The file manager should open to the directory of where the audio files are located.
-
-**NOTE**: The audio files are configured in this way: *Language Code_Translation Type_Book Code*.tr  So, for the ULB audio of the book of Titus in Swahili the file would be named "sw_ulb_Titus.tr". 
-
-**Hint**: You may need to search in the Internal Storage for *.tr files. 
-
-3. Tap on the name of the desired Source Language audio file. The program goes back to the Source Audio window.
-
-4. Confirm that the information in the green bar is correct. 
-
-5. Tap on the word ‘CONTINUE’ at the bottom right of the screen. 
-
-The recording window opens.
-
-You are ready to work within BTT Recorder. At any time, you may tap the back arrow at the bottom left of the screen. That will take you out to the main menu.
-
-Go to `Recording <https://btt-recorder.readthedocs.io/en/latest/recording.html>`_ for instructions on how to record.
-
-
 From the Project Management Section (Green)
 -----
 
@@ -126,28 +92,27 @@ From the Project Management Section (Green)
 The program goes to the Source Audio step. 
 
 Choosing the Source Audio
-------
+-----
 
 1. Tap on the top green bar (SOURCE LANGUAGE:) to select the language of the Source Audio. (The Source Language audio is the language from which you will translate.)
 
-  * You can search for the desired source language by tapping the magnifying glass.
-  * The Keyboard appears. Type in the language or language code. Close the keyboard by using the down arrow icon, or back arrow icon.
-  * You can also search by swiping from the bottom of the screen up to scroll through the languages.
-  * Tap on the name of the desired Source Language.
+2. You can search for the desired source language in one of two ways:
+  
+    * By swiping from the bottom of the screen up to scroll through the languages.
+    
+    * By tapping the magnifying glass.
+     * The Keyboard appears. Type in the language or language code. 
+     * Close the keyboard by using the down arrow icon, or back arrow icon.
 
-The program goes back to the Source Audio window.
+3. Tap on the name of the desired Source Language. The program goes back to the Source Audio window.
 
-2. Tap on the bottom green bar (SELECT SOURCE LOCATION:) to load the source audio.
-
- * The file manager should open to the directory of where the audio files are located.
+4. Tap on the bottom green bar (SELECT SOURCE LOCATION:) to load the source audio. The file manager should open to the directory of where the audio files are located.
 
 **NOTE**: The audio files are configured in this way: *Language Code_Translation Type_Book Code*.tr  So, for the ULB audio of the book of Titus in Swahili the file would be named "sw_ulb_Titus.tr". 
 
 **Hint**: You may need to search in the Internal Storage for *.tr files. 
 
-3. Tap on the name of the desired Source Language audio file. 
-
-The program goes back to the Source Audio window.
+3. Tap on the name of the desired Source Language audio file. The program goes back to the Source Audio window.
 
 4. Confirm that the information in the green bar is correct. 
 
