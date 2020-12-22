@@ -20,13 +20,13 @@ Steps to Follow from the Home Screen
 
 3.	Use the + and – signs to correct the chapter or verse/chunk number.
 
-4.	Tap the microphone icon. (See more `detailed instructions <https://btt-recorder.readthedocs.io/en/latest/recording.html#detailed-instructions-for-the-recording-window>`_ for recording below.)
+4.	Tap the Microphone icon. (See more `detailed instructions <https://btt-recorder.readthedocs.io/en/latest/recording.html#detailed-instructions-for-the-recording-window>`_ for recording below.)
 
 5.	Record the verse or chunk.
 
 6.	Tap the Pause icon (2 vertical lines) when done saying the verse/chunk (the Pause icon replaces the Play icon).
 
-7.	Tap the Check icon in the bottom blue bar.
+7.	Tap the Checkmark icon in the bottom blue bar.
 
 8.	Edit and rate the recording. See `Rate the Target Language Recording <https://btt-recorder.readthedocs.io/en/latest/editing3.html#rate-the-target-language-recording>`_ 
 
@@ -58,13 +58,13 @@ Steps to Follow from the Project Management Screen
 
 6.	Use the + and – signs to correct the chapter or verse/chunk number.
 
-7.	Tap the microphone icon. (See more `detailed instructions <https://btt-recorder.readthedocs.io/en/latest/recording.html#detailed-instructions-for-the-recording-window>`_ for recording below.)
+7.	Tap the Microphone icon. (See more `detailed instructions <https://btt-recorder.readthedocs.io/en/latest/recording.html#detailed-instructions-for-the-recording-window>`_ for recording below.)
 
 8.	Record the verse or chunk.
 
-9.	Tap the pause icon when done saying the verse/chunk.
+9.	Tap the Pause icon when done saying the verse/chunk.
 
-10.	Tap the check icon in the bottom blue bar.
+10.	Tap the Checkmark icon in the bottom blue bar.
 
 11.	Edit and rate the recording. See `Rate the Target Language Recording <https://btt-recorder.readthedocs.io/en/latest/editing3.html#rate-the-target-language-recording>`_
 
@@ -91,7 +91,7 @@ In the Recording window you can see the Target Language, the Source, the Book, t
   
   * The numbers on the right display the length of the audio recording.
 
-3.	Tap the microphone icon in the blue bar to start recording.
+3.	Tap the Microphone icon in the blue bar to start recording.
 
 4.	Speak clearly and loudly.
 
