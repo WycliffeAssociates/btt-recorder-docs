@@ -1,7 +1,7 @@
 Edit Recordings in Project Management
 =============
 
-See the `"Edit Screen Icons" <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTT-Recorder_Edit_Screen_Icons_v1.4.pdf>`_ document for the list of icons and their name. :ref:`BTT-Recorder Edit Screen Icons v1.4.pdf`
+See the `"Edit Screen Icons" <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTT-Recorder_Edit_Screen_Icons_v1.4.pdf>`_ document for the list of icons and their name. :ref:`BTT-Recorder Edit Screen Icons v1.4.pdf`
 
 Find a recording
 ***** 
