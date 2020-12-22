@@ -8,7 +8,7 @@ Steps to Follow from the Home Screen
 
 1.	On the home screen, tap in the blue recording area. 
 
-2. If the Security warning shows – Tap in the box before the words ‘Do not remind again.’ so that there is a check mark in the box. Then tap the word ‘ALLOW.’ (This is the only time you will need to check and allow.)
+2. If the Security warning shows, tap in the box before the words ‘Do not remind again.’ so that there is a checkmark in the box. Then tap the word ‘ALLOW.’ (This is the only time you will need to check and allow.)
 
 3.	Check the information on the top gray bar:
 
