@@ -1,9 +1,9 @@
 Menus and Icons
 ========
 
-The 3-dot Menu on the Project Management Screen Home Screen
+The 3-dot (Options) Menu
 -----
-The 3-dot menu is only on the Project Management home screen and can be found at the far right on the top blue bar.  Choose from one of the following menu items:
+The 3-dot menu (Options menu) is only on the Project Management home screen and can be found at the far right on the top blue bar.  Choose from one of the following menu items:
 
 * Settings - Tap to view the settings of the program.
  * Add Temporary Language - Tap this to add a temporary target language code. Enter the common name of the language and then 6 letters after the code prefix on the second line. Tap 'ADD' to save the new temporary code.
