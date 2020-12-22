@@ -109,16 +109,19 @@ From the Project Management Section (Green)
 
 5. Choose a Book - Tap on a book in the Bible. Swipe up to see more book names, or use the magnifying glass to search for the book.
 
-6. Choose a Translation Type - Tap to choose from the REG:Regular, ULB:Unlocked Literal Bible or UDB:Unlocked Dynamic Bible.
+6. Choose a Translation Type - Tap to choose. 
 
-    **NOTE: You must select the same Translation Type and Mode as the source audio.**
+  * If you are using source audio, you must select the same Translation Type as the source audio.
+  
+  * If you are translating from the UDB or ULB, tap one of those choices. Otherwise, tap REG: Regular. 
+   **Note**: This choice does not apply to Open Bible Stories.
 
-7.  Choose a Mode - Tap to choose either Verse or Chunk mode. This is how the information will be divided. 
+6. Choose a Mode - Tap to choose either Verse or Chunk mode. This is how the translation will be divided. 
 
   * The ‘Verse’ mode has each recording separated like a regular Bible, one verse at a time.
   * The ‘Chunk’ mode has each recording separated according to groups of verses.
 
-    **NOTE: You must select the same Translation Type and Mode as the source audio.**
+  **NOTE: You must select the same Translation Type and Mode as the source audio if you are using source audio.**
 
 The program goes to the Source Audio step. 
 
