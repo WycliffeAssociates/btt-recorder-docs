@@ -43,4 +43,11 @@ We recommend downloading BTT Recorder directly from the Google Play Store for mo
 
 3.	The BTT Recorder app window displays. Tap **Install**.
 
+OR
+
+1.  Open Google Play Store on your Android device.
+
+2.  Type in ‘BTT Recorder’ in the search field. 
+
+3.  The BTT Recorder app window displays. Tap **Install**. 
 
