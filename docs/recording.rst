@@ -24,7 +24,7 @@ Steps to Follow from the Home Screen
 
 5.	Record the verse or chunk.
 
-6.	Tap the Pause icon (2 vertical lines) when done saying the verse/chunk. The Pause icon replaces the Play icon.
+6.	Tap the Pause icon (2 vertical lines) when done saying the verse/chunk (the Pause icon replaces the Play icon).
 
 7.	Tap the Check icon in the bottom blue bar.
 
