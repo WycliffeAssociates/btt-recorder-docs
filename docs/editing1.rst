@@ -29,7 +29,7 @@ Rate the recording:
 1. Tap on the star icon on the verse bar.
  * Tap on the left star if the recording is not the best – the star turns red.
  * Tap on the middle star if the recording is fine but could be better – the stars turn yellow.
- * Tap on the right star for a very good recording – the starts turn green.
+ * Tap on the right star for a very good recording – the starts turn green. Only one take per verse/chunk can be rated 3 stars, because this indicates the accepted take.
 2. Tap on OK to save.
 
 
