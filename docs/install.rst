@@ -18,15 +18,13 @@ This option is great if you are planning on leading an event and may not have in
 
 1.	Go to this URL: https://recorder.bibletranslationtools.org/download/.
 
-2.	Tap on the first listed release (the large blue words and letters). The list of files that can be downloaded shows.
+2.	Tap **Download APK**.
 
-3.	Tap on the bttRecorder.apk link.
-
-4.	The APK file downloads.
+3.	The APK file downloads.
 
 5.	Navigate to the download folder.
 
-6.	Tap on the bttRecorder.apk file and allow the program to install. (You may need to give permission for an APK to install on the device.)
+6.	Tap on the **bttRecorder.apk** file and allow the program to install. (You may need to give permission for an APK to install on the device.)
 
 
 Installing from Google Play Store
@@ -39,10 +37,10 @@ We recommend downloading BTT Recorder directly from the Google Play Store for mo
 *  Great for single downloads
 *  Allows you to run the application on some Chromebooks.
 
-1.	Open Google Play Store on Android device.
+1.	Go to this URL: https://recorder.bibletranslationtools.org/download/.
 
-2.	Type in ‘translationrecorder’ in the search field.
+2.	Tap **Get it on Google Play**.
 
-3.	Download and install the program.
+3.	The BTT Recorder app window displays. Tap **Install**.
 
 
