@@ -16,6 +16,13 @@ Tap on the right or left arrow to go between the audio takes for a verse. Notice
 
 Verse/Chunk Take Bar
 *****
+
+.. image:: ../images/TakeBarIcons.jpg
+    :width: 305px
+    :align: center
+    :height: 245px
+    :alt: BTT Writer for Android
+
 The items in the verse take bar are (listed top to bottom and left to right):
 
 1. The time line of the length of the audio take. The line expands left to right as the audio take plays.
