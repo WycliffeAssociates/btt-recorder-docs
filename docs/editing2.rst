@@ -70,5 +70,5 @@ Sometimes you may want to insert a missing part into the translation.
 To save the file tap the save icon. 
 *  A ‘Saving’ pop-up shows. 
 
-Once the program is done saving it will open Project Management with the most recent take listed as Take 1.
+Once the program is done saving, the Project Management verse/chunk list screen opens with a new take added at the bottom of the take list. For example, if there were 3 takes before recording the new section, the added take is take 4.
 
