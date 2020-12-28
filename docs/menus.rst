@@ -48,8 +48,8 @@ The Book and Target Language are in the title of the details with the rest of th
 * Target Language - The common name followed by the language code in parenthesis.
 * Translation Type - The choice made for the project. (Regular, UDB, or ULB)
 * Unit - Either 'chunk' or 'verse.'
-* Source Audio Language - If source audio is chosen it's language is displayed here. Tap the pencil to change the Source Audio language.
-* Source Audio Location - If source audio is chosen it's location is displayed here. Tap on the pencil to change the Source Audio location.
+* Source Audio Language - If source audio is chosen its language is displayed here. Tap the pencil to change the Source Audio language.
+* Source Audio Location - If source audio is chosen its location is displayed here. Tap on the pencil to change the Source Audio location.
 
 Tapping the Trashcan icon at the lower-left deletes your project. The other icons along the bottom right are for sharing your project (see `Sharing Your Recordings <https://btt-recorder.readthedocs.io/en/latest/sharing.html#>`_).
 
