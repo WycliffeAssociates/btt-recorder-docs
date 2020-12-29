@@ -60,23 +60,23 @@ We recommend downloading BTT Recorder directly from the Google Play Store for mo
 
 To install from Google Play Store, perform the following steps:
 
-  1.	Go to this URL: https://recorder.bibletranslationtools.org/download/.
+1.	Go to this URL: https://recorder.bibletranslationtools.org/download/.
 
-  2.	Tap **Get it on Google Play**.
+2.	Tap **Get it on Google Play**.
 
-  3.	The BTT Recorder app window displays. Tap **Install**.
+3.	The BTT Recorder app window displays. Tap **Install**.
 
-  4.	Once installed, tap **Open**.
+4.	Once installed, tap **Open**.
 
 OR
 
-  1.	Open Google Play Store on your Android device.
+1.	Open Google Play Store on your Android device.
 
-  2.	Type in ‘BTT Recorder’ in the search field.
+2.	Type in ‘BTT Recorder’ in the search field.
 
-  3.	The BTT Recorder app window displays. Tap **Install**.
+3.	The BTT Recorder app window displays. Tap **Install**.
 
-  4.	Once installed, tap **Open**.
+4.	Once installed, tap **Open**.
 
 Opening BTT Recorder
 ====================
@@ -116,7 +116,7 @@ To create a new User profile
 
 8. When you accept the recording, the initial screen (home screen) opens and you are ready to get started.
 
-**NOTE**: If you want to create another user, you can log out of the program (see Using the Options Menu)
+**NOTE**: If you want to create another user, you can log out of the program (see `Using the Options Menu <https://btt-recorder.readthedocs.io/en/latest/pmpages.html#using_the_options_menu>`_)
 
 
 Creating a New Project
@@ -149,13 +149,13 @@ The Target Language is the language into which you will translate.
 
 You can search for your desired language by one of the following methods:
 
-  *	Swiping from the bottom of the screen up to scroll through the languages. 
+*	Swiping from the bottom of the screen up to scroll through the languages. 
 
 OR
 
-  *	Tapping the **Magnifying glass**. The keyboard appears. 
+*	Tapping the **Magnifying glass**. The keyboard appears. 
 
-  *	Type in the language or language code. Close the keyboard by tapping the **down arrow icon**, or **back arrow icon**.
+*	Type in the language or language code. Close the keyboard by tapping the **down arrow icon**, or **back arrow icon**.
 
 Tap the name of the desired Target Language. The program advances to the next step.
 
@@ -179,9 +179,9 @@ Step 3: Select the Recording Mode
 
 This defines whether you will record a verse at a time or a chunk at a time. In most cases, you should record in verse mode. 
 
-  * Verse mode has each recording separated like a regular Bible, one verse at a time.
-  
-  * Chunk mode has each recording separated according to groups of verses. 
+* Verse mode has each recording separated like a regular Bible, one verse at a time.
+ 
+* Chunk mode has each recording separated according to groups of verses. 
 
 **Important**: If you are using source audio, the mode that you select should match that of the source audio.
 
@@ -199,9 +199,11 @@ Tap the top green bar (**SELECT SOURCE LANGUAGE**) to select the language. The S
 
 You can search for the desired source language by: 
 
-  *	Swiping from the bottom of the screen up to scroll through the languages.
+*	Swiping from the bottom of the screen up to scroll through the languages.
+
 OR
-  *	Tapping the  **magnifying glass** at the top right of the screen. The keyboard appears. Type in the language or language code.
+
+*	Tapping the  **magnifying glass** at the top right of the screen. The keyboard appears. Type in the language or language code.
   
 You can close the keyboard by tapping your tablet’s **down arrow icon** or **back arrow icon**.
 
