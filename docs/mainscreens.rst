@@ -57,7 +57,7 @@ The Book and Target Language are in the title of the Information popup. The wind
 * Source Audio Location - If source audio is chosen its location is displayed here. You can tap the pencil to change the Source Audio location. ``*``
 ``*`` This opens the screen for selecting the source audio (see Select the Source Audio).
 
-Tapping the Trashcan icon at the lower-left deletes your project. The other icons along the bottom right are for sharing your project (see `Sharing Your Project <https://btt-recorder.readthedocs.io/en/latest/sharing.html>`_).
+Tapping the Trashcan icon at the lower-left deletes your project. The other icons along the bottom right are for sharing your project (see `Sharing Your Recordings <https://btt-recorder.readthedocs.io/en/latest/sharing.html>`_).
 
 Tap anywhere outside of the Information popup to close it.
 
