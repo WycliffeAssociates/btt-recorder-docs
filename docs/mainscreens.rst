@@ -11,7 +11,8 @@ There are four main screens in BTT Recorder:
 These four screens are described below.
 
 Home page
---------------
+=============
+
 The first time you open BTT Recorder, after you create a user the Home page is shown. The right side of the page is blue with a Microphone icon, and the left side of the page is green with a List icon.
 
 Right side (blue with Microphone icon):
@@ -39,7 +40,8 @@ Left side (green with List icon)
 Tap anywhere in this area to navigate to Project Management page.
 
 Project Management pages
-------------------------
+========================
+
 The Project Management page that first opens from the Home page displays a list of existing projects, if any. It also contains a 3-dot icon that enables you to access an Options menu.
 
 Project list
@@ -179,7 +181,7 @@ The Settings window is mostly for information purposes. You can invoke the Setti
 Tap the back arrow at the top left of the Settings window to return to the Project Management screen.
 
 Recording screen
-----------------
+====================
 
 You can navigate to the Recording screen by tapping the Microphone icon on either the Home screen or Project list, the Chapter list, or the Verse/Chunk list of the Project Management screen.
 
@@ -199,7 +201,7 @@ The Recording screen contains the following elements:
 To return to the screen where you opened the Recording screen, tap the device’s Back button.
 
 Edit screen
-------------
+==================
 
 A take is a recording of a verse or chunk; a verse/chunk can have multiple takes. You can navigate to the Edit screen for a take by tapping the Waveform icon on the Take bar of the Verse or Chunk list.
 
