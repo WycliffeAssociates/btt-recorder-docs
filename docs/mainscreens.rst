@@ -19,10 +19,19 @@ Right side (blue with Microphone icon):
 If no project is shown
 ++++++++++++++++++++++++++++
 
+.. image:: ../images/BlueNoProject.png
+    :align: center
+    :alt: No project in blue area
+
 Tap anywhere in this area to start a new project (see `Create a New Project <https://btt-recorder.readthedocs.io/en/latest/getstarted.html#create_a_new_project>`_).
 
 If project is listed
 ++++++++++++++++++++
+
+.. image:: ../images/BlueProject.png
+    :align: center
+    :alt: Project in blue area
+
 Tap anywhere in this area to navigate to the `Recording Screen`_ for that project.
 
 Left side (green with List icon)
@@ -36,6 +45,7 @@ The Project Management page that first opens from the Home page displays a list 
 Project list
 ^^^^^^^^^^^^^^^
 If you have existing projects, this page displays a list of them. You can also tap anywhere on a project bar to invoke the chapter list for that chapter (see `Chapter list`_), or you can tap the **Plus icon** to start creating a new project (see `Create a New Project <https://btt-recorder.readthedocs.io/en/latest/getstarted.html#create_a_new_project>`_).
+
 Each project in the list contains 3 columns that describe the project and 2 icons that you can tap.
 
 Descriptive columns: 
