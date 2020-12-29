@@ -3,17 +3,17 @@ Getting Started with BTT Recorder
 
 There are 4 tasks to perform in order to start using BTT Recorder:
 
-* Install the program.
+* `Install BTT Recorder`_
 
-* If BTT Recorder is not open, open the program.
+* `Open BTT Recorder`_
 
-* If you have not used the program before, create a new user.
+* `Create a new user`_ (if you have not used the program before).
 
-* If there are no existing projects, create a project.
+* `Create a new project`_ (if there are no existing projects).
 
 These tasks are described below.
 
-Installing BTT Recorder
+Install BTT Recorder
 =======================
 
 There are two places to download the program:
@@ -78,12 +78,12 @@ OR
 
 4.	Once installed, tap **Open**.
 
-Opening BTT Recorder
+Open BTT Recorder
 ====================
 
 If BTT Recorder does not open after installation, or if you have closed it and need to reopen it, just tap the **BTT Recorder icon** on the device screen. This icon may not be on the main screen; you may need to scroll to a different screen to find it, or open your apps. You can then tap and drag it to the main screen if desired.
 
-Creating a New User
+Create a New User
 =======================
 
 When BTT Recorder first opens, it displays the Available Users. If you have already created a user, tap the card that shows your identicon.
@@ -119,7 +119,7 @@ To create a new User profile
 **NOTE**: If you want to create another user, you can log out of the program (see `Using the Options Menu <https://btt-recorder.readthedocs.io/en/latest/pmpages.html#using_the_options_menu>`_)
 
 
-Creating a New Project
+Create a New Project
 =====================
 
 If you have no existing projects, you will need to create a project before you can work in BTT Recorder to perform oral translation.
