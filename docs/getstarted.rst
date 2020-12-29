@@ -228,4 +228,4 @@ The program returns to the Source Audio window and displays the location of the 
 
 Confirm that the information in the green bar is correct, and then tap **CONTINUE** at the bottom right of the screen. 
 
-The Recording screen opens. You are now ready to record. Go to Recording screen for instructions on how to record. 
+The Recording screen opens. You are now ready to record. Go to `Recording screen <https://btt-recorder.readthedocs.io/en/latest/recordingscreen.html>`_ for instructions on how to record. 
