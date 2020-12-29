@@ -2,10 +2,12 @@ Main Screens of BTT Recorder
 ----------------------------------
 
 There are four main screens in BTT Recorder:
+
 1.	`Home page`_
 2.	`Project Management pages`_
 3.	`Recording screen`_
 4.	`Edit screen`_
+
 These four screens are described below.
 
 Home page
