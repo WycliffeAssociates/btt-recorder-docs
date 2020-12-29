@@ -195,6 +195,8 @@ The edit screen enables you to edit the take of a verse or chunk in the followin
 *	Place verse markers
 *	Rate the recording
 
+See the `"Edit Screen Icons" <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTT-Recorder_Edit_Screen_Icons_v1.4.pdf>`_ document for a list of icons and their names.
+
 Cutting
 ^^^^^^^^^^
 
