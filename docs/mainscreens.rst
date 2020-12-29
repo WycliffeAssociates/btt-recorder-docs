@@ -118,6 +118,11 @@ A take is one recording of a verse or chunk. Each verse/chunk may have multiple 
 
 The components of the Take bar are:
 
+.. image:: ../images/TakeBarIcons.jpg
+    :align: center
+    :alt: Take Bar Icons
+
+
 1.	The timeline of the length of the audio take. The line expands left to right as the audio take plays. The time at the right shows the length of the recording; the time at the left increments as the recording plays.
 2.	Garbage can icon - Delete a selected take. The numbering of the takes changes to reflect the lower number of takes available.
 3.	Waveform icon - Invoke the Edit screen to edit the take (see Edit screen).
