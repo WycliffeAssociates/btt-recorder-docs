@@ -242,13 +242,13 @@ Verse markers are available only when recordings are done in chunk mode. To inse
   *	Notice the yellow playback bar on the bottom of the window.
   *	The top gray bar has the number of markers left to put into place.
   * A verse marker is at the beginning of the recording.
-3	Locate the end of the verse:
+3.	Locate the end of the verse:
   * Tap the **Play icon** to play back the recording.
   * Tap the **Pause icon** to stop the playback when it is at a verse ending.
   * Other ways of finding the correct spot in the recording:
-    *	Use the press-hold-drag action to move the playback forward or backward until the verse division is on the blue line.
+      *	Use the press-hold-drag action to move the playback forward or backward until the verse division is on the blue line.
     OR
-    * Tap in the bottom waveform.
+      * Tap in the bottom waveform.
 4.	To add the verse marker, tap the **white flag** on the yellow bar at the bottom right of the screen.
 5.	If there is another verse to mark: Continue to listen to the playback for the next ending of a verse.
 6. If you need to move a verse marker, you can use the press-hold-drag action to move a verse marker flag forward or backward on the waveform.
@@ -260,7 +260,7 @@ Verse markers are available only when recordings are done in chunk mode. To inse
 Rating
 ^^^^^^^^
 
-To indicate the quality of the recording, you can add a star rating to it. The star ratings are used by the program to determine which take of a verse or chunk to use when compiling an entire chapter recording (see `Creating a Chapter Recording <https://btt-recorder.readthedocs.io/en/latest/compiling`_).
+To indicate the quality of the recording, you can add a star rating to it. The star ratings are used by the program to determine which take of a verse or chunk to use when compiling an entire chapter recording (see `Creating a Chapter Recording <https://btt-recorder.readthedocs.io/en/latest/compiling`>_).
 
 1.	Tap the Star icon (either on the verse/chunk bar or in the top gray bar of the edit window). The ‘Rate this take’ window opens.
 2. Decide on a rating:
