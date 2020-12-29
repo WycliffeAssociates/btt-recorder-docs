@@ -70,6 +70,7 @@ Chapter list
 On the Project list, tap anywhere on the project bar to invoke the Chapter list. 
 
 On the Chapter list, you can: 
+
 *	Tap the left arrow at the top left of the window to return to the Project list.
 *	Tap in the chapter bar to invoke the verse or chunk list.
 
@@ -113,7 +114,9 @@ Tap the right arrow to display the Take bar for the verse or chunk
 
 Take bar
 ++++++++++
-A take is one recording of a verse or chunk. Each verse/chunk may have multiple recordings. There is not a separate page to show the takes. Instead, they are displayed in a bar under the verse or chunk, and you can navigate between them by using the left and right arrows. The components of the Take bar are:
+A take is one recording of a verse or chunk. Each verse/chunk may have multiple takes. There is not a separate page to show the takes. Instead, they are displayed in a bar under the verse or chunk, and you can navigate between them by using the left and right arrows. 
+
+The components of the Take bar are:
 
 1.	The timeline of the length of the audio take. The line expands left to right as the audio take plays. The time at the right shows the length of the recording; the time at the left increments as the recording plays.
 2.	Garbage can icon - Delete a selected take. The numbering of the takes changes to reflect the lower number of takes available.
@@ -262,7 +265,7 @@ Verse markers are available only when recordings are done in chunk mode. To inse
 Rating
 ^^^^^^^^
 
-To indicate the quality of the recording, you can add a star rating to it. The star ratings are used by the program to determine which take of a verse or chunk to use when compiling an entire chapter recording (see `Creating a Chapter Recording <https://btt-recorder.readthedocs.io/en/latest/compiling`>_).
+To indicate the quality of the recording, you can add a star rating to it. The star ratings are used by the program to determine which take of a verse or chunk to use when compiling an entire chapter recording (see `Creating a Chapter Recording <https://btt-recorder.readthedocs.io/en/latest/compiling.html`_).
 
 1.	Tap the Star icon (either on the verse/chunk bar or in the top gray bar of the edit window). The ‘Rate this take’ window opens.
 2. Decide on a rating:
