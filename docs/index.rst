@@ -16,19 +16,7 @@ Contents:
 
    intro
    getstarted
-   newinstall
-   open
-   newcreateuser
-   newstartproject
    mainscreens
-   homepage
-   pmpages
-   recordingscreen
-   editscreen
-   cutting
-   inserting
-   versemarkers
-   rating
    compiling
    sharing
    appendices
