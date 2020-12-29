@@ -81,7 +81,13 @@ OR
 Open BTT Recorder
 ====================
 
-If BTT Recorder does not open after installation, or if you have closed it and need to reopen it, just tap the **BTT Recorder icon** on the device screen. This icon may not be on the main screen; you may need to scroll to a different screen to find it, or open your apps. You can then tap and drag it to the main screen if desired.
+If BTT Recorder does not open after installation, or if you have closed it and need to reopen it, just tap the **BTT Recorder icon** on the device screen. 
+
+.. image:: ../images/BTTRecorderLogo.gif
+    :align: center
+    :alt: BTT Recorder Icon
+
+This icon may not be on the main screen; you may need to scroll to a different screen to find it, or open your apps. You can then tap and drag it to the main screen if desired.
 
 Create a New User
 =======================
@@ -129,6 +135,10 @@ You can start creating a new project by one of the following methods:
 *	If no project is shown in the right blue section of the Home screen, by tapping the right area (recording section) on the Home screen
 
 *	From the Project Management screen, by tapping the **New Project button** (seen only on a new install) or the **Plus icon**. (You can get to the Project Management screen from the Home screen by tapping in the left green area.)
+
+.. image:: ../images/NewProject.png
+    :align: center
+    :alt: New Project from Project Management Screen
 
 Once you have initiated the project, the steps to define it are the same:
 
