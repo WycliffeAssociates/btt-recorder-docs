@@ -37,13 +37,13 @@ To install BTT Recorder from the Bible Translation Tools website, perform the fo
 
 1.	Go to this URL: https://recorder.bibletranslationtools.org/download/.
 
-2.	Tap Download APK.
+2.	Tap **Download APK**.
 
 3.	The APK file downloads.
 
 4.	Navigate to the download folder.
 
-5.	Tap the bttRecorder.apk file and allow the program to install. (You may need to give permission for an APK to install on the device.)
+5.	Tap the **bttRecorder.apk** file and allow the program to install. (You may need to give permission for an APK to install on the device.)
 
 Installing from the Google Play Store
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -62,11 +62,11 @@ To install from Google Play Store, perform the following steps:
 
   1.	Go to this URL: https://recorder.bibletranslationtools.org/download/.
 
-  2.	Tap Get it on Google Play.
+  2.	Tap **Get it on Google Play**.
 
-  3.	The BTT Recorder app window displays. Tap Install.
+  3.	The BTT Recorder app window displays. Tap **Install**.
 
-  4.	Once installed, tap Open.
+  4.	Once installed, tap **Open**.
 
 OR
 
@@ -74,21 +74,21 @@ OR
 
   2.	Type in ‘BTT Recorder’ in the search field.
 
-  3.	The BTT Recorder app window displays. Tap Install.
+  3.	The BTT Recorder app window displays. Tap **Install**.
 
-  4.	Once installed, tap Open.
+  4.	Once installed, tap **Open**.
 
 Opening BTT Recorder
 ====================
 
-If BTT Recorder does not open after installation, or if you have closed it and need to reopen it, just tap the BTT Recorder icon on the device screen. This icon may not be on the main screen; you may need to scroll to a different screen to find it, or open your apps. You can then tap and drag it to the main screen if desired.
+If BTT Recorder does not open after installation, or if you have closed it and need to reopen it, just tap the **BTT Recorder icon** on the device screen. This icon may not be on the main screen; you may need to scroll to a different screen to find it, or open your apps. You can then tap and drag it to the main screen if desired.
 
 Creating a New User
 =======================
 
 When BTT Recorder first opens, it displays the Available Users. If you have already created a user, tap the card that shows your identicon.
 
-To create a new User profile, tap the New User card.
+To create a new User profile, tap the **New User** card.
  
 Read, or have someone read to you, the three Terms of Use.
 
@@ -96,11 +96,11 @@ Read, or have someone read to you, the three Terms of Use.
 
   Read the content. You may need to scroll to see the entire contents of the ‘Translation Guidelines’.
 
-* Tap Close at the bottom of each of the windows. 
+* Tap **Close** at the bottom of each of the windows. 
 
-Tap I AGREE at the bottom of the window if you agree with all three statements.
+Tap **I AGREE** at the bottom of the window if you agree with all three statements.
 
-Tap the Record icon (microphone) and record your name or pseudonym. A pseudonym is a false name that you can use if you are concerned that being associated with Bible translation will compromise your safety or that of your family.
+Tap the **Microphone icon** and record your name or pseudonym. A pseudonym is a false name that you can use if you are concerned that being associated with Bible translation will compromise your safety or that of your family.
 
 Record your name while the red circle is going around – 3 seconds.
 
@@ -108,9 +108,9 @@ Note the image in the center of the window. This is your identicon. Each user ha
 
 Press the play button to listen to the recording.
 
-*	If you can you hear your voice and understand your words, then tap Yes.
+*	If you can you hear your voice and understand your words, then tap **Yes**.
 
-*	If your voice is too soft or you cannot understand your words, then tap Redo to make another recording.
+*	If your voice is too soft or you cannot understand your words, then tap **Redo** to make another recording.
 
 When you accept the recording, the initial screen (home screen) opens and you are ready to get started.
 
@@ -126,7 +126,7 @@ You can start creating a new project by one of the following methods:
 
 *	If no project is shown in the right blue section of the Home screen, by tapping the right area (recording section) on the Home screen
 
-*	From the Project Management screen, by tapping the New Project button (seen only on a new install) or the Plus icon. (You can get to the Project Management screen from the Home screen by tapping in the left green area.)
+*	From the Project Management screen, by tapping the **New Project button** (seen only on a new install) or the **Plus icon**. (You can get to the Project Management screen from the Home screen by tapping in the left green area.)
 
 Once you have initiated the project, the steps to define it are the same:
 
@@ -138,7 +138,7 @@ Once you have initiated the project, the steps to define it are the same:
 
 4.	Optionally select a source audio
 
-**NOTE**: During these next steps, you may tap the back arrow in the top blue bar to go back to the previous screen at any time. You may want to go to the previous screen to make a different choice.
+**NOTE**: During these next steps, you may tap the **back arrow** in the top blue bar to go back to the previous screen at any time. You may want to go to the previous screen to make a different choice.
 
 Step 1: Select a Target Language
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -151,9 +151,9 @@ You can search for your desired language by one of the following methods:
 
 OR
 
-  *	Tapping the magnifying glass. The keyboard appears. 
+  *	Tapping the **Magnifying glass**. The keyboard appears. 
 
-  *	Type in the language or language code. Close the keyboard by tapping the down arrow icon, or back arrow icon.
+  *	Type in the language or language code. Close the keyboard by tapping the **down arrow icon**, or **back arrow icon**.
 
 Tap the name of the desired Target Language. The program advances to the next step.
 
@@ -162,11 +162,11 @@ Step 2: Select a Project Type
 
 The Project type defines what you will be translating from and consists of:
 
-a)	What kind of project? Tap to select from the choices of Bible: Old Testament, Bible: New Testament, or Open Bible Stories.
+a)	What kind of project? Tap to select from the choices of **Bible: Old Testament**, **Bible: New Testament**, or **Open Bible Stories**.
 
 b)	Which book or story? Tap a book in the Bible or a Bible story to translate. Swipe up to see more book or story names.
 
-c)	If you are translating the Bible, which translation type? If you are translating from the UDB or ULB, tap one of those choices. Otherwise, tap REG: Regular.
+c)	If you are translating the Bible, which translation type? If you are translating from the UDB or ULB, tap one of those choices. Otherwise, tap **REG: Regular**.
 
     **Note**: This choice does not apply to Open Bible Stories.
 
@@ -184,6 +184,7 @@ This defines whether you will record a verse at a time or a chunk at a time. In 
 **Important**: If you are using source audio, the mode that you select should match that of the source audio.
 
 Step 4: Select the Source Audio (optional)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 If you do not have source audio available, tap **SKIP** in the lower right corner of the screen.
 
@@ -198,9 +199,9 @@ You can search for the desired source language by:
 
   *	Swiping from the bottom of the screen up to scroll through the languages.
 OR
-  *	Tapping the  magnifying glass at the top right of the screen. The keyboard appears. Type in the language or language code.
+  *	Tapping the  **magnifying glass** at the top right of the screen. The keyboard appears. Type in the language or language code.
   
-You can close the keyboard by tapping your tablet’s down arrow icon or back arrow icon.
+You can close the keyboard by tapping your tablet’s **down arrow icon** or **back arrow icon**.
 
 Tap the name of the Source Language. This must match the language of the source audio file. The program goes back to the Source Audio window.
 
@@ -209,13 +210,14 @@ Select the source audio file
 
 **NOTE**: The audio files are named as follows: [*Language*]_[*type*]_[*3-letterbookcode*].tr. So, for the ULB audio of the book of Titus in English the file would be named en_ulb_tit.tr.
 
-Tap the bottom green bar (SELECT SOURCE LOCATION) to load the source audio. 
+Tap the bottom green bar (**SELECT SOURCE LOCATION**) to load the source audio. 
 
 *	The file manager should open to the directory that is set as the default location for source audio. 
 
 *	If your source audio is not in that directory, you can navigate to the folder where the audio files are located.
 
   **HINT**: You may need to search in the Internal Storage for *.tr files.
+
 Tap the desired source audio file. 
 
 The program returns to the Source Audio window and displays the location of the source audio file on the lower green bar. 
