@@ -23,7 +23,7 @@ Tap anywhere in this area to start a new project (see `Create a New Project <htt
 
 If project is listed
 ++++++++++++++++++++
-Tap anywhere in this area to navigate to the Recording Screen for that project.
+Tap anywhere in this area to navigate to the `Recording Screen`_ for that project.
 
 Left side (green with List icon)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
