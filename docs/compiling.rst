@@ -1,4 +1,4 @@
-Creating Chapter Recording
+Creating a Chapter Recording
 ============================
 
 After the verse or chunk recordings have been created for a chapter it is then possible to make a recording into a complete chapter. The translator can listen to the entire chapter and make additional edits if necessary.
