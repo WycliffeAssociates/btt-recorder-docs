@@ -88,31 +88,33 @@ Creating a New User
 
 When BTT Recorder first opens, it displays the Available Users. If you have already created a user, tap the card that shows your identicon.
 
-To create a new User profile, tap the **New User** card.
+To create a new User profile
+
+1. Tap the **New User** card.
  
-Read, or have someone read to you, the three Terms of Use.
+2. Read, or have someone read to you, the three Terms of Use.
 
-* Tap each of the green bars.
+   * Tap each of the green bars.
 
-  Read the content. You may need to scroll to see the entire contents of the ‘Translation Guidelines’.
+     Read the content. You may need to scroll to see the entire contents of the ‘Translation Guidelines’.
 
-* Tap **Close** at the bottom of each of the windows. 
+   * Tap **Close** at the bottom of each of the windows. 
 
-Tap **I AGREE** at the bottom of the window if you agree with all three statements.
+3. Tap **I AGREE** at the bottom of the window if you agree with all three statements.
 
-Tap the **Microphone icon** and record your name or pseudonym. A pseudonym is a false name that you can use if you are concerned that being associated with Bible translation will compromise your safety or that of your family.
+4. Tap the **Microphone icon** and record your name or pseudonym. A pseudonym is a false name that you can use if you are concerned that being associated with Bible translation will compromise your safety or that of your family.
 
-Record your name while the red circle is going around – 3 seconds.
+5. Record your name while the red circle is going around – 3 seconds.
 
-Note the image in the center of the window. This is your identicon. Each user has a unique identicon. 
+6. Note the image in the center of the window. This is your identicon. Each user has a unique identicon. If you need to log into BTT Recorder again, you can tap the card with this identicon on the Available Users page. 
 
-Press the play button to listen to the recording.
+7. Press the play button to listen to the recording.
 
-*	If you can you hear your voice and understand your words, then tap **Yes**.
+  *	If you can you hear your voice and understand your words, then tap **Yes**.
 
-*	If your voice is too soft or you cannot understand your words, then tap **Redo** to make another recording.
+  *	If your voice is too soft or you cannot understand your words, then tap **Redo** to make another recording.
 
-When you accept the recording, the initial screen (home screen) opens and you are ready to get started.
+8. When you accept the recording, the initial screen (home screen) opens and you are ready to get started.
 
 **NOTE**: If you want to create another user, you can log out of the program (see Using the Options Menu)
 
