@@ -265,7 +265,7 @@ Verse markers are available only when recordings are done in chunk mode. To inse
 Rating
 ^^^^^^^^
 
-To indicate the quality of the recording, you can add a star rating to it. The star ratings are used by the program to determine which take of a verse or chunk to use when compiling an entire chapter recording (see `Creating a Chapter Recording <https://btt-recorder.readthedocs.io/en/latest/compiling.html`_).
+To indicate the quality of the recording, you can add a star rating to it. The star ratings are used by the program to determine which take of a verse or chunk to use when compiling an entire chapter recording (see `Creating a Chapter Recording <https://btt-recorder.readthedocs.io/en/latest/compiling.html>`_).
 
 1.	Tap the Star icon (either on the verse/chunk bar or in the top gray bar of the edit window). The ‘Rate this take’ window opens.
 2. Decide on a rating:
