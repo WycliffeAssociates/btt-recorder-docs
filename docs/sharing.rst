@@ -103,15 +103,19 @@ To upload to the Citrix server, you perform the following steps:
 
 **Find the folder for the files on the Citrix server**
 
-1.	Tap the folder for target language of your project. The folders are shown under the region and/or country of the language. You can first tap the Magnifying glass icon to search for the target language if desired. For example, if the target language of your project is Chickasaw, tap the Magnifying glass icon and type “Chickasaw” in the search box, and then tap Sea 
+1.	Tap the folder for target language of your project. The folders are shown under the region and/or country of the language. You can first tap the **Magnifying glass icon** to search for the target language if desired. For example, if the target language of your project is Chickasaw, tap the Magnifying glass icon and type “Chickasaw” in the search box, and then tap Sea 
 
 2.	The search results are returned. It shows that the Chickasaw folder is found in the Americas/United States folder. Tap the Chickasaw folder to open it.
     **Hint**: If you will be using that folder frequently, you can tap the star next to it to mark it as one of your favorites.
  
-3)	The Chickasaw folder is empty, so you need to create a folder structure to store the files. Instructions for that in the next section entitled "Create the folder structure". However, if you are in a folder that has the folder structure already set up, tap the Oral folder in the language that you are recording. The example below shows the structure of the Tamil language folder.         
+3)	The Chickasaw folder is empty, so you need to create a folder structure to store the files. Instructions for that in the next section entitled "Create the folder structure". However, if you are in a folder that has the folder structure already set up, tap the **Oral folder** in the language that you are recording. The example below shows the structure of the Tamil language folder.         
              
 4)	Tap the appropriate testament folder – OT for an Old Testament book, or NT for a New Testament book.
  
+.. image:: ../images/Citrix.png
+    :align: center
+    :alt: Citrix server
+
 
 **Create the folder structure**
 
@@ -137,7 +141,7 @@ If the folder structure for the language does not exist, you need to create it.
 
 9.	Create Chapter folders – one for each chapter in the book. To create a new chapter folder:    
 
-    * In the Bible book folder, tap the Plus icon  .
+    * In the Bible book folder, tap the **Plus icon**.
 
     *	Tap **Create Folder** in the menu.
 
