@@ -117,5 +117,5 @@ Manuals
 
 `What to Show the Oral Translator on the Tablet <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/What_to_Show_the_Oral_Translator_on_the_Tablet.pdf>`_
 
-`Version 1.4 User Manual <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/docs/BTT_Recorder_Manual_1.4.pdf>`_ - a manual with screen shots - 
+`Version 1.4 User Manual <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/docs/BTT_Recorder_Manual_1.4.pdf>`_ - a manual with screen shots - 
 
