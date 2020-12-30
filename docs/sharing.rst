@@ -36,18 +36,18 @@ This action exports the project as a tr file to your tablet. This file can be gi
 
 To create a tr file on your tablet, perform the following steps:
 
-1.	On the Information window, tap the Source Audio icon   to save the tr file to the tablet’s file system.
+1.	On the Information window, tap the **Source Audio icon** (listening ear) to save the tr file to the tablet’s file system.
  
 2.	A file manager window opens to enable you to navigate to and open the folder where you want to save the tr file. You can save it anywhere in your internal storage or to your SD card. You can also rename the file before saving it if desired.
 
-3.	Tap SAVE to save the file. If you save it to the SD Card, it can be removed to share the file with others. 
+3.	Tap **SAVE** to save the file. If you save it to the SD Card, it can be removed to share the file with others. 
  
 Export to your tablet as a zip file
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This action packages the individual wav files into a single zip file that you can save to your tablet. This file can be given to others or can be imported into Orature software. 
 
-1.	On the Information window, tap either the Save icon   or the Folder icon   to save the project file to the tablet’s file system.
+1.	On the Information window, tap either the **Save icon** or the **Folder icon** to save the project file to the tablet’s file system.
 
 2.	Wait while the files are processed. The program compiles a zip file containing the individual wav files for each chapter.
  
@@ -55,14 +55,14 @@ This action packages the individual wav files into a single zip file that you ca
  
     **NOTE**: The SD Card may need to be “activated.” Follow the directions provided by the tablet on activating the SD Card so files can be saved there.
 
-4.	Tap SAVE to save the file. If you save it to the SD Card, it can be removed to share the file with others.
+4.	Tap **SAVE** to save the file. If you save it to the SD Card, it can be removed to share the file with others.
 
 Export the file to another application
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To export the file and have another application immediately use it, such as in an email as an attachment, perform the following steps:
 
-1.	On the Information window, tap the Share icon   to send the project file to another of the tablet’s applications.
+1.	On the Information window, tap the **Share icon** (3 dots with lines between) to send the project file to another of the tablet’s applications.
 
 2.	Wait while the files are processed. The program compiles a zip file containing the individual wav files for each chapter.
  
@@ -79,8 +79,8 @@ Upload to Translation Exchange
 
 Translation Exchange is a storage and checking program for audio files. If you have access to a Translation Exchange server, you can upload to it directly by completing the following steps:
 
-1.	On the Information window, tap the Cloud icon   to upload the project file to the Translation Exchange server.
-    **NOTE**: This is the server defined in the Upload Server setting. See Settings Menu.
+1.	On the Information window, tap the **Upload icon** (cloud with an up arrow) to upload the project file to the Translation Exchange server.
+    **NOTE**: This is the server defined in the Upload Server setting. See `Settings window <https://btt-recorder.readthedocs.io/en/latest/mainscreens.html#settings-window>`_.
  
 2.	The program generates and uploads the file to Translation Exchange.
  
