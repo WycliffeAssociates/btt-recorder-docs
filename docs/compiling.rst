@@ -19,7 +19,7 @@ The chapters are listed – each one on a separate bar.
  * The gray stack of papers means that there are missing recordings.
 
 2. Tap on a bar to open a chapter. Notice full blue circle. 
-3. Check to make sure there is only one recording for each chunk or verse.
+3. Check to make sure there is one approved recording (green check mark) for each chunk or verse.
 
 **NOTE**: if there is no number next to the microphone, there is only 1 take per verse/chunk.
 
