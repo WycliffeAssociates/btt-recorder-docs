@@ -186,13 +186,21 @@ Tap the back arrow at the top left of the Settings window to return to the Proje
 Recording screen
 ====================
 
+The recording screen enables you to record a take of a single verse or chunk.
+
+Opening the Recording Screen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 You can navigate to the Recording screen by tapping the Microphone icon on either the Home screen (if there is a project listed) or on any of the list views of the Project Management screen.
 
-The recording screen enables you to record a take of a single verse or chunk. The Recording screen is initially set to a certain verse/chunk, depending on how you opened the Recording Screen:
+The Recording screen is initially set to a certain verse/chunk, depending on how you opened the Recording Screen:
 
 *	If you opened the Recording screen from the Home screen or from the Project list of the Project Management screen, the Recording screen initially shows Chapter 1 and verse/chunk 1 of the project. 
 *	If you opened it from the Chapter list of the Project Management screen, the Recording screen is initially set to verse/chunk 1 of the chapter whose microphone you clicked. 
 *	If you opened it from the Verse/chunk list of the Project Management screen, the recording screen shows that verse or chunk. **Note**: This is the preferred method, because the Verse/chunk list shows you whether that item has been recorded already, so that you don’t unintentionally duplicate your work.
+
+Components of the Recording Screen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The Recording screen contains the following elements:
 
@@ -205,12 +213,24 @@ The Recording screen contains the following elements:
   If you do not see the Play icon, you do not have source audio or have not defined it correctly (for example, you may not have created your project with the same verse or chunk mode as the source audio.)
 •	Microphone icon to begin recording translation (changes to Pause icon to stop/pause recording)
 
-To return to the screen where you opened the Recording screen, tap the device’s Back button.
+The Recording Process
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+You can listen to the source audio as needed to consume the ideas. You may need to replay the source audio more than once before you are ready to record the translation. Be sure to record only one chunk or verse at a time.
+
+To record the oral translation, perform the following steps:
+
+1.	When you are ready to record, tap the **Microphone icon**. 
+2.	To pause or stop recording, tap the **Pause icon**. 
+3.	If you want to record more, tap the **Microphone icon** to resume. 
+4.	When you are finishedTap the **Checkmark icon** , or if you don’t want to save that recording, tap the device’s **Back button** to return to the screen where you opened the Recording screen. 
+5.	If you tapped the Checkmark icon, the program advances to the Edit screen, where you can edit the recording or tap the **Save icon** to save it.
+
 
 Edit screen
 ==================
 
-A take is a recording of a verse or chunk; a verse/chunk can have multiple takes. You can navigate to the Edit screen for a take by tapping the Waveform icon on the Take bar of the Verse or Chunk list.
+A take is a recording of a verse or chunk; a verse/chunk can have multiple takes. Immediately after recording a take, the program automatically advances to the Edit screen. You can also navigate to the Edit screen for a completed take by tapping the Waveform icon on the `Take bar`_ of the Verse or Chunk list. 
 
 The edit screen enables you to edit the take of a verse or chunk in the following ways: 
 
