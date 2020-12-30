@@ -15,8 +15,8 @@ Compile a Recording for the Chapter
 The chapters are listed – each one on a separate bar. 
 
 **NOTE**:
- * The black stack of papers means that all verses/chunks have recordings.
- * The gray stack of papers means that there are missing recordings.
+ * The black Compile icon (stack of papers) means that all verses/chunks have recordings.
+ * The gray Compile icon (stack of papers) means that there are missing recordings.
 
 2. Tap on a bar to open a chapter. Notice full blue circle. 
 3. Check to make sure there is one approved recording (green check mark) for each chunk or verse.
@@ -75,10 +75,10 @@ NOTE: Each time a chapter is stitched – the new recording replaces the old cha
 
 When all the chapters are finalized (stitched) the book is done.
 
-Chapters with gray colored stack of paper
+Chapters with gray Compile icon (stack of paper)
 ------
 
-1. Tap on the chapter bar with the gray colored stack of paper. Did you notice the partial blue circle? That indicates an incomplete chapter.
+1. Tap on the chapter bar with the gray Compile icon (stack of paper). Did you notice the partial blue circle? That indicates an incomplete chapter.
 2. Find the verse or chunk that does not have a recording. 
 
 **HINTS**: There is no arrow next to the microphone. The verse/chunk number is in gray.
