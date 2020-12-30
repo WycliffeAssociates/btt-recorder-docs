@@ -67,7 +67,7 @@ The Book and Target Language are in the title of the Information popup. The wind
 * Unit - Either Chunk or Verse.
 * Source Audio Language - If source audio is chosen its language is displayed here. You can tap the pencil to change the Source Audio language. ``*`` 
 * Source Audio Location - If source audio is chosen its location is displayed here. You can tap the pencil to change the Source Audio location. ``*``
-``*`` This opens the screen for selecting the source audio (see Select the Source Audio).
+``*`` This opens the screen for selecting the source audio (see `Select the Source Audio <https://btt-recorder.readthedocs.io/en/latest/getstarted.html#step-4-select-the-source-audio-optional>`_).
 
 Tapping the Trashcan icon at the lower-left deletes your project. The other icons along the bottom right are for sharing your project (see `Sharing Your Recordings <https://btt-recorder.readthedocs.io/en/latest/sharing.html>`_).
 
@@ -118,7 +118,7 @@ Descriptive columns
 
 Microphone icon
 +++++++++++++++++
-Tap the Microphone icon to record a new take of the verse or chunk. See Recording screen.
+Tap the Microphone icon to record a new take of the verse or chunk. See `Recording screen`_.
 
 Right arrow
 +++++++++++++
@@ -137,7 +137,7 @@ The components of the Take bar are:
 
 1.	The timeline of the length of the audio take. The line expands left to right as the audio take plays. The time at the right shows the length of the recording; the time at the left increments as the recording plays.
 2.	Garbage can icon - Delete a selected take. The numbering of the takes changes to reflect the lower number of takes available.
-3.	Waveform icon - Invoke the Edit screen to edit the take (see Edit screen).
+3.	Waveform icon - Invoke the Edit screen to edit the take (see `Edit screen`_).
 4.	Play icon - Play the recording. Tap the Pause icon (replaces the Play icon) to stop playing the recording.
 5.	Checkmark – Tap to turn green, or if green, tap to turn black. The green color means that the take is approved to use when compiling a chapter recording. When the take is rated 3 stars, this checkmark is green, or you can just tap it to turn it green. Only one take per verse or chunk can be marked with a green checkmark.
 6.	Star icon - Rate the recording. Only one take per verse or chunk can be rated three stars, indicating the take that is approved to use when compiling a chapter recording.
@@ -219,7 +219,11 @@ The edit screen enables you to edit the take of a verse or chunk in the followin
 *	Place verse markers
 *	Rate the recording
 
-See the `"Edit Screen Icons" <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTT-Recorder_Edit_Screen_Icons_v1.4.pdf>`_ document for a list of icons and their names.
+The Edit screen contains several icons to perform this functionality, as shown below:
+
+.. image:: ../images/EditScreenIcons.png
+    :align: center
+    :alt: Edit screen icons
 
 Cutting
 ^^^^^^^^^^
