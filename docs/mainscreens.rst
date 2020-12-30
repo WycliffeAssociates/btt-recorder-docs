@@ -191,7 +191,10 @@ The recording screen enables you to record a take of a single verse or chunk.
 Opening the Recording Screen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-You can navigate to the Recording screen by tapping the Microphone icon on either the Home screen (if there is a project listed) or on any of the list views of the Project Management screen.
+There are multiple ways to reach the recording screen:
+*	If you are still in the Source Audio screen after creating a new project, tap **CONTINUE** in the lower right of the window.
+*	If you are on the Home screen and the name of the project on which you want to work is displayed, tap in the blue recording area. If a different project is shown, or no project is shown, you need to record from the Project Management screen as explained below.
+•	If you are on the Project Management screen, tap the **Microphone icon** in any of the list views (project, chapter, or verse/chunk).
 
 The Recording screen is initially set to a certain verse/chunk, depending on how you opened the Recording Screen:
 
