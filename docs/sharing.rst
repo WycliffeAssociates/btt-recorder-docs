@@ -141,15 +141,15 @@ If the folder structure for the language does not exist, you need to create it.
 
 9.	Create Chapter folders – one for each chapter in the book. To create a new chapter folder:    
 
-    a) In the Bible book folder, tap the **Plus icon**.
+    ``a)`` In the Bible book folder, tap the **Plus icon**.
 
-    b)	Tap **Create Folder** in the menu.
+    ``b)``	Tap **Create Folder** in the menu.
 
-    c) Tap in the ‘Name’ field and enter the chapter number as 2 digits, with a leading zero for single-digit numbers.
+    ``c)`` Tap in the ‘Name’ field and enter the chapter number as 2 digits, with a leading zero for single-digit numbers.
     
-    d) Tap the blue **Create Folder** button. The new folder is created and opened.
+    ``d)`` Tap the blue **Create Folder** button. The new folder is created and opened.
  
-    e) To return to the book folder to create another chapter folder, tap the book name in the top breadcrumbs.
+    ``e)`` To return to the book folder to create another chapter folder, tap the book name in the top breadcrumbs.
  
     ``*`` Repeat steps a) through e) to create a folder for each chapter.
 
