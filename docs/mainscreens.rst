@@ -99,7 +99,7 @@ Tap this icon to compile the individual verse recordings into a single recording
 
 Microphone icon
 +++++++++++++++
-Tap to invoke the Recording screen for this chapter.
+Tap to invoke the Recording screen``_ for this chapter.
 
 Verse/chunk list
 ^^^^^^^^^^^^^^^^
