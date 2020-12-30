@@ -195,6 +195,10 @@ The recording screen enables you to record a take of a single verse or chunk. Th
 *	If you opened it from the Verse/chunk list of the Project Management screen, the recording screen shows that verse or chunk. **Note**: This is the preferred method, because the Verse/chunk list shows you whether that item has been recorded already, so that you don’t unintentionally duplicate your work.
 
 The Recording screen contains the following elements:
+
+.. image:: ../images/RecordingScreen.png
+    :align: center
+    :alt: Recording Screen
  
 *	Top bar: Displays project information, chapter number, and verse/chunk number, with + and = icons to change the chapter and/or chunk/verse numbers.
 *	Play icon to play the source audio, if you are using source audio (changes to Pause icon to stop/pause listening). You can listen to the source audio as needed to consume the ideas. You may need to replay the source audio more than once before you are ready to record the translation. 
