@@ -222,7 +222,15 @@ The Recording Process
 
 You can listen to the source audio as needed to consume the ideas. You may need to replay the source audio more than once before you are ready to record the translation. Be sure to record only one chunk or verse at a time.
 
-To record the oral translation, perform the following steps:
+To play the source audio, perform the following steps:
+
+1.	Tap the **Play icon** to listen to the source audio.
+ 
+2.	Tap the **Pause icon** to pause the source audio.
+ 
+3.	Tap and hold the **green dot** and drag it to move to a different position in the source audio.
+ 
+To record the oral translation, perform the following steps (be sure to record only one verse or chunk at a time):
 
 1.	When you are ready to record, tap the **Microphone icon**. 
 2.	To pause or stop recording, tap the **Pause icon**. 
