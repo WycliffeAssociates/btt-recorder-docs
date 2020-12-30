@@ -38,7 +38,7 @@ To create a tr file on your tablet, perform the following steps:
 
 1.	On the Information window, tap the **Source Audio icon** (listening ear) to save the tr file to the tablet’s file system.
  
-2.	A file manager window opens to enable you to navigate to and open the folder where you want to save the tr file. You can save it anywhere in your internal storage or to your SD card. You can also rename the file before saving it if desired.
+2.	A file manager window opens to enable you to navigate to and open the folder where you want to save the tr file. You can save it anywhere in your internal storage or to your SD card. You can also rename the file before saving it if desired. **NOTE**: The SD Card may need to be “activated.” Follow the directions provided by the tablet on activating the SD Card so that you can save files there.
 
 3.	Tap **SAVE** to save the file. If you save it to the SD Card, you can remove the card to share the file with others. 
  
@@ -51,9 +51,7 @@ This action packages the individual wav files into a single zip file that you ca
 
 2.	Wait while the files are processed. The program compiles a zip file containing the individual wav files for each chapter.
  
-3.	A file manager window opens to enable you to navigate to and open the folder where you want to save the zip file. You can save it anywhere to your SD card or in your internal storage. You can also rename the file before saving it if desired.
- 
-    **NOTE**: The SD Card may need to be “activated.” Follow the directions provided by the tablet on activating the SD Card so that you can save files there.
+3.	A file manager window opens to enable you to navigate to and open the folder where you want to save the zip file. You can save it anywhere to your SD card or in your internal storage. You can also rename the file before saving it if desired. **NOTE**: The SD Card may need to be “activated.” Follow the directions provided by the tablet on activating the SD Card so that you can save files there.
 
 4.	Tap **SAVE** to save the file. If you save it to the SD Card, you can remove the card to share the file with others.
 
