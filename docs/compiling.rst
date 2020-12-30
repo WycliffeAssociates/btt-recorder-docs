@@ -93,7 +93,7 @@ Share the Chapter Recording
 These next steps will create a file that can be shared with others. The file is a zipped file of *.wav files with single chapter files and folders for each chapter that contains the individual verse/chunk audio files. 
 
 1. On the Project Management Home Screen, tap on the information icon on the bar of the finished book. The Project Information window opens.
-2. Tap on the SD card icon. The Packaging process begins.
+2. Tap on the SD card icon. The packaging process begins.
 
 **NOTE**: that chapter files are included. (_c01.wav)
 
