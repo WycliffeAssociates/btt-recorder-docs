@@ -220,7 +220,7 @@ The Recording screen contains the following elements:
 The Recording Process
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-You can listen to the source audio as needed to consume the ideas. You may need to replay the source audio more than once before you are ready to record the translation. Be sure to record only one chunk or verse at a time.
+If there is source audio, it appears in a gray bar just above the blue bar at the bottom of the screen. You can listen to the source audio as needed to consume the ideas. You may need to replay the source audio more than once before you are ready to record the translation. Be sure to record only one chunk or verse at a time.
 
 To play the source audio, perform the following steps:
 
