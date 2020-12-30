@@ -186,7 +186,7 @@ Tap the back arrow at the top left of the Settings window to return to the Proje
 Recording screen
 ====================
 
-You can navigate to the Recording screen by tapping the Microphone icon on either the Home screen or any of the list views of the Project Management screen.
+You can navigate to the Recording screen by tapping the Microphone icon on either the Home screen (if there is a project listed) or on any of the list views of the Project Management screen.
 
 The recording screen enables you to record a take of a single verse or chunk. The Recording screen is initially set to a certain verse/chunk, depending on how you opened the Recording Screen:
 
