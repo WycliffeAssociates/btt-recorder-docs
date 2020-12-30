@@ -18,7 +18,7 @@ Opening the Information window
 
 You can share your recordings from the Information window of the project. To open the Information window:
 
-1.	On the Project Manager screen, tap the Information icon   next to the project that you want to export or upload. 
+1.	On the Project Manager screen, tap the **Information icon** (gray circle with an "i" in it) next to the project that you want to export or upload. 
  
 2.	The Information window opens. The icons along the bottom right of the window enable you to share your recordings. These icons are explained in the next few paragraphs.
  
@@ -119,13 +119,13 @@ To upload to the Citrix server, you perform the following steps:
 
 If the folder structure for the language does not exist, you need to create it. 
 
-1.	Tap to open the language folder.
+1.	Tap the language folder to open it.
 
-2.	Tap the Plus icon  .
+2.	Tap the **Plus icon**.
 
-3.	Tap Create Folder on the menu.
+3.	Tap **Create Folder** on the menu.
 
-4.	Tap in the Name field and type Oral, and then tap Create Folder.
+4.	Tap in the Name field and type **Oral**, and then tap **Create Folder**.
  
 5.	In the Oral folder, create the testament folder (OT or NT).
 
@@ -135,17 +135,17 @@ If the folder structure for the language does not exist, you need to create it.
  
     (see table entitled “Global Standard Nomenclature for Books in the Bible”  below – 2-digit number and 3-letter. For example, the 2nd New Testament book for the Spanish Bible would be 42-MRK (or 42-Markos if you use the Spanish name with the leading identification code).
 
-8.	Tap Create Folder. The new folder is created and opened. 
+8.	Tap **Create Folder**. The new folder is created and opened. 
 
 9.	Create Chapter folders – one for each chapter in the book. To create a new chapter folder:    
 
     * In the Bible book folder, tap the Plus icon  .
 
-    *	Tap Create Folder in the menu.
+    *	Tap **Create Folder** in the menu.
 
     * Tap in the ‘Name’ field and enter the chapter number as 2 digits, with a leading zero for single-digit numbers.
     
-    * Tap the blue Create Folder button. The new folder is created and opened.
+    * Tap the blue **Create Folder** button. The new folder is created and opened.
  
     * To return to the book folder to create another chapter folder, tap the book name in the top breadcrumbs.
  
@@ -236,7 +236,7 @@ If the folder structure for the language does not exist, you need to create it.
      -
 
 
-*The number 40 is skipped
+``*``The number 40 is skipped
 
 Now that you have the folders set up, you can upload your recordings to them. Translators typically upload from their tablets; however, a MAST technical support person may harvest the audio files from a tablet to a thumb drive and then use the computer to upload them. Both methods are discussed below.
 
@@ -246,19 +246,19 @@ Now that you have the folders set up, you can upload your recordings to them. Tr
 
 2.	Tap the chapter folder.
  
-3.	Tap the Plus icon. 
+3.	Tap the **Plus icon**. 
 
-4.	Tap Upload on the menu. 
+4.	Tap **Upload** on the menu. 
  
-5.	The Upload window opens. Tap Browse files.
+5.	The Upload window opens. Tap **Browse files**.
 
 6.	A file manager window opens. Tap in turn the following folders:
 
-    * On the left section, tap Internal Storage.
+    * On the left section, tap **Internal Storage**.
  
     * On the right section:
     
-      * Tap BTTRecorder.
+      * Tap **BTTRecorder**.
  
       * Tap your target language code.
  
@@ -270,16 +270,14 @@ Now that you have the folders set up, you can upload your recordings to them. Tr
  
   * The chapter folder opens and shows all the verse recordings for that chapter. Do a long tap on one of the files (tap and hold until the file’s bar turns darker), and then tap each of the other files to select all of them
 
-  * Tap OPEN at the top right of the screen.
+  * Tap **OPEN** at the top right of the screen.
  
-  * The list of files appears in the ShareFile window. Tap Upload to upload the files.
+  * The list of files appears in the ShareFile window. Tap **Upload** to upload the files.
     **Note**: This screen may not appear – it may upload the files automatically.
  
   * It may take some time to upload the files.
  
- 
-
-**Upload chapter recordings from the computer**
+ **Upload chapter recordings from the computer**
 
 These steps assume that a MAST Tech Support Person, or someone working on the recordings, has harvested the files from the tablets onto a thumb drive.
 
@@ -291,20 +289,20 @@ Follow these steps to add files to a folder on the ShareFile server:
 
 2.	Tap the Chapter folder to open it.
 
-3.	Tap the Plus icon  . 
+3.	Tap the **Plus icon**. 
 
-4.	Tap Upload on the menu. 
+4.	Tap **Upload** on the menu. 
     The Upload window opens. There are 2 ways to upload the files:
 
     * Browse to files:
     
-      *	Click Browse files.
+      *	Click **Browse files**.
       
       *	Use the File Explorer to browse to the files on the thumb drive or computer’s hard drive.
       
-      * Select the desired files and click Open.
+      * Select the desired files and click **Open**.
       
-      * On the Upload window on ShareFile, click Upload. Wait while the files upload to the server.
+      * On the Upload window on ShareFile, click **Upload**. Wait while the files upload to the server.
 
 OR
 
