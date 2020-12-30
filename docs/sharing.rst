@@ -45,7 +45,7 @@ To create a tr file on your tablet, perform the following steps:
 Export to your tablet as a zip file
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This action packages the individual wav files into a single zip file that you can save to your tablet. You can give this file to others or you can imort it into Orature software. 
+This action packages the individual wav files into a single zip file that you can save to your tablet. You can give this file to others or you can import it into Orature software. 
 
 1.	On the Information window, tap either the **Save icon** or the **Folder icon** to save the project file to the tablet’s file system.
 
