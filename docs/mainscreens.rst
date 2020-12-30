@@ -255,19 +255,19 @@ The action of removing a section of a recording is known as a "cut".
 To make the cut you first mark the section to be deleted by performing the following steps:
 
 1.	Position the audio at the thin blue line for the beginning of the recording to be removed. **NOTE**: The blue line does not move. You need to do the press-and-hold action to move the recording to the blue line.
-2.	Set the beginning point of the cut by tapping on the flag icon. This inserts a marker where the cut will start.
+2.	Tap the **Flag icon** to set the beginning point of the cut. This inserts a marker where the cut will start.
 3.	Drag the recording by holding your finger on the screen and sliding to the left until the end of the part to be removed is at the blue line.
-4.	Tap the upside-down flag button. This marks the section for deletion.
+4.	Tap the upside-down **Flag icon**. This marks the end of the section for deletion.
 
 **OPTIONAL**: Tap the **Play icon** to listen to the section that will be removed.
 
 **Do you want to change the amount of recording that is selected?** Press-hold-drag on the upside-down flag to increase or decrease the amount of the selected recording.
 
-**Need to start again?** Tap the crossed-off flags icon to remove the flags and start at step 1.
+**Need to start again?** Tap the **Crossed-off Flags** icon to remove the flags and start at step 1.
 
 Tap the **Scissors icon** to cut the section you have marked for deletion.
 
-**OPTIONAL**: Tap Play to listen to the take to ensure it is correct. If you made a mistake, tap the Undo icon to restore the deleted section.
+**OPTIONAL**: Tap **Play** to listen to the take to ensure it is correct. If you made a mistake, tap the **Undo icon** to restore the deleted section.
 
 Tap the **Save icon** to save the edit. BTT Recorder saves the edited take and returns to Project Management.
 
