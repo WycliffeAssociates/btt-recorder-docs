@@ -266,7 +266,7 @@ The Edit screen contains several icons to perform this functionality, as shown b
 Comparing your recording to the source audio
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If you have source audio, you can compare the target language recording to the source audio by performing the following steps:
+If you have source audio, you can compare the target language recording to the source audio to see what, if anything, needs to be changed in your translation. Perform the following steps:
 
 1.	Tap the **Ear icon** to switch to Source Audio.
 2.	Tap the **Play icon** on the gray bar. 
@@ -289,16 +289,27 @@ Cutting
 
 The action of removing a section of a recording is known as a "cut". 
 
-To make the cut you first mark the section to be deleted by performing the following steps:
+To make the cut you first mark the section to be deleted. There are 2 ways to mark a section.
 
-1.	Position the audio at the thin blue line for the beginning of the recording to be removed. **NOTE**: The blue line does not move. You need to do the press-and-hold action to move the recording to the blue line.
-2.	Tap the **Flag icon** to set the beginning point of the cut. This inserts a marker where the cut will start.
-3.	Drag the recording by holding your finger on the screen and sliding to the left until the end of the part to be removed is at the blue line.
-4.	Tap the upside-down **Flag icon**. This marks the end of the section for deletion.
+1. The first way is to use the upper waveform window:
+
+    ``a.``	Position the audio at the thin blue line for the beginning of the recording to be removed. **NOTE**: The blue line does not move. You need to do the tap-and-hold action to move the recording to the blue line.
+ 
+    ``b.``	Tap the **Flag icon** to set the beginning point of the cut. This inserts a marker where the cut will start.
+    
+    ``c.``	Drag the recording by holding your finger on the screen and sliding to the left until the end of the part to be removed is at the blue line.
+    
+    ``d.``	Tap the upside-down **Flag icon**. This marks the end of the section for deletion.
+   
+2. The second way to mark a section for deletion is by using the entire waveform that is displayed in the lower section of the window.
+
+    ``a.``	Tap and hold where you want the deletion to begin and drag to the end of the deletion. 
+    
+    ``b.``	As you do so, the marked area is shown in both the upper and lower waveform areas and the flags are inserted automatically.
 
 **OPTIONAL**: Tap the **Play icon** to listen to the section that will be removed.
 
-**Do you want to change the amount of recording that is selected?** Press-hold-drag on the upside-down flag to increase or decrease the amount of the selected recording.
+**Do you want to change the amount of recording that is selected?** Tap-hold-drag on the upside-down flag to increase or decrease the amount of the selected recording.
 
 **Need to start again?** Tap the **Crossed-off Flags** icon to remove the flags and start at step 1.
 
@@ -315,7 +326,7 @@ Sometimes you may want to insert a missing part into the translation. For exampl
 
 To insert a section into the recording, perform the following steps:
 
-1.	Position the audio at the thin blue line for where the new audio will be added in (use the press-hold-drag action, or tap in the lower waveform, or listen to the recording and tap **Pause** when you are at the correct place.)
+1.	Position the audio at the thin blue line for where the new audio will be added in (use the tap-hold-drag action, or tap in the lower waveform, or listen to the recording and tap **Pause** when you are at the correct place.)
 2.	Tap the **Add a Recording** icon   in the top gray bar. This opens a new recording session for the part to be inserted. **NOTE**: The bar at the bottom of this window is green.
 3.	Tap the **Microphone icon** to start recording.
 4.	When finished, tap the **Pause icon**.
@@ -340,12 +351,12 @@ Verse markers are available only when recordings are done in chunk mode. To inse
   * Tap the **Play icon** to play back the recording.
   * Tap the **Pause icon** to stop the playback when it is at a verse ending.
   * Other ways of finding the correct spot in the recording:
-      *	Use the press-hold-drag action to move the playback forward or backward until the verse division is on the blue line.
+      *	Use the tap-hold-drag action to move the playback forward or backward until the verse division is on the blue line.
     OR
       * Tap in the bottom waveform.
 4.	To add the verse marker, tap the **white flag** on the yellow bar at the bottom right of the screen.
 5.	If there is another verse to mark: Continue to listen to the playback for the next ending of a verse.
-6. If you need to move a verse marker, you can use the press-hold-drag action to move a verse marker flag forward or backward on the waveform.
+6. If you need to move a verse marker, you can use the tap-hold-drag action to move a verse marker flag forward or backward on the waveform.
 7. When there are no more verse markers to place – Tap the back icon (Android back) found under the yellow bar.
 8. The Edit screen opens and shows the verse markers. Tap the **Save icon** at the bottom right of the screen to save and return to Project Management.
 
