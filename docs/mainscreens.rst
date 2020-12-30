@@ -223,6 +223,8 @@ The Edit screen contains several icons to perform this functionality, as shown b
 
 .. image:: ../images/EditScreenIcons.png
     :align: center
+    :width: 707px
+    :height: 1088px
     :alt: Edit screen icons
 
 Cutting
