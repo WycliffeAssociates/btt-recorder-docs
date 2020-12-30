@@ -24,7 +24,7 @@ If no project is shown
     :align: center
     :alt: No project in blue area
 
-Tap anywhere in this area to start a new project (see `Create a New Project <https://btt-recorder.readthedocs.io/en/latest/getstarted.html#create_a_new_project>`_).
+Tap anywhere in this area to start a new project (see `Create a New Project <https://btt-recorder.readthedocs.io/en/latest/getstarted.html#create-a-new-project>`_).
 
 If project is listed
 ++++++++++++++++++++
