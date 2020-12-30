@@ -32,7 +32,7 @@ Export Recordings
 Export to your tablet as a tr file 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This action exports the project as a tr file to your tablet. This file can be given to others to import into their installation of BTT Recorder so that they can work on it, or it can be used as a source audio file for BTT Recorder.
+This action exports the project as a tr file to your tablet. You can give this file to others to import into their installation of BTT Recorder so that they can work on it, or you can use it as a source audio file for BTT Recorder.
 
 To create a tr file on your tablet, perform the following steps:
 
@@ -45,7 +45,7 @@ To create a tr file on your tablet, perform the following steps:
 Export to your tablet as a zip file
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This action packages the individual wav files into a single zip file that you can save to your tablet. This file can be given to others or can be imported into Orature software. 
+This action packages the individual wav files into a single zip file that you can save to your tablet. You can give this file to others or you can imort it into Orature software. 
 
 1.	On the Information window, tap either the **Save icon** or the **Folder icon** to save the project file to the tablet’s file system.
 
@@ -53,9 +53,9 @@ This action packages the individual wav files into a single zip file that you ca
  
 3.	A file manager window opens to enable you to navigate to and open the folder where you want to save the zip file. You can save it anywhere to your SD card or in your internal storage. You can also rename the file before saving it if desired.
  
-    **NOTE**: The SD Card may need to be “activated.” Follow the directions provided by the tablet on activating the SD Card so files can be saved there.
+    **NOTE**: The SD Card may need to be “activated.” Follow the directions provided by the tablet on activating the SD Card so that you can save files there.
 
-4.	Tap **SAVE** to save the file. If you save it to the SD Card, it can be removed to share the file with others.
+4.	Tap **SAVE** to save the file. If you save it to the SD Card, you can remove the card to share the file with others.
 
 Export the file to another application
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
