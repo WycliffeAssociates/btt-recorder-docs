@@ -10,7 +10,7 @@ After the verse or chunk recordings have been created for a chapter it is then p
  
 Compile a Recording for the Chapter
 -----
-1. Start in the Project Management home screen and tap on the book to finish. Notice that the circle should be full. The list of chapters for the book shows.
+1. Start in the `Project Management screen <https://btt-recorder.readthedocs.io/en/latest/mainscreens.html#project-management-pages>`_ and tap on the book to finish. Notice that the circle should be full. The list of chapters for the book shows.
 
 The chapters are listed – each one on a separate bar. 
 
