@@ -40,7 +40,7 @@ To create a tr file on your tablet, perform the following steps:
  
 2.	A file manager window opens to enable you to navigate to and open the folder where you want to save the tr file. You can save it anywhere in your internal storage or to your SD card. You can also rename the file before saving it if desired.
 
-3.	Tap **SAVE** to save the file. If you save it to the SD Card, it can be removed to share the file with others. 
+3.	Tap **SAVE** to save the file. If you save it to the SD Card, you can remove the card to share the file with others. 
  
 Export to your tablet as a zip file
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
