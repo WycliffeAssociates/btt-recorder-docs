@@ -16,7 +16,7 @@ Home page
 The first time you open BTT Recorder, after you create a user the Home page is shown. The right side of the page is blue with a Microphone icon, and the left side of the page is green with a List icon.
 
 Right side (blue with Microphone icon):
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
 If no project is shown
 ++++++++++++++++++++++++++++
 
@@ -262,6 +262,27 @@ The Edit screen contains several icons to perform this functionality, as shown b
     :width: 707px
     :height: 1088px
     :alt: Edit screen icons
+
+Comparing your recording to the source audio
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+If you have source audio, you can compare the target language recording to the source audio by performing the following steps:
+
+1.	Tap the **Ear icon** to switch to Source Audio.
+2.	Tap the **Play icon** on the gray bar. 
+3.	To pause the recording tap the **Pause icon** on the gray bar (the Pause icon replaces the Play icon when the audio is playing.)  
+4.	To rewind (go towards the beginning of the recording) or fast forward (go towards the end of the recording) tap and hold the **green dot** and slide your finger to the left for rewind or to the right to fast forward.
+5.	To return to your recording, tap the **Waveform icon**.   
+6.	Then, listen to the recording: 
+
+    ``a.``	To playback your recording, tap the white **Play icon** on the blue bar. 
+ 
+    ``b.``	To pause the playback of the recording, tap the **Pause icon** on the blue bar. (The Pause icon replaces the Play icon.)
+
+    ``c.``	To rewind to the beginning of the recording or go to the end of the recording tap the **Rewind** or **Forward** icon. 
+ 
+7.	Tap between the source audio (Ear icon) and target language (Waveform icon) playback to compare the entire recording.
+
 
 Cutting
 ^^^^^^^^^^
