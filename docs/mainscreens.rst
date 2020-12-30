@@ -154,6 +154,9 @@ On the options menu you can tap one of the following menu options:
 *	Logout – Sign out of the program. The program restarts at the User Account screen.
 *	Help – View this documentation on how to use the BTT Recorder program. An internet connection is necessary to view the documentation.
 
+Settings window
+++++++++++++++++++
+
 The Settings window is mostly for information purposes. You can invoke the Settings window by tapping the Settings option in the Options menu. Although you can change some of the settings, it usually is not necessary. The Settings window contains the following information:
 
 *	Source Audio Location – Sets the default folder that opens when you select a source audio location for a project. Although you can set the value here, the default location changes if you select a different location when defining a project. 
