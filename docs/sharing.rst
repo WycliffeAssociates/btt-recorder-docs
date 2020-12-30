@@ -22,6 +22,9 @@ You can share your recordings from the Information window of the project. To ope
  
 2.	The Information window opens. The icons along the bottom right of the window enable you to share your recordings. These icons are explained in the next few paragraphs.
  
+.. image:: ../images/InformationWindow.png
+    :align: center
+    :alt: Information Window
 
 Export Recordings
 -----------------
