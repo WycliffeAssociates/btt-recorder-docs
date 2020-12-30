@@ -48,6 +48,8 @@ Project list
 ^^^^^^^^^^^^^^^
 If you have existing projects, this page displays a list of them. You can also tap anywhere on a project bar to invoke the chapter list for that chapter (see `Chapter list`_), or you can tap the **Plus icon** to start creating a new project (see `Create a New Project <https://btt-recorder.readthedocs.io/en/latest/getstarted.html#create-a-new-project>`_).
 
+The Project list view is the only screen where you have access to the Options menu ( see `Using the Options menu`_).
+
 Each project in the list contains 3 columns that describe the project and 2 icons that you can tap.
 
 Descriptive columns: 
