@@ -227,8 +227,9 @@ To record the oral translation, perform the following steps:
 1.	When you are ready to record, tap the **Microphone icon**. 
 2.	To pause or stop recording, tap the **Pause icon**. 
 3.	If you want to record more, tap the **Microphone icon** to resume. 
-4.	When you are finishedTap the **Checkmark icon** , or if you don’t want to save that recording, tap the device’s **Back button** to return to the screen where you opened the Recording screen. 
-5.	If you tapped the Checkmark icon, the program advances to the Edit screen, where you can edit the recording or tap the **Save icon** to save it.
+4.	When you are finished, tap the **Checkmark icon**, or if you don’t want to save that recording, tap the device’s **Back button** to return to the screen where you opened the Recording screen. 
+    * If you tapped the Checkmark icon, the program advances to the Edit screen, where you can edit the recording or tap the **Save icon** to save it.
+    * If you tapped the back button, tap the **Trashcan icon** to delete the recording or the **Arrow icon** to continue in the Recording screen.
 
 
 Edit screen
