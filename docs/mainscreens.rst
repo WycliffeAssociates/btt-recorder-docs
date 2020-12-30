@@ -201,7 +201,7 @@ The Recording screen is initially set to a certain verse/chunk, depending on how
 
 *	If you opened the Recording screen from the Home screen or from the Project list of the Project Management screen, the Recording screen initially shows Chapter 1 and verse/chunk 1 of the project. 
 *	If you opened it from the Chapter list of the Project Management screen, the Recording screen is initially set to verse/chunk 1 of the chapter whose microphone you clicked. 
-*	If you opened it from the Verse/chunk list of the Project Management screen, the recording screen shows that verse or chunk. **Note**: This is the preferred method, because the Verse/chunk list shows you whether that item has been recorded already, so that you don’t unintentionally duplicate your work.
+*	If you opened it from the Verse/chunk list of the Project Management screen, the recording screen shows that verse or chunk. **Note**: This is the preferred method, because the Verse/chunk list shows you whether that item has been recorded already, so that you don’t unintentionally duplicate your work. It is also an easy way to navigate to the specific item that you want to record.
 
 Components of the Recording Screen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
