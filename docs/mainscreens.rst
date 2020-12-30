@@ -95,7 +95,7 @@ Descriptive columns:
 
 Compile icon
 ++++++++++++
-Tap this icon to compile the individual verse recordings into a single recording for the chapter. See Create Chapter Recording.
+Tap this icon to compile the individual verse recordings into a single recording for the chapter. See `Creating a Chapter Recording <https://btt-recorder.readthedocs.io/en/latest/compiling.html#>`_.
 
 Microphone icon
 +++++++++++++++
