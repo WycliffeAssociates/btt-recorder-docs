@@ -18,7 +18,7 @@ Opening the Information window
 
 You can share your recordings from the Information window of the project. To open the Information window:
 
-1.	On the Project Manager screen, tap the **Information icon** (gray circle with an "i" in it) next to the project that you want to export or upload. 
+1.	On the Project Manager screen, tap the **Information icon** (gray circle with an "i" in it) next to the project that you want to export or upload. (See `Information icon <https://btt-recorder.readthedocs.io/en/latest/mainscreens.html#information-icon>`_
  
 2.	The Information window opens. The icons along the bottom right of the window enable you to share your recordings. These icons are explained in the next few paragraphs.
  
