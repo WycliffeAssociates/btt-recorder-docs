@@ -151,7 +151,7 @@ If the folder structure for the language does not exist, you need to create it.
  
     ``e)`` To return to the book folder to create another chapter folder, tap the book name in the top breadcrumbs.
  
-    ``*`` Repeat steps a) through e) to create a folder for each chapter.
+    ``*``Repeat steps a) through e) to create a folder for each chapter.
 
 .. list-table:: **Global Standard Nomenclature for Books in the Bible**
    :widths: 30 30 30 30 30 30 30
@@ -238,7 +238,8 @@ If the folder structure for the language does not exist, you need to create it.
      -
 
 
-``*``The number 40 is skipped
+
+The number 40 is skipped
 
 Now that you have the folders set up, you can upload your recordings to them. Translators typically upload from their tablets; however, a MAST technical support person may harvest the audio files from a tablet to a thumb drive and then use the computer to upload them. Both methods are discussed below.
 
