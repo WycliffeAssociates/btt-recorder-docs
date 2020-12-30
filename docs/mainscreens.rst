@@ -250,6 +250,7 @@ A take is a recording of a verse or chunk; a verse/chunk can have multiple takes
 
 The edit screen enables you to edit the take of a verse or chunk in the following ways: 
 
+*   `Comparing your recording to the source audio`_
 *	`Cutting`_ sections of a recording
 *	`Inserting`_ new sections into a recording
 *	`Placing verse markers`_
