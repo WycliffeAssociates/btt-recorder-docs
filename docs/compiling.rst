@@ -1,7 +1,7 @@
 Creating a Chapter Recording
 ============================
 
-After the verse or chunk recordings have been created for a chapter it is then possible to make a recording into a complete chapter. The translator can listen to the entire chapter and make additional edits if necessary.
+After the verse or chunk recordings have been created for a chapter it is then possible to make a recording into a complete chapter. The translator can listen to the entire chapter and make additional edits if ranecessary.
  
 **Terms to know**: 
  * Compile – to put into one piece, combine.
@@ -65,12 +65,12 @@ When the corrections have been made. Tap the **Compile icon** (black stack of pa
 
 NOTE: Each time a chapter is stitched – the new recording replaces the old chapter recording.
 
-**Rate the Chapter Recording**
+**Set the Checking Level for the Chapter Recording**
 
 1. Tap the number box to set a level of checking on the audio file.
-2. Choose a rating by tapping  one of the numbers. 
- * 0 is the lowest rating while 3 is best rating.
-3. Tap **OK** to save the rating and close the window.
+2. Choose a checking level by tapping  one of the numbers. 
+ * 0 is the lowest while 3 is highest.
+3. Tap **OK** to save the checking level and close the window.
 4. Tap the **back arrow** in the top blue bar to return to the Project Management screen.
 
 When all the chapters are finalized (stitched) the book is done.
