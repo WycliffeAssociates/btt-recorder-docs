@@ -84,7 +84,7 @@ Power Point Presentations (with PDFs)
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Starting_a_New_Project_Project_Management_v1.4.pptx>`_
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Starting_a_New_Project_Project_Management_v1.4.pdf>`_  
      
-   * - **Recording from Project Management WITH source audio 1.4**
+   * - **Recording from Project Management WITHOUT source audio 1.4**
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Recording_from_PM-Audio_Recordings_Without_Source_Audio%20v1.4.pptx>`_
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Recording_from_PM-Audio_Recordings_Without_Source_Audio%20v1.4.pdf>`_
 
@@ -117,5 +117,5 @@ Manuals
 
 `What to Show the Oral Translator on the Tablet <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/What_to_Show_the_Oral_Translator_on_the_Tablet.pdf>`_
 
-`Version 1.4 User Manual <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/docs/BTT_Recorder_Manual_1.4.pdf>`_ - a manual with screen shots - 
+`Version 1.4 User Manual <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/docs/BTT_Recorder_Manual_1.4.pdf>`_ - Documentation with screen shots - 
 
