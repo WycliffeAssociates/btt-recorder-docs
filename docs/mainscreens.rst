@@ -358,7 +358,7 @@ Verse markers are available only when recordings are done in chunk mode. To inse
 4.	To add the verse marker, tap the **white flag** on the yellow bar at the bottom right of the screen.
 5.	If there is another verse to mark: Continue to listen to the playback for the next ending of a verse.
 6. If you need to move a verse marker, you can use the tap-hold-drag action to move a verse marker flag forward or backward on the waveform.
-7. When there are no more verse markers to place – Tap the back icon (Android back) found under the yellow bar.
+7. When there are no more verse markers to place – tap the X icon at the top left of the window, just to the left of where it tells you the number of markers left to be placed.
 8. The Edit screen opens and shows the verse markers. Tap the **Save icon** at the bottom right of the screen to save and return to Project Management.
 
 **HINT**: You might want to rate this recording before saving.
