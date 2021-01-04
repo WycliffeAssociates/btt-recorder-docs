@@ -23,6 +23,7 @@ The main screens in BTT Recorder are:
 *	`Edit screen <https://btt-recorder.readthedocs.io/en/latest/mainscreens.html#edit-screen>`_
 
 After completing your recording, you can:
+
 * `Create chapter recordings <https://btt-recorder.readthedocs.io/en/latest/compiling.html>`_
 * `Share your recordings <https://btt-recorder.readthedocs.io/en/latest/sharing.html>`_
 
