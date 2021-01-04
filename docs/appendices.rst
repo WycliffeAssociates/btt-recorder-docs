@@ -102,7 +102,7 @@ Power Point Presentations (with PDFs)
      
    * - **Create Chapter Recordings 1.4**
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4.pptx>`_
-     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4.pdf>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4_PPT.pdf>`_
      
  
 **!!! THESE ARE COMING SOON !!!**
