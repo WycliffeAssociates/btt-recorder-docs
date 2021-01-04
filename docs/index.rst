@@ -6,7 +6,7 @@
 Bible Translation Tools Recorder (BTT Recorder) v1.4.x Information
 ============================
 
-This site is the official documentation for the BTT Recorder user manuals.
+This site is the official documentation for BTT Recorder.
 
 
 Contents:
@@ -14,6 +14,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   download
    intro
    getstarted
    mainscreens
