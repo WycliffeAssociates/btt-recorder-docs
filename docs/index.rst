@@ -20,6 +20,7 @@ Contents:
    mainscreens
    compiling
    sharing
+   import
    appendices
    fr_appendices
    
