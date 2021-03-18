@@ -49,6 +49,8 @@ Links to Individual Demos:
 
 `Creating a New Recording Project in BTT Recorder <https://youtu.be/OpdGF8L7YdI>`_
 
+`Downloading BTT Recorder Source Audio <https://youtu.be/S5WXtZXLPlU>`_
+
 `Inserting a Section into a Recording in BTT Recorder <https://youtu.be/kgNQmFu_XAM>`_
 
 `Deleting a Section from a Recording in BTT Recorder <https://youtu.be/1C-7qk4na6w>`_
