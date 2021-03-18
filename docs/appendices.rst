@@ -37,6 +37,10 @@ Use these files to give to the oral language translators to help them remember t
 Video Demonstrations
 --------------------
 
+`Complete playlist of BTT Recorder Demos <https://www.youtube.com/playlist?list=PLNQBr_Ya9na-BXU2YaJa88iq_x3es7Z5a>`_
+
+Links to Individual Demos:
+
 `Installing BTT Recorder on an Android Tablet <https://youtu.be/L3f7UPdPjSI>`_
 
 `Creating a New User Profile in BTT Recorder <https://youtu.be/BKADuEH8TVk>`_
