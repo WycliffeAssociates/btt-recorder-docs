@@ -111,11 +111,7 @@ Power Point Presentations (with PDFs)
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4_PPT.pdf>`_
      
  
-**!!! THESE ARE COMING SOON !!!**
- 
- **Sharing Recordings and Projects**
- 
- **Uploading to the Citrix ShareFile Server**
+**!!! COMING SOON !!!**:  **Uploading to the Citrix ShareFile Server**
  
 
 Manuals
