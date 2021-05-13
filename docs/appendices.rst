@@ -59,6 +59,11 @@ Links to Individual Demos:
 
 `Compiling a Chapter Recording in BTT Recorder <https://youtu.be/NFEh85VwZ34>`_
 
+Live Video Demonstrations
+--------------------
+Link to the playlist of videos that are presented during the
+`Great Commission Bible Translation (GCBT) Conferences. <https://www.youtube.com/playlist?list=PLwtF1YaXfQQE0X847imr_kN4OZzwTtPqq>`_
+
 Power Point Presentations (with PDFs)
 -------------------------------------
 
