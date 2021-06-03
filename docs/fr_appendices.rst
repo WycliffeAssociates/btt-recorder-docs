@@ -9,17 +9,17 @@ Use these files to give to the oral-only translators. They might help them remem
 
 **BTT-R Sur la Tablette que Pouvez-vous Montrer au Traducteur Oral** (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/french_files/BTT-R_Sur_la_tablette_que_pouvez-vous_montrer_au_traducteur_%20oral.pdf) (What to Show the Oral Translator on the Tablet)
 
-**BTT-R_Créer_les_enregistrements_d'un_chapitre** (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/french_files/BTT-R_Cr%C3%A9er_les_enregistrements_d'un_chapitre.pdf) (Create Chapter Recordings)
+**BTT-R Créer les Enregistrements d'un Chapitre** (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/french_files/BTT-R_Cr%C3%A9er_les_enregistrements_d'un_chapitre.pdf) (Create Chapter Recordings)
 
-**BTT-R_Enregistrement_avec_une_source_audio** (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/french_files/BTT-R_Enregistrement_avec_une_source_audio.pdf) (Recording with Source Audio)
+**BTT-R Enregistrement avec une Source Audio** (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/french_files/BTT-R_Enregistrement_avec_une_source_audio.pdf) (Recording with Source Audio)
 
-**BTT-R_Enregistrement_sans_la_source_Audio** (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/french_files/BTT-R_Enregistrement_sans_la_source_Audio.pdf) (Recording without Source Audio)
+**BTT-R Enregistrement sans la Source Audio** (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/french_files/BTT-R_Enregistrement_sans_la_source_Audio.pdf) (Recording without Source Audio)
 
-**BTT-R_Bons_niveaux_de_la_voix_d'enregistrement** (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/french_files/BTT-R_Bons_niveaux_de_la_voix_d'enregistrement.pdf) (Good Recording - Volume)
+**BTT-R Bons Nniveaux de la voix d'enregistrement** (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/french_files/BTT-R_Bons_niveaux_de_la_voix_d'enregistrement.pdf) (Good Recording - Volume)
 
-**BTT-R_Marquer_des_versets_en_mode_par_morceau** (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/french_files/BTT-R_Marquer_des_versets_en_mode_par_morceau.pdf) (Marking Verses in Chunk Mode)
+**BTT-R Marquer des Versets en mode par Morceau** (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/french_files/BTT-R_Marquer_des_versets_en_mode_par_morceau.pdf) (Marking Verses in Chunk Mode)
 
-**BTT-R_Partager_les_fichiers_audio** (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/french_files/BTT-R_Partager_les_fichiers_audio.pdf) (Sharing the Recording)
+**BTT-R Partager les Fichiers Audio** (https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/french_files/BTT-R_Partager_les_fichiers_audio.pdf) (Sharing the Recording)
 
 
 Power Point Presentations (with PDFs)
