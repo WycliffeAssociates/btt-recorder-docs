@@ -24,5 +24,3 @@ Contents:
    appendices
    fr_appendices
    las_appendices
-   
-
