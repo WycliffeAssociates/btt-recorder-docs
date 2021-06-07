@@ -15,7 +15,7 @@ Go to this page (https://digitalstorage.sharefile.com/share/view/s34cb4b0a5be4ce
 
 Translator Handouts
 -----
-Use these files to give to the oral language translators to help them remember the steps.
+Use these files to give to the oral language translators to help them remember the steps. Click on the link to download the file to your device.
 
 `Recording with Source Audio v1.4 <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Recording_with_Source_Audio_1.4.pdf>`_
 
