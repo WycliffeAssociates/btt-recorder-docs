@@ -3,7 +3,8 @@ French Appendices
 
 Translator Handouts
 -----
-Use these files to give to the oral-only translators. They might help them remember the steps.
+Distribuez  ces documents aux traducteurs de langue orale afin de les aider à se souvenir des démarches à suivre. 
+Cliquez sur le lien pour télécharger le document sur votre appareil.
 
 `BTT-R Édition d’icônes d’écran <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/BTT-R_%C3%89dition_d%E2%80%99ic%C3%B4nes_d%E2%80%99%C3%A9cran.pdf>`_ (BTT Recorder Edit Screen Icons)
 
