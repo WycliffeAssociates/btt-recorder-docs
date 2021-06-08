@@ -25,24 +25,52 @@ Cliquez sur le lien pour télécharger le document sur votre appareil.
 
 Power Point Presentations (with PDFs)
 ----
+.. list-table:: 
+   :widths: 15 10 30
+   :header-rows: 1
 
-**Installing translationRecorder 1.2.4** - 
- * Power Point - download from here:  
- * PDF - view the file here: 
+   * - Title - Topic
+     - Powerpoint
+     - PDF
+     
+   * - **Installation**
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/6-Installation.pptx>`_ 
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/6-Installation.pdf>`_ 
 
-**Recording from Program Manager - Oral Languages 1.2.4**
- * Power Point - download from here: 
- * PDF - view the file here: 
+   * - **Configuration Pour un Nouvel Utilisateur**
+     -  \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/1-Configuration_Pour_un_Nouvel_Utilisateur.pptx>`_ 
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/1-Configuration_Pour_un_Nouvel_Utilisateur.pdf>`_  
+
+   * - **Edition des Enrégistrement-Menus et Icônes**
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/7-Edition_des_Enr%C3%A9gistrement-Menus_et_Ic%C3%B4nes.pptx>`_ 
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/7-Edition_des_Enr%C3%A9gistrement-Menus_et_Ic%C3%B4nes.pdf>`_
+     
+   * - **Démarrer un Nouveau Projet à Partir de la Section Enregistrement**
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/10-D%C3%A9marrer_un_Nouveau_Projet_%C3%A0_Partir_de_la_Section_Enregistrement.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/10-D%C3%A9marrer_un_Nouveau_Projet_%C3%A0_Partir_de_la_Section_Enregistrement.pdf>`_
+     
+   * - **Démarrant un Nouveau Projet à Partir de Project Management**
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/9-D%C3%A9marrant_un_Nouveau_Projet_%C3%A0_Partir_de_Project_Management.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/9-D%C3%A9marrant_un_Nouveau_Projet_%C3%A0_Partir_de_Project_Management.pdf>`_  
+     
+   * - **Partir de la Gestion de Projet Enregistrements sans Audio**
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/8-Partir_de_la_Gestion_de_Projet_Enregistrements_sans_Audio.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/8-Partir_de_la_Gestion_de_Projet_Enregistrements_sans_Audio.pdf>`_
+
+   * - **Rédaction en Gestion de Projet**
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/4-R%C3%A9daction_en_gestion_de_projet.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/4-R%C3%A9daction_en_gestion_de_projet.pdf>`_
+
+   * - **Édition Enregistrements Couper Insertion** 
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/3-%C3%89dition_Enregistrements_Couper_Insertion.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/3-%C3%89dition_Enregistrements_Couper_Insertion.pdf>`_
+
+   * - **L'edition des Enregistrements Marqueurs de Versets et Evaluation**
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/5-L-edition_des_Enregistrements_Marqueurs_de_Versets_et_Evaluation.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/5-L-edition_des_Enregistrements_Marqueurs_de_Versets_et_Evaluation.pdf>`_
+     
+   * - **Édition D'Enregistrements Creer un Enregistrement de Chapitre**
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/2-%C3%89dition_D'Enregistrements_Creer_un_Enregistrement_de_Chapitre.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/2-%C3%89dition_D'Enregistrements_Creer_un_Enregistrement_de_Chapitre.pdf>`_
+     
  
-**Recording from Program Manager - Audio Recordings 1.2.4**
- * Power Point - download from here: 
- * PDF - view the file here: 
-  
-**Editing Oral Language Recordings 1.2.4**
- * Power Point -download from here: 
- * PDF - view the file here: 
-
-**Editing Audio Recordings 1.2.4** 
- * Power Point - download from here: 
- * PDF - view the file here: 
-
