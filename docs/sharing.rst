@@ -72,17 +72,6 @@ To export the file and have another application immediately use it, such as in a
 Upload Recordings
 -----------------
 
-Upload to Translation Exchange
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Translation Exchange is a storage and checking program for audio files. If you have access to a Translation Exchange server, you can upload to it directly by completing the following steps:
-
-1.	On the Information window, tap the **Upload icon** (cloud with an up arrow) to upload the project file to the Translation Exchange server.
-    **NOTE**: This is the server defined in the Upload Server setting. See `Settings window <https://btt-recorder.readthedocs.io/en/latest/mainscreens.html#settings-window>`_.
- 
-2.	The program generates and uploads the file to Translation Exchange.
- 
-3.	The file has been uploaded. Optionally, you can open Translation Exchange to see that it is there. 
  
 Upload to the Citrix Server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
