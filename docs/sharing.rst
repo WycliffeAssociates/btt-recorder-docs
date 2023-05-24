@@ -9,8 +9,6 @@ After the recordings have been made, edited, and reviewed, they are ready to be 
 
 *	Export the completed audio to another application on your tablet as a zip file
 
-*	Upload a project to a Translation Exchange server 
-
 *	Upload a project to the Citrix ShareFile Server
 
 Opening the Information window
