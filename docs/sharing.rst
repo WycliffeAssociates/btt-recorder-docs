@@ -9,7 +9,7 @@ After the recordings have been made, edited, and reviewed, they are ready to be 
 
 *	Export the completed audio to another application on your tablet as a zip file
 
-*	Upload a project to the Citrix ShareFile Server
+*	Upload a project to the Box Server
 
 Opening the Information window
 ------------------------------
@@ -71,76 +71,84 @@ Upload Recordings
 -----------------
 
  
-Upload to the Citrix Server
+Upload to the Box Server
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This final method of sharing your recordings does not use the Information window. You must have a ShareFile account on the Citrix server to be able to store files there.
+This final method of sharing your recordings does not use the Information window. You must have a Box.com account on the WA Box server to be able to store files there.
 
-In a browser on the tablet that has the BTT Recorder files, open the ShareFile server (https://digitalstorage.sharefile.com) using your login and password.
+In a browser on the tablet that has the BTT Recorder files, open the Box.com site (https://account.box.com/login) or the Box APP using your login and password.
 
-To upload to the Citrix server, you perform the following steps:
+To upload to Box.com, you perform the following steps:
+Full instructions for each step is given below.
 
-1.	Find the folder for the files on the Citrix server
+1.	Find and open the Language folder. 
+	
+2.	Create the folder structure for the Language. 
 
-2.	Create the Bible book folder
+3.	Create chapter folders.
 
-3.	Create chapter folders
+4.	Upload chapter recordings to the chapter folders.
 
-4.	Upload chapter recordings to the chapter folders
+**Find the Language folder for the files on Box.com or in the Box APP**
 
-**Find the folder for the files on the Citrix server**
+Those folders that you have access to will appear on the home page of the website or the APP.
 
-1.	Tap the folder for target language of your project. The folders are shown under the region and/or country of the language. You can first tap the **Magnifying glass icon** to search for the target language if desired. For example, if the target language of your project is Chickasaw, tap the Magnifying glass icon and type “Chickasaw” in the search box, and then tap Sea 
+Option 1. Select the folder for target language of your project. 
 
-2.	The search results are returned. It shows that the Chickasaw folder is found in the Americas/United States folder. Tap the Chickasaw folder to open it.
-    **Hint**: If you will be using that folder frequently, you can tap the star next to it to mark it as one of your favorites.
- 
-3)	The Chickasaw folder is empty, so you need to create a folder structure to store the files. Instructions for that in the next section entitled "Create the folder structure". However, if you are in a folder that has the folder structure already set up, tap the **Oral folder** in the language that you are recording. The example below shows the structure of the Tamil language folder.         
-             
-4)	Tap the appropriate testament folder – OT for an Old Testament book, or NT for a New Testament book.
- 
-.. image:: ../images/Citrix.png
-    :align: center
-    :alt: Citrix server
+	NOTE: You may need to look in a Region folder or a Country folder to find the Language folder. 
 
+The folders are shown under the region and/or country of the language.  For example, if the target language of your project is Chickasaw, tap the Magnifying glass icon and type “Chickasaw” in the search box, and then tap Sea 
+
+Option 2. Search for the Language folder.
+
+	A. In the APP.
+		1. Tap the **Magnifying glass icon** to search for the target language if desired.
+		2. Type in the language name or the language code.
+		3. Tap the **Magnifying glass icon** for search results.
+		4. Tap the desired Language folder to open it.
+		
+	A. On the website.
+		1. Click in the 'Search Files and Folders' field at the top of the window.
+		2. Type in the language name or the language code.
+		3. Press the Enter key for search results.
+		4. Click on the desired Language folder to open it.
+	
 
 **Create the folder structure**
 
 If the folder structure for the language does not exist, you need to create it. 
 
-1.	Tap the language folder to open it.
+**NOTE: You will need to have the status of of at least a 'Viewer-Uploader' to be able to create a folder.**
 
-2.	Tap the **Plus icon**.
+1.	Select the **Plus icon** in the APP or the **New +** button on the website.
 
-3.	Tap **Create Folder** on the menu.
+2.	Select **Create Folder** on the menu. 
 
-4.	Tap in the Name field and type **Oral**, and then tap **Create Folder**.
+3.	In the 'Folder Name' field and type **Oral**, and then select **Create Folder**.
  
-5.	In the Oral folder, create the testament folder (OT or NT).
+4.	In the Oral folder, create the testament folder (OT or NT).
 
-6.	In the testament folder, create a folder for the book of the Bible. You should name it with a leading identification number
+5.	In the testament folder, create a folder for the book of the Bible. You should name it with a leading identification number. 
 
-7.	Tap in the Name field and type the book name with the leading identification number. You may use the language’s name for the folder if the identifying number is there (such as 42-Markos for Spanish).
- 
-    (see table entitled “Global Standard Nomenclature for Books in the Bible”  below – 2-digit number and 3-letter. For example, the 2nd New Testament book for the Spanish Bible would be 42-MRK (or 42-Markos if you use the Spanish name with the leading identification code).
+(See the table entitled “Global Standard Nomenclature for Books in the Bible” below for the 2-digit number and 3-letter identification of the books. For example, the 2nd New Testament book for the Spanish Bible would be 42-MRK (or 42-Markos if you use the Spanish name with the leading identification code).
 
-8.	Tap **Create Folder**. The new folder is created and opened. 
-
-9.	Create Chapter folders – one for each chapter in the book. To create a new chapter folder:    
+6.	Create Chapter folders – one for each chapter in the book. To create a new chapter folder:    
 
     ``a)`` In the Bible book folder, tap the **Plus icon**.
 
-    ``b)``	Tap **Create Folder** in the menu.
+    ``b)`` Tap **Create Folder** in the menu.
 
-    ``c)`` Tap in the ‘Name’ field and enter the chapter number as 2 digits, with a leading zero for single-digit numbers.
+    ``c)`` Tap in the ‘Name’ field and enter the chapter number as 2 digits, with a leading zero for single-digit numbers. (3 digits for the Psalms chapter folders. Such as: 001, 002, 010, 023, 100, 133, etc.)
     
-    ``d)`` Tap the blue **Create Folder** button. The new folder is created and opened.
+    ``d)`` Tap the blue **Create Folder** button. The new folder is created.
  
-    ``e)`` To return to the book folder to create another chapter folder, tap the book name in the top breadcrumbs.
- 
-   Repeat steps a) through e) to create a folder for each chapter.
+Repeat steps a) through d) to create a folder for each chapter.
 
-.. list-table:: **Global Standard Nomenclature for Books in the Bible**
+**NOTE: These steps can be completed when additional chapters are ready for uploading.**
+
+Global Standard Nomenclature for Books in the Bible
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. list-table:: 
    :widths: 30 30 30 30 30 30 30
    :header-rows: 0
 
@@ -230,21 +238,24 @@ If the folder structure for the language does not exist, you need to create it.
 
 Now that you have the folders set up, you can upload your recordings to them. Translators typically upload from their tablets; however, a MAST technical support person may harvest the audio files from a tablet to a thumb drive and then use the computer to upload them. Both methods are discussed below.
 
-**Upload chapter recordings from the tablet**
+**Upload chapter recordings from the Box APP**
+These instructions assume that the Box APP and the BTT Recorder files are on the same tablet.
 
-1.	Navigate to the correct language, book and chapter folder. If they are not present – see the instructions to create the folder structure.
+1.	As described above, navigate to the correct language, book and chapter folder.
 
-2.	Tap the chapter folder.
+2.	Tap to open the chapter folder.
  
 3.	Tap the **Plus icon**. 
 
-4.	Tap **Upload** on the menu. 
+4.	Tap **Upload Content** on the menu. 
  
-5.	The Upload window opens. Tap **Browse files**.
+5.	You may need to swipe the upload window up to view.
 
-6.	A file manager window opens. Tap in turn the following folders:
+6.	Tap **Select files to upload** on the menu.
 
-    * On the left section, tap **Internal Storage**.
+7.	A file manager window opens. 
+
+	* Tap on the 3-line icon at the top left and choose to open the **SD card** or **Internal Storage**. The location of the files depends on the choices made where BTT Recorder saves the files.
  
     * On the right section:
     
@@ -256,52 +267,34 @@ Now that you have the folders set up, you can upload your recordings to them. Tr
  
       * Tap the book code.
  
-      * Tap the chapter number. 
- 
-  * The chapter folder opens and shows all the verse recordings for that chapter. Do a long tap on one of the files (tap and hold until the file’s bar turns darker), and then tap each of the other files to select all of them
+      * Tap the chapter number. The chapter folder opens and shows all the verse recordings for that chapter. 
+	  
+8.	Do a long tap on one of the files (tap and hold until the file’s bar turns darker), and then tap each of the other files to select all of them
 
-  * Tap **OPEN** at the top right of the screen.
+9.	Tap **OPEN** at the top right of the screen.
  
-  * The list of files appears in the ShareFile window. Tap **Upload** to upload the files.
-    **Note**: This screen may not appear – it may upload the files automatically.
+10.	The list of files appears in the Box window as they are uploaded. It may take some time to upload the files.
  
-  * It may take some time to upload the files.
- 
- **Upload chapter recordings from the computer**
+
+**Upload chapter recordings from the computer**
 
 These steps assume that a MAST Tech Support Person, or someone working on the recordings, has harvested the files from the tablets onto a thumb drive.
 
-In a browser on the computer that has the BTT Recorder files, open the ShareFile server (https://digitalstorage.sharefile.com) using your login and password.
+In a browser on the computer that has the BTT Recorder files, open the Box.com site (https://account.box.com/login) or the Box APP using your login and password.
 
-Follow these steps to add files to a folder on the ShareFile server:
+Follow these steps to add files to a folder onto the Box server:
 
 1.	Navigate to the correct Language, Book and Chapter folder.
-
-2.	Tap the Chapter folder to open it.
-
-3.	Tap the **Plus icon**. 
-
-4.	Tap **Upload** on the menu. 
-    The Upload window opens. There are 2 ways to upload the files:
-
-    * Browse to files:
-    
-      *	Click **Browse files**.
-      
-      *	Use the File Explorer to browse to the files on the thumb drive or computer’s hard drive.
-      
-      * Select the desired files and click **Open**.
-      
-      * On the Upload window on ShareFile, click **Upload**. Wait while the files upload to the server.
-
-OR
-
+2.	Click the Chapter folder to open it.
+3.	Click on the **New +** button found at the top right.
+4.	Tap **File Upload** on the menu. 
+5.	In the computer's File Manager, browse to files. There are 2 ways to upload the files:
+	* Select the desired files.
+		* Click **Open**.
+		* Wait while the files upload to Box.com.
+	OR
     * Drag the files from the File Explorer.
-
-      * Open File Explorer and browse to the files on the thumb drive or computer’s hard drive.
-
-      * Select the files and click-hold-and-drag the files to the browser window. Release the mouse button when you see the words “Drop files here”. 
- 
-      * Wait while the files upload to the server.
+      * Select the files and click-hold-and-drag the files to the browser window. Release the mouse button when you see the word “Copy”. 
+      * Wait while the files upload to Box.com.
 
   Repeat these steps for all audio files in each of the chapters. 
