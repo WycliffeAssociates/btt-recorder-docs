@@ -32,7 +32,7 @@ Open the Program
     :align: center
     :alt: BTT Recorder Icon
 
-This icon may not be on the main screen. You may need to scroll to a different screen to find it or open your apps. You can then tap-hold-and-drag the icon to the main screen if desired.
+**NOTE:** This icon may not be on the main screen. You may need to scroll to a different screen to find it or open your apps. You can then tap-hold-and-drag the icon to the main screen if desired.
 
 2.	The first time you open the program, tap ALLOW to grant BTT Recorder access to media files.
 3.	Then tap ALLOW to give the program permission to record audio.     
