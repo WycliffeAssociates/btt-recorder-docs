@@ -3,9 +3,10 @@ Getting Started with BTT Recorder
 
 There are 4 tasks to perform in order to start using BTT Recorder:
 
-* `Install BTT Recorder <https://btt-recorder.readthedocs.io/en/latest/install.html>`_
+* `Installing BTT Recorder <https://btt-recorder.readthedocs.io/en/latest/install.html>`_
 
-* `Open BTT Recorder`_
+* `Open the Program <https://btt-recorder.readthedocs.io/en/latest/install.html#open-the-program>`_
+
 
 * `Create a new user`_ (if you have not used the program before).
 
