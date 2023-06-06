@@ -16,17 +16,6 @@ These tasks are described below.
 
 
 
-Open BTT Recorder
-====================
-
-If BTT Recorder does not open after installation, or if you have closed it and need to reopen it, just tap the **BTT Recorder icon** on the device screen. 
-
-.. image:: ../images/BTTRecorderLogo.gif
-    :align: center
-    :alt: BTT Recorder Icon
-
-This icon may not be on the main screen; you may need to scroll to a different screen to find it, or open your apps. You can then tap and drag it to the main screen if desired.
-
 Create a New User
 =======================
 
