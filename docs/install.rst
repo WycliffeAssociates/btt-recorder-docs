@@ -9,7 +9,7 @@ Installing the BTT Recorder Program
 6.	Tap the bttRecorder.apk file and allow the program to install. (You may need to give permission for an APK to install on the device.)
 
 
-.. image:: ../images/download APK 1.png
+.. image:: ../images/downloadAPK1.jpg
     :width: 500px
     :align: center
     :height: 245px
