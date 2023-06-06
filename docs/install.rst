@@ -26,7 +26,13 @@ Benefits to using the downloaded APK
 Open the Program
 =======
 
-1.	Tap the BTT Recorder icon on the tablet screen. 
+1.	If BTT Recorder does not open after installation, or if you have closed it and need to reopen it, just tap the **BTT Recorder icon** on the device screen. 
+
+.. image:: ../images/BTTRecorderLogo.gif
+    :align: center
+    :alt: BTT Recorder Icon
+
+**NOTE:** This icon may not be on the main screen. You may need to scroll to a different screen to find it or open your apps. You can then tap-hold-and-drag the icon to the main screen if desired.
 
 2.	The first time you open the program, tap ALLOW to grant BTT Recorder access to media files.
 3.	Then tap ALLOW to give the program permission to record audio.     
