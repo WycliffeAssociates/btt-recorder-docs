@@ -12,7 +12,7 @@ Installing the BTT Recorder Program
 .. image:: ../images/downloadAPK1.jpg
     :width: 500px
     :align: center
-    :height: 245px
+    :height: 310px
     :alt: BTT Recorder for Android
 
 
