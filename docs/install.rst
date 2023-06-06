@@ -23,3 +23,11 @@ Benefits to using the downloaded APK
 *  You can pick a specific version of BTT Recorder, including the most up-to-date version of the program.
 
 
+Open the Program
+=======
+
+1.	Tap the BTT Recorder icon on the tablet screen. 
+
+2.	The first time you open the program, tap ALLOW to grant BTT Recorder access to media files.
+3.	Then tap ALLOW to give the program permission to record audio.     
+
