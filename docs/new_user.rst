@@ -23,6 +23,8 @@ To create a new User profile
 
 6. Note the image in the center of the window. This is your identicon. Each user has a unique identicon. If you need to log into BTT Recorder again, you can tap the card with this identicon on the Available Users page. 
 
+https://github.com/WycliffeAssociates/btt-recorder-docs/blob/ChrisJarka-patch-1/images/new_identicon.jpg
+
 7. Press the play button to listen to the recording.
 
   *	If you can you hear your voice and understand your words, then tap **Yes**.
