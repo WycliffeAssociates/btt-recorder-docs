@@ -17,7 +17,7 @@ Before you can start recording, there are some steps you need to take:
 
 The main screens in BTT Recorder are:
 
-*	`Home page <https://btt-recorder.readthedocs.io/en/latest/mainscreens.html#home-page>`_
+*	`Home Screen <https://btt-recorder.readthedocs.io/en/latest/home_screen.html>`_ 
 *	`Project Management pages <https://btt-recorder.readthedocs.io/en/latest/mainscreens.html#project-management-pages>`_
 *	`Recording screen <https://btt-recorder.readthedocs.io/en/latest/mainscreens.html#recording-screen>`_
 *	`Edit screen <https://btt-recorder.readthedocs.io/en/latest/mainscreens.html#edit-screen>`_
