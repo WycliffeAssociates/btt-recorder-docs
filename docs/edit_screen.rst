@@ -7,7 +7,7 @@ The edit screen enables you to edit the take of a verse or chunk in the followin
 
 *  _'Compare: https://github.com/WycliffeAssociates/btt-recorder-docs/blob/ChrisJarka-patch-1/docs/edit_screen.rst#compare-the-recording-to-the-source-audio'_ Recording to Source Audio
 *  `Installing BTT Recorder <https://btt-recorder.readthedocs.io/en/latest/install.html>`_
-*  'Compare <https://btt-recorder.readthedocs.io/en/latest/mainscreens.html>'_
+*  _'Compare <https://btt-recorder.readthedocs.io/en/latest/install.html>'_
 *	`Remove`_ sections of a recording.
 *	`Insert`_ new sections into a recording.
 *	_`Place'_ verse markers
