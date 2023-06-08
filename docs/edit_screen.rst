@@ -5,7 +5,7 @@ A take is a recording of a verse or chunk; a verse/chunk can have multiple takes
 
 The edit screen enables you to edit the take of a verse or chunk in the following ways: 
 
-* :ref:'Compare the recording to the source audio'.
+*  ..//latest/edit_screen.html#compare-the-recording-to-the-source-audio
 *	`Remove`_ sections of a recording.
 *	`Insert`_ new sections into a recording.
 *	_`Place'_ verse markers
@@ -19,6 +19,7 @@ The Edit screen contains several icons to perform this functionality, as shown b
     :height: 1088px
     :alt: Edit screen icons
 
+.. _refname:'Compare'
 Compare the recording to the source audio
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
