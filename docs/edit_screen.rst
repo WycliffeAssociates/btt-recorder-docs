@@ -5,7 +5,8 @@ A take is a recording of a verse or chunk; a verse/chunk can have multiple takes
 
 The edit screen enables you to edit the take of a verse or chunk in the following ways: 
 
-*  ..//latest/edit_screen.html#compare-the-recording-to-the-source-audio
+*  _'Compare<..//latest/edit_screen.html#compare-the-recording-to-the-source-audio>'_ Recording to Source Audio
+* _'Compare<..https://btt-recorder.readthedocs.io/en/latest/mainscreens.html#edit-screen>'_
 *	`Remove`_ sections of a recording.
 *	`Insert`_ new sections into a recording.
 *	_`Place'_ verse markers
