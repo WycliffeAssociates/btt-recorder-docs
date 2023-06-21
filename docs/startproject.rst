@@ -41,6 +41,7 @@ The Project type defines what you will be translating from and consists of:
 
 3. If you are translating the Bible, which translation type?
 
+
 What kind of project? 
 ==============
 
@@ -55,33 +56,35 @@ Tap to select from the choices of:
 Which book or story?
 ===============
 	
+Tap a book in the Bible or a Bible story to translate. 
+
+Swipe up to see more book or story names.
 
 If you are translating the Bible, which translation type?
 =======================================
 
-- Choose, by tapping once, from the choices of Bible:Old Testament or Bible:New Testament or Bible stories:Open Bible Stories.
+**Note**: This choice does not apply to Open Bible Stories.
 
-4. Choose a Book
------ - Tap on a book in the Bible. Swipe up to see more book names, or use the magnifying glass to search for the book.
+Most likely you will choose the **REG: Regular** type. This is the most chosen type.
 
-5. Choose a Translation Type - Tap to choose. 
-
-  * If you are using source audio, you must select the same Translation Type as the source audio.
-  
-  * If you are translating from the UDB or ULB, tap one of those choices. Otherwise, tap REG: Regular. 
-   **Note**: This choice does not apply to Open Bible Stories.
-
-6. Choose a Mode - Tap to choose either Verse or Chunk mode. This is how the translation will be divided. 
-
-  * The ‘Verse’ mode has each recording separated like a regular Bible, one verse at a time.
-  * The ‘Chunk’ mode has each recording separated according to groups of verses.
-
-  **NOTE: You must select the same Translation Type and Mode as the source audio if you are using source audio.**
+If you are translating for the UDB: Unlocked Dynamic Bible or ULB: Unlocked Literal Bible, tap one of those choices.
 
 Select the recording mode
 **********************************
+**Note**: This choice does not apply to Open Bible Stories.
 
-The program goes to the Source Audio step. 
+This defines whether you will record a verse at a time or a chunk at a time. In most cases, you should record in verse mode. 
+
+* Verse mode has each recording separated like a regular Bible, one verse at a time.
+
+* Chunk mode has each recording separated according to groups of verses. 
+
+If you are using source audio, the mode that you select should match that of the source audio. 
+
+You may want to check with the language’s Translation Team Lead or Technical Support person to learn which should be chosen.
+
+Select the Source Audio
+****************************
 
 1. Tap on the top green bar (SOURCE LANGUAGE:) to select the language of the Source Audio. (The Source Language audio is the language from which you will translate.)
 
