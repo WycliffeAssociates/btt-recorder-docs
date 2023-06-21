@@ -83,8 +83,8 @@ If you are using source audio, the mode that you select should match that of the
 
 You may want to check with the language’s Translation Team Lead or Technical Support person to learn which should be chosen.
 
-Select the Source Audio
-****************************
+Select the Source Language
+*********************************
 
 1. Tap on the top green bar (SOURCE LANGUAGE:) to select the language of the Source Audio. (The Source Language audio is the language from which you will translate.)
 
@@ -96,7 +96,12 @@ Select the Source Audio
      * The Keyboard appears. Type in the language or language code. 
      * Close the keyboard by using the down arrow icon, or back arrow icon.
 
-3. Tap on the name of the desired Source Language. The program goes back to the Source Audio window.
+3. Tap on the name of the desired Source Language. 
+
+Select the Source Audio File
+***********************************
+
+In the Source Audio window:
 
 4. Tap on the bottom green bar (SELECT SOURCE LOCATION:) to load the source audio. The file manager should open to the directory of where the audio files are located.
 
