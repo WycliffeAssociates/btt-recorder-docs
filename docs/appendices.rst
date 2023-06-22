@@ -1,17 +1,29 @@
 English Appendices
 ======
 
-English Source Audio
+Download Source Audio
 -----
 
-Go to this page (https://digitalstorage.sharefile.com/share/view/s34cb4b0a5be4ce3a/) for a list of links to download the English source audio files for BTT Recorder. **NOTE** These files are for translation projects for the **ULB by Verse**.
+You will need to have the source audio files on the tablet before creating a Translation Project. The files can be either shared by a team lead or downloaded from the Bible In Every Language Audio website. 
 
-**How to download:**
+**NOTE** These files are for translation projects for the **Verse** Recording Mode.
 
-1. Go to the link above.
-2. Navigate to the desired book/chapter for the translation work.
-3. Click on the desired file.
-4. Download the file to the tablet or computer (to transfer to the tablet later.)
+Go to this web site: (https://audio.bibleineverylanguage.org/gl) for a list of languages with audio files to use in BTT Recorder.
+
+#.	Click on the desired Source Language.
+#.	Click on the BTT Recorder card. 
+#.	Scroll to the book you are translating.
+
+**NOTE** If the book is greyed out, then a source audio file is not available. 
+
+4.	Click on the desired book.
+5. Choose to download a chapter or the entire book.
+
+**NOTE** For larger books you may want to download individual chapters.
+
+6.	The file is now in the download folder on the tablet.
+
+
 
 Translator Handouts
 -----
