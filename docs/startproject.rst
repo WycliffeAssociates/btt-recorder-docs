@@ -70,7 +70,7 @@ Most likely you will choose the **REG: Regular** type. This is the most chosen t
 If you are translating for the UDB: Unlocked Dynamic Bible or ULB: Unlocked Literal Bible, tap one of those choices.
 
 Select the recording mode
-**********************************
+=====================
 **Note**: This choice does not apply to Open Bible Stories.
 
 This defines whether you will record a verse at a time or a chunk at a time. In most cases, you should record in verse mode. 
@@ -86,41 +86,44 @@ You may want to check with the language’s Translation Team Lead or Technical S
 Select the Source Language
 *********************************
 
-1. Tap on the top green bar (SOURCE LANGUAGE:) to select the language of the Source Audio. (The Source Language audio is the language from which you will translate.)
+The Source Language is the language from which you will translate.
 
-2. You can search for the desired source language in one of two ways:
-  
-    * By swiping from the bottom of the screen up to scroll through the languages.
-    
-    * By tapping the magnifying glass.
-     * The Keyboard appears. Type in the language or language code. 
-     * Close the keyboard by using the down arrow icon, or back arrow icon.
+1. Tap the top green bar (SELECT SOURCE LANGUAGE) to select the language. 
+2. Search for the desired source language by either: 
 
-3. Tap on the name of the desired Source Language. 
+* Swiping from the bottom of the screen up to scroll through the languages. 
+
+OR
+
+* Tapping the magnifying glass. The keyboard appears. Type in the language or language code. 
+
+
+3. Tap the name of the Source Language. This must match the language of the source audio file.
+
+4. You can close the keyboard by tapping your tablet’s down arrow icon or back arrow icon.
+
+The program goes back to the Source Audio window. The top green bar now shows SOURCE LANGUAGE: [the language code of the selected language).
+
 
 Select the Source Audio File
 ***********************************
 
-In the Source Audio window:
+If you do not have source audio available, tap **SKIP** in the lower right corner of the screen.
 
-4. Tap on the bottom green bar (SELECT SOURCE LOCATION:) to load the source audio. The file manager should open to the directory of where the audio files are located.
+You will need to have the source audio files on the tablet before following these steps. The files can be either shared by a team lead or downloaded from the Bible In Every Language Audio website. See Download Source Audio Files in the Appendix for instructions. 
 
 **NOTE**: The audio files are named in this way: *Language Code_Translation Type_Book Code*.tr  So, for the ULB audio of the book of Titus in Swahili the file would be named "sw_ulb_Titus.tr". 
 
+**In the Source Audio window:**
+
+1. Tap on the bottom green bar (SELECT SOURCE LOCATION:) to load the source audio. The file manager should open to the directory of where the audio files are located.
+
 **Hint**: You may need to search in the Internal Storage for ``*``.tr files. 
 
-3. Tap on the name of the desired Source Language audio file. The program goes back to the Source Audio window.
-
-4. Confirm that the information in the green bar is correct. 
-
-5. Tap on the word ‘CONTINUE’ at the bottom right of the screen. 
-
-
-Select a source audio
-***************************
+2. Tap on the name of the desired Source Language audio file. The program goes back to the Source Audio window.
+3. Confirm that the information in the green bar is correct. 
+4. Tap on the word ‘CONTINUE’ at the bottom right of the screen. 
 
 The recording window opens.
-
-You are ready to work within BTT Recorder. At any time, you may tap the back arrow at the bottom left of the screen. That will take you out to the main menu.
 
 Go to `Recording <https://btt-recorder.readthedocs.io/en/latest/recording.html>`_ for instructions on how to record.
