@@ -1,8 +1,40 @@
 Recording
-==============
+###############
+
+Remember that there is inforamtion the Screen section that describes the parts of the Recording Screen. You may want to refer to this information while learning how to make a recording.
+
+There are two main purposes for making a recording: 
+
+* Audio recording - when a recording is created by reading a written translation of the Bible. 
+
+* Oral translation - when a new translation of the Bible is created in an oral Heart Language.
+
+Audio Recordings
+===========
+Audio recordings are when a recording is created by reading a written translation of the Bible. 
+
+There are reasons to choose to do an audio recording:
+
+1.	A translator translates from a written text that they can read into their Heart Language that is not a written language.
+2.	A language group would like to have an audio recording of their written Bible to be used by those that cannot read the language.
+3.	Create a Source Audio recording for another language to use in their translation work. Source Audio recordings are done by someone that can read and record a source text. 
+
+Although it is tempting to read an entire chapter at once, BTT Recorder requires that you read a verse or chunk at a time so that you can have proper verse markers. Because of this, you must follow the same process as that for recording oral translations as explained below except that you do not need to include the source audio steps.
+
+
+Oral Translations
+================
+
+Oral Translation recordings are when a new translation of the Bible is created in an oral (unwritten) Heart Language.
+
+**NOTE** These instructions will describe how to create an oral translation using Source Audio. 
+
+Please disregard references to Source Audio in the instructions, if the Source Audio has not been included in the Project setup.
+
+After you have defined one or more projects, you can start recording. 
 
 Steps to Follow from the Home Screen 
-----
+*******************************************
 
 **Note**: This procedure enables you to record only the project that is named in the blue recording area. If a different project is shown, or no project is shown, you need to record from the Project Management screen as explained `below <https://btt-recorder.readthedocs.io/en/latest/recording.html#steps-to-follow-from-project-management>`_.
 
