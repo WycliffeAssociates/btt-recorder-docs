@@ -1,28 +1,45 @@
 .. _cut_insert:
 
-Using the Edit Screen - Cutting and Inserting
-=======
+Edit the Recording
+######################
+
+**Open the Edit Screen**
+
+1.	On the Verse/Chunk Take Management bar, tap the left or right arrows to navigate to the take you want to edit. 
+2.	Tap the Waveform icon   on the Verse/Chunk Take bar to open the edit screen.
+
+**Terms to Know**
+
+* Rewind - go towards the beginning of the recording.
+* Fast forward - go towards the end of the recording.
+
 
 Compare the recording to the Source Language recording
------
+*************************************************************
+**NOTE**: Skip this step if you do not have a source audio available.
+
+Follow these steps to compare your recording to the Source Language recording.
+
 **First, listen to the Source Audio**:
 
-•	To compare your recording to the Source Language recording press the hearing ear icon and press the play icon on the gray bar.  
+1. Tap the hearing ear icon to switch to the Source Audio player.
+2. Tap the play icon on the gray bar.  
+
 •	To pause the recording tap the pause button on the gray bar (the pause icon replaces the play icon.) 
-•	To rewind (go towards the beginning of the recording) or fast forward (go towards the end of the recording) press and hold the green dot and slide your finger to the left for rewind or to the right to fast forward. 
-•	To return to your recording tap on the wave form icon.
+•	Press-and-hold the green dot and slide your finger to the left for rewind or to the right to fast forward. 
 
 **Then, listen to the recording**:
 
-* To playback your recording, tap the white play icon on the blue bar.
-* To pause the playback of the recording, tap the pause icon on the blue bar. (The pause icon replaces the play icon.)
-* To rewind the recording tap the rewind icon and tap the fast forward icon to go farther along in the recording.
+1. To playback your recording, tap the white play icon on the blue bar.
+2. To pause the playback of the recording, tap the pause icon on the blue bar. (The pause icon replaces the play icon.)
+3. Tap the rewind icon to go to the beginning of the recording or tap the fast forward icon to go end of the recording. 
+4. Optional - Pause the playback and then press-and-hold in the black area of the recording screen to drag the playback spot for rewind or fast forward.
 
-You may go between listening to the source audio and listening to the recording.
+You may go between listening to the source audio and listening to your recording.
 
 
 Remove a section of recording 
------
+************************************
 
 The action of removing a section of a recording is known as a 'cut.'
 
@@ -49,7 +66,8 @@ Optional: Tap on the back arrow icon to undo the delete action.
 7.	Tap on the SD card icon to save the edit. BTT Recorder will return to Project Management.
 
 Insert a new section of recording.
------
+*****************************************
+
 Sometimes you may want to insert a missing part into the translation.
 
 1.	Position the audio at the thin blue line for where the new audio will be added in. (Use the press-hold-drag action.)
