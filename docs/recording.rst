@@ -10,7 +10,7 @@ There are two main purposes for making a recording:
 * Oral translation - when a new translation of the Bible is created in an oral Heart Language.
 
 Definition of Audio Recordings and Oral Translations
-++++++++++++++++++++++++++++++++++
+****************************************************************
 
 **Audio Recordings**
 
@@ -36,7 +36,7 @@ Please disregard references to Source Audio in the instructions, if the Source A
 After you have defined one or more projects, you can start recording. 
 
 Open the Recording Screen 
-+++++++++++++++++
+************************************
 
 There are multiple ways to reach the recording screen:
 
@@ -69,7 +69,7 @@ On the Verse/Chunk Project Management screen, you can open the recording at a sp
 
 
 Confirm the information in the top Bar
-+++++++++++++++++++++
+==============================
 
 When the recording screen opens, it is good practice to check the information on the top gray bar.
 
@@ -84,7 +84,7 @@ Check the information on the top gray bar:
 Use the + and – signs to correct the chapter or verse/chunk number.
 
 Listen to the Source Audio
-+++++++++++++++++++++
+==================
 NOTE: Skip this step if you do not have a source audio available.
 
 Source Audio playback is located just above the blue bar at the bottom of the Recording screen.
@@ -97,10 +97,10 @@ If there is source audio, you can listen to it as needed to consume the ideas. Y
 Optional - Tap and hold the green dot and drag it to move to a different position in the source audio.
 
 Create a Recording
-+++++++++++++++++++++++++
+****************************
 
 Volume Check
-+++++++++
+=========
 
 **NOTE**: You may want to do a volume check before recording.
 
@@ -117,7 +117,7 @@ The goal is to make recordings with the volume in the green range.
 * Does the box become very large and turns red? This volume is too loud.
 
 Record
-++++
+====
 
 1. When ready to record the translation, tap the Microphone icon in the middle of the blue bar at the bottom of the Recording screen. 
 2.	As you begin to speak you will see white vertical lines appear on the screen, which is the result of the sound of your voice. These lines are known as waves.
@@ -128,9 +128,9 @@ Record
 4.	Tap the Check icon at the far right of the bottom blue bar when you are finished recording the verse/chunk.
 
 Save the Recording
-+++++++
+**********************
 
-Skip step 1 if you do not have Source Audio available.
+**Skip step 1 if you do not have Source Audio available.**
 
 1.	If you want to listen to the source audio again before saving the recording, you can switch from displaying the recording you just made by tapping the Ear icon to display the source audio, and then tapping Play on the source audio bar.
 
