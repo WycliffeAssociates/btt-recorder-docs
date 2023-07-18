@@ -11,14 +11,14 @@ A project can optionally use source audio, so that the translator can listen to 
 Before you can start recording, there are some steps you need to take:
 
 *	`Install BTT Recorder <https://btt-recorder.readthedocs.io/en/latest/install.rst#install-the-btt-recorder-program>`_
-*	`Open the program <https://btt-recorder.readthedocs.io/en/latest/install.html#open-the-program>`_
-*	`Create a new user <https://btt-recorder.readthedocs.io/en/latest/createuser.rst#creating-a-new-user-profile>`_
-*	`Create a new project <https://btt-recorder.readthedocs.io/en/latest/newproject.rst#create-a-new-project>`_
+*	`Open BTT Recorder <https://btt-recorder.readthedocs.io/en/latest/install.html#open-the-program>`_
+*	`Create a New User <https://btt-recorder.readthedocs.io/en/latest/createuser.rst#creating-a-new-user-profile>`_
+*	`Create a New Project <https://btt-recorder.readthedocs.io/en/latest/newproject.rst#create-a-new-project>`_
 
 Once a Project has been created you will:
 
-*  `Record the translation <https://btt-recorder.readthedocs.io/en/latest/recording.rst#recording>`_
-*  `Edit the translated work <https://btt-recorder.readthedocs.io/en/latest/editing.rst>`_
+*  `Record the Translation <https://btt-recorder.readthedocs.io/en/latest/recording.rst#recording>`_
+*  `Edit the Translated Work <https://btt-recorder.readthedocs.io/en/latest/editing.rst>`_
 
 The main screens in BTT Recorder are (Refer to these pages for a complete description of each screen.):
 
@@ -29,7 +29,7 @@ The main screens in BTT Recorder are (Refer to these pages for a complete descri
 
 After completing your recording, you can:
 
-* `Create chapter recordings <https://btt-recorder.readthedocs.io/en/latest/compiling.html>`_
+* `Create a Chapter Recording <https://btt-recorder.readthedocs.io/en/latest/compiling.html>`_
 * `Share your recordings <https://btt-recorder.readthedocs.io/en/latest/sharing.html>`_
 
 All of these topics are presented in subsequent pages. You can use the Next button to go through the topics sequentially, or you can go to a specific subject by using the links above or in the sidebar.
