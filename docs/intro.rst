@@ -18,11 +18,11 @@ Before you can start recording, there are some steps you need to take:
 Once a Project has been created you will:
 
 *  `Record the translation <https://btt-recorder.readthedocs.io/en/latest/recording.rst#recording>`_
-*  `Edit the translated work <https://btt-recorder.readthedocs.io/en/latest/editing.rst>`
+*  `Edit the translated work <https://btt-recorder.readthedocs.io/en/latest/editing.rst>`_
 
 The main screens in BTT Recorder are (Refer to these pages for a complete description of each screen.):
 
-*	`Home Screen <https://btt-recorder.readthedocs.io/en/latest/home_screen.html>`_ 
+*	`Home Screen <https://btt-recorder.readthedocs.io/en/latest/mainscreens.rst#home-page>`_ 
 *	`Project Management pages <https://btt-recorder.readthedocs.io/en/latest/mainscreens.html#project-management-pages>`_
 *	`Recording screen <https://btt-recorder.readthedocs.io/en/latest/mainscreens.html#recording-screen>`_
 *	`Edit screen <https://btt-recorder.readthedocs.io/en/latest/mainscreens.html#edit-screen>`_
