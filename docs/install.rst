@@ -1,5 +1,5 @@
-Installing the BTT Recorder Program
-=======
+Install the BTT Recorder Program
+------------------------------------------
 
 1.	Go to this URL: https://github.com/Bible-Translation-Tools/BTT-Recorder/releases.
 2.	The latest release is listed first.  The list of files that can be downloaded are in the same box under the Assets title.
