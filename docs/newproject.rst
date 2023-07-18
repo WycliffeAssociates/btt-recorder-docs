@@ -1,20 +1,5 @@
-Getting Started with BTT Recorder
-----------------------------------
-
-There are 4 tasks to perform in order to start using BTT Recorder:
-
-* `Installing BTT Recorder <https://btt-recorder.readthedocs.io/en/latest/install.html>`_
-
-* `Open the Program <https://btt-recorder.readthedocs.io/en/latest/install.html#open-the-program>`_
-
-* _'Create a New User <https://btt-recorder.readthedocs.io/en/latest/new_user.html>`_
-
-* `Create a new project`_ (if there are no existing projects).
-
-
-
 Create a New Project
-=====================
+---------------------------
 
 If you have no existing projects, you will need to create a project before you can work in BTT Recorder to perform oral translation.
 
