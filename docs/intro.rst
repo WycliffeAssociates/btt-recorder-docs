@@ -10,12 +10,17 @@ A project can optionally use source audio, so that the translator can listen to 
 
 Before you can start recording, there are some steps you need to take:
 
-*	`Install BTT Recorder <https://btt-recorder.readthedocs.io/en/latest/getstarted.html#install-btt-recorder>`_
-*	`Open the program <https://btt-recorder.readthedocs.io/en/latest/getstarted.html#open-btt-recorder>`_
-*	`Create a new user <https://btt-recorder.readthedocs.io/en/latest/getstarted.html#create-a-new-user>`_
-*	`Create a new project <https://btt-recorder.readthedocs.io/en/latest/getstarted.html#create-a-new-project>`_
+*	`Install BTT Recorder <https://btt-recorder.readthedocs.io/en/latest/install.rst#install-the-btt-recorder-program>`_
+*	`Open the program <https://btt-recorder.readthedocs.io/en/latest/install.html#open-the-program>`_
+*	`Create a new user <https://btt-recorder.readthedocs.io/en/latest/createuser.rst#creating-a-new-user-profile>`_
+*	`Create a new project <https://btt-recorder.readthedocs.io/en/latest/newproject.rst#create-a-new-project>`_
 
-The main screens in BTT Recorder are:
+Once a Project has been created you will:
+
+*  `Record the translation <https://btt-recorder.readthedocs.io/en/latest/recording.rst#recording>`_
+*  `Edit the translated work <https://btt-recorder.readthedocs.io/en/latest/editing.rst>`
+
+The main screens in BTT Recorder are (Refer to these pages for a complete description of each screen.):
 
 *	`Home Screen <https://btt-recorder.readthedocs.io/en/latest/home_screen.html>`_ 
 *	`Project Management pages <https://btt-recorder.readthedocs.io/en/latest/mainscreens.html#project-management-pages>`_
