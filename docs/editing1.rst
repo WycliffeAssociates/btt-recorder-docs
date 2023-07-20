@@ -1,20 +1,9 @@
-Edit Recordings in Project Management
+Find the Recording
 #############################################
 
-See the `"Edit Screen Icons" <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTT-Recorder_Edit_Screen_Icons_v1.4.pdf>`_ document for the list of icons and their name. 
-
-There are several steps to follow to edit an existing recording:
-
-* Find the recording.
-* Edit the recording – you can remove a section of the recording or add a new section.
-* Rate the recording. (Optional)
-* Place the verse markers.
-
-Find a Recording
-****************** 
-1. Start at the Project Management screen. Tap on a Project bar to edit.
-2. Tap on the Chapter bar.
-3. Tap the arrow at the end of the verse bar. 
+1. Start at the Project Management screen. Tap on a **Project bar** to edit.
+2. Tap on the **Chapter bar**. The Chapter Management screen opens - see the list of verses/chunks.
+3. Tap the **right arrow** at the end of the verse bar.  
 
 The take management bar opens. (**A 'take' is the word that refers to a recording.**) It is now possible to work with the recordings from this verse. 
 
@@ -39,4 +28,4 @@ The items in the verse take bar are (listed top to bottom and left to right):
 6. Star icon - Tap the star icon to rate the recording.
 7. Left or right arrow - Navigate through the takes for a different take. Notice that the take number changes.
 
-Go to the next topic - `Cutting and Inserting <https://btt-recorder.readthedocs.io/en/latest/editing2.html>`_ to learn how to edit the recordings in BTT Recorder.
+Go to the next topic - `Edit the Recording <https://btt-recorder.readthedocs.io/en/latest/editing2.html>`_ to learn how to edit the recordings in BTT Recorder.
