@@ -1,9 +1,8 @@
-.. _cut_insert:
-
 Edit the Recording
 ######################
 
-**Open the Edit Screen**
+Open the Edit Screen
+****************************
 
 1.	On the Verse/Chunk Take Management bar, tap the left or right arrows to navigate to the take you want to edit. 
 2.	Tap the Waveform icon   on the Verse/Chunk Take bar to open the edit screen.
@@ -14,7 +13,7 @@ Edit the Recording
 * Fast forward - go towards the end of the recording.
 
 
-Compare the recording to the Source Language recording
+Compare the Recording to the Source Language Recording
 *************************************************************
 **NOTE**: Skip this step if you do not have a source audio available.
 
@@ -38,7 +37,7 @@ Follow these steps to compare your recording to the Source Language recording.
 You may go between listening to the source audio and listening to your recording.
 
 
-Remove a section of recording 
+Remove a Section of the Recording 
 ************************************
 
 The action of removing a section of a recording is known as a 'cut.'
@@ -65,7 +64,7 @@ Optional: Tap on the back arrow icon to undo the delete action.
 
 7.	Tap on the SD card icon to save the edit. BTT Recorder will return to Project Management.
 
-Insert a new section of recording.
+Insert a New Section of A Recording
 *****************************************
 
 Sometimes you may want to insert a missing part into the translation.
