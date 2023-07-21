@@ -1,4 +1,4 @@
-Verse Markers
+Place Verse Markers
 ############################
 
 Verse markers are only available for when recordings are done in chunk mode.
