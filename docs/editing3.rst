@@ -1,4 +1,4 @@
-Editing - Rate the Recording
+Rate the Recording
 ######################################
 
 To indicate the quality of the recording, you can add a star rating to it. 
@@ -31,6 +31,4 @@ In the Star Rating window, you will tap on a star to select the rating.
 
 Tap OK to save.
 
-Go to the Editing - Verse Markers 
-
-
+Go to the next topic: `Verse Markers <https://btt-recorder.readthedocs.io/en/latest/editing4.html>`_ to learn how to mark the verses in recordings in BTT Recorder.
