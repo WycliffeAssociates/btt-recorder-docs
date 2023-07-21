@@ -1,7 +1,5 @@
-Editing Recordings - Verse Markers and Rating 
-=======
 Verse Markers
------
+############################
 
 Verse markers are only available for when recordings are done in chunk mode.
 
