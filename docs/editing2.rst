@@ -125,3 +125,5 @@ To insert a missing part into the translation:
 Once the program is done saving, it returns to the Project Management screen. The edited recording is saved as a new take.
 
 **NOTE**: You may need to navigate to the Book/Project Management screen and then back to the Chapter Management screen for the additional take to show on the Verse Management bar.
+
+Go to the next topic: `Editing - Rating <https://btt-recorder.readthedocs.io/en/latest/editing3.html>`_ to learn how to rate the recordings in BTT Recorder.
