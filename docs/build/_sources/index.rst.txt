@@ -4,9 +4,9 @@
    contain the root `toctree` directive.
 
 Bible Translation Tools Recorder (BTT Recorder) v1.4.x Information
-==================================================================
+============================
 
-This site is the official documentation for the BTT Recorder user manuals.
+This site is the official documentation for BTT Recorder.
 
 
 Contents:
@@ -14,19 +14,14 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   install
-   createuser
-   startproject
-   menus
-   recording
-   editing1
-   editing2
-   editing3
-   sourceaudio
-   filemanager
+   download
+   intro
+   getstarted
+   mainscreens
    compiling
-   markingverses
-   projectinformation
    sharing
+   import
    appendices
    fr_appendices
+   
+

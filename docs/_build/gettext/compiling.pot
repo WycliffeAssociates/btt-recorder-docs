@@ -1,0 +1,253 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, Door43
+# This file is distributed under the same license as the BTT Recorder Information package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BTT Recorder Information 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-28 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../compiling.rst:2
+msgid "Creating a Chapter Recording"
+msgstr ""
+
+#: ../../compiling.rst:4
+msgid "After the verse or chunk recordings have been created for a chapter it is then possible to make a recording into a complete chapter. The translator can listen to the entire chapter and make additional edits if ranecessary."
+msgstr ""
+
+#: ../../compiling.rst:6
+msgid "**Terms to know**:"
+msgstr ""
+
+#: ../../compiling.rst:7
+msgid "Compile – to put into one piece, combine."
+msgstr ""
+
+#: ../../compiling.rst:8
+msgid "Stitch – to compile the different recordings into one recording."
+msgstr ""
+
+#: ../../compiling.rst:9
+msgid "Packaging - to prepare the recordings for compressing into a smaller file. This process is done automatically by the software."
+msgstr ""
+
+#: ../../compiling.rst:12
+msgid "Compile a Recording for the Chapter"
+msgstr ""
+
+#: ../../compiling.rst:13
+msgid "Start in the `Project Management screen <https://btt-recorder.readthedocs.io/en/latest/mainscreens.html#project-management-pages>`_ and tap on the book to finish. Notice that the circle should be full. The list of chapters for the book shows."
+msgstr ""
+
+#: ../../compiling.rst:15
+msgid "The chapters are listed – each one on a separate bar."
+msgstr ""
+
+#: ../../compiling.rst:17
+msgid "**NOTE**:"
+msgstr ""
+
+#: ../../compiling.rst:18
+msgid "The black Compile icon (stack of papers) means that all verses/chunks have recordings."
+msgstr ""
+
+#: ../../compiling.rst:19
+msgid "The gray Compile icon (stack of papers) means that there are missing recordings."
+msgstr ""
+
+#: ../../compiling.rst:21
+msgid "Tap on a bar to open a chapter. Notice full blue circle."
+msgstr ""
+
+#: ../../compiling.rst:22
+msgid "Check to make sure there is one approved recording (green check mark) for each chunk or verse."
+msgstr ""
+
+#: ../../compiling.rst:24
+msgid "**NOTE**: if there is no number next to the microphone, there is only 1 take per verse/chunk."
+msgstr ""
+
+#: ../../compiling.rst:26
+msgid "**NOTE**: When there are multiple takes per verse or chunk, there are rules for what take is included in the chapter recording. These are the rules followed when combing a chapter into a single audio file:"
+msgstr ""
+
+#: ../../compiling.rst:28
+msgid "If there is a recording with a star rating, they are included according to the number of stars."
+msgstr ""
+
+#: ../../compiling.rst:30
+msgid "3 green stars = first choice; 2 yellow stars = second choice; 1 red star = third choice"
+msgstr ""
+
+#: ../../compiling.rst:31
+msgid "If there is not a star rating given, then a green check mark is used."
+msgstr ""
+
+#: ../../compiling.rst:32
+msgid "If there are no star rating and the check is not green, then the most recent take is used."
+msgstr ""
+
+#: ../../compiling.rst:34
+msgid "Tap the **back arrow** ←, found at the far left on the top blue bar, to return to the chapter listing."
+msgstr ""
+
+#: ../../compiling.rst:35
+msgid "Tap the **Compile icon** (stack of paper) to stitch the chapter into one file. A warning window opens asking \"Compile all units into one chapter audio?\""
+msgstr ""
+
+#: ../../compiling.rst:36
+msgid "Tap **OK** to accept the action of making the chapter into a single file."
+msgstr ""
+
+#: ../../compiling.rst:38
+msgid "Repeat steps 2 – 6 for every chapter."
+msgstr ""
+
+#: ../../compiling.rst:41
+msgid "Check the Chapter Recording"
+msgstr ""
+
+#: ../../compiling.rst:43
+msgid "**NOTE**: Chapters that have been stitched together have a number-inside-a-box icon and an arrow (>) icon on the chapter bar in Project Management."
+msgstr ""
+
+#: ../../compiling.rst:45
+msgid "**Listen to the Chapter Recording**"
+msgstr ""
+
+#: ../../compiling.rst:47
+msgid "Tap the **right arrow** (>) found at the right end of the chapter bar, to open the Take Bar for the chapter."
+msgstr ""
+
+#: ../../compiling.rst:48
+msgid "Tap the green **Play icon** to listen to a complete chapter."
+msgstr ""
+
+#: ../../compiling.rst:50
+msgid "**Does the recording need editing?**"
+msgstr ""
+
+#: ../../compiling.rst:51
+msgid "Are there long pauses?"
+msgstr ""
+
+#: ../../compiling.rst:52
+msgid "Are there words that need to be corrected?"
+msgstr ""
+
+#: ../../compiling.rst:53
+msgid "Are there missing words?"
+msgstr ""
+
+#: ../../compiling.rst:55
+msgid "Make corrections to the verse or chunk recording:"
+msgstr ""
+
+#: ../../compiling.rst:57
+msgid "Tap on the chapter bar."
+msgstr ""
+
+#: ../../compiling.rst:58
+msgid "Choose the verse or chunk that needs the new recording or editing."
+msgstr ""
+
+#: ../../compiling.rst:59
+msgid "Record or edit the verse."
+msgstr ""
+
+#: ../../compiling.rst:60
+msgid "Save the recording."
+msgstr ""
+
+#: ../../compiling.rst:61
+msgid "Rate the best recording with a green star."
+msgstr ""
+
+#: ../../compiling.rst:62
+msgid "Use the back arrow at the top to return to the Chapter list."
+msgstr ""
+
+#: ../../compiling.rst:64
+msgid "When the corrections have been made. Tap the **Compile icon** (black stack of paper) to stitch the chapter again."
+msgstr ""
+
+#: ../../compiling.rst:66
+msgid "NOTE: Each time a chapter is stitched – the new recording replaces the old chapter recording."
+msgstr ""
+
+#: ../../compiling.rst:68
+msgid "**Set the Checking Level for the Chapter Recording**"
+msgstr ""
+
+#: ../../compiling.rst:70
+msgid "Tap the number box to set a level of checking on the audio file."
+msgstr ""
+
+#: ../../compiling.rst:71
+msgid "Choose a checking level by tapping  one of the numbers."
+msgstr ""
+
+#: ../../compiling.rst:72
+msgid "0 is the lowest while 3 is highest."
+msgstr ""
+
+#: ../../compiling.rst:73
+msgid "Tap **OK** to save the checking level and close the window."
+msgstr ""
+
+#: ../../compiling.rst:74
+msgid "Tap the **back arrow** in the top blue bar to return to the Project Management screen."
+msgstr ""
+
+#: ../../compiling.rst:76
+msgid "When all the chapters are finalized (stitched) the book is done."
+msgstr ""
+
+#: ../../compiling.rst:79
+msgid "Chapters with gray Compile icon (stack of paper)"
+msgstr ""
+
+#: ../../compiling.rst:81
+msgid "Tap on the chapter bar with the gray Compile icon (stack of paper). Did you notice the partial blue circle? That indicates an incomplete chapter."
+msgstr ""
+
+#: ../../compiling.rst:82
+msgid "Find the verse or chunk that does not have a recording."
+msgstr ""
+
+#: ../../compiling.rst:84
+msgid "**HINTS**: There is no arrow next to the microphone. The verse/chunk number is in gray."
+msgstr ""
+
+#: ../../compiling.rst:86
+msgid "Record the verse or chunk. Once the verse or chunk is done, then the chapter is ready to be combined into one audio file."
+msgstr ""
+
+#: ../../compiling.rst:87
+msgid "Tap the **back arrow** ← at the top to return to the chapter listing."
+msgstr ""
+
+#: ../../compiling.rst:88
+msgid "Tap the **Compile icon** (black stack of paper) to stitch the chapter."
+msgstr ""
+
+#: ../../compiling.rst:90
+msgid "**REMEMBER**: Chapters with the number in a box icon are the chapters that have been stitched."
+msgstr ""
+
+#: ../../compiling.rst:93
+msgid "Share the Chapter Recordings"
+msgstr ""
+
+#: ../../compiling.rst:94
+msgid "You can create a file containing all of the chapter recordings that you can save with others. There are several options for doing this. See `Sharing Your Recordings <https://btt-recorder.readthedocs.io/en/latest/sharing.html#>`_"
+msgstr ""

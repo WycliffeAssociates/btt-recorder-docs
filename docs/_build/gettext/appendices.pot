@@ -1,0 +1,293 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, Door43
+# This file is distributed under the same license as the BTT Recorder Information package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BTT Recorder Information 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-28 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../appendices.rst:2
+msgid "English Appendices"
+msgstr ""
+
+#: ../../appendices.rst:5
+msgid "English Source Audio"
+msgstr ""
+
+#: ../../appendices.rst:7
+msgid "Go to this page (https://digitalstorage.sharefile.com/share/view/s34cb4b0a5be4ce3a/) for a list of links to download the English source audio files for BTT Recorder. **NOTE** These files are for translation projects for the **ULB by Verse**."
+msgstr ""
+
+#: ../../appendices.rst:9
+msgid "**How to download:**"
+msgstr ""
+
+#: ../../appendices.rst:11
+msgid "Go to the link above."
+msgstr ""
+
+#: ../../appendices.rst:12
+msgid "Navigate to the desired book/chapter for the translation work."
+msgstr ""
+
+#: ../../appendices.rst:13
+msgid "Click on the desired file."
+msgstr ""
+
+#: ../../appendices.rst:14
+msgid "Download the file to the tablet or computer (to transfer to the tablet later.)"
+msgstr ""
+
+#: ../../appendices.rst:17
+msgid "Translator Handouts"
+msgstr ""
+
+#: ../../appendices.rst:18
+msgid "Use these files to give to the oral language translators to help them remember the steps."
+msgstr ""
+
+#: ../../appendices.rst:20
+msgid "`Recording with Source Audio v1.4 <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Recording_with_Source_Audio_1.4.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:22
+msgid "`Recording without Source Audio v1.4 <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Recording_without_Source_Audio_1.4.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:24
+msgid "`Editing Audio Recordings v1.4 <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Editing_Audio_Recordings_v1.4.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:26
+msgid "`Edit Screen Icons <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTT-Recorder_Edit_Screen_Icons_v1.4.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:28
+msgid "`Marking Verses in Chunk Mode <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Marking_Verses_in_Chunk_Mode_v1.4.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:30
+msgid "`Create Chapter Recordings <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:32
+msgid "`Sharing the Audio Files <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Sharing_the_Recording_v1.4.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:34
+msgid "`Good Recording Levels <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Good_Recording_v1.4.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:38
+msgid "Video Demonstrations"
+msgstr ""
+
+#: ../../appendices.rst:40
+msgid "`Complete playlist of BTT Recorder Demos <https://www.youtube.com/playlist?list=PLNQBr_Ya9na-BXU2YaJa88iq_x3es7Z5a>`_"
+msgstr ""
+
+#: ../../appendices.rst:42
+msgid "Links to Individual Demos:"
+msgstr ""
+
+#: ../../appendices.rst:44
+msgid "`Installing BTT Recorder on an Android Tablet <https://youtu.be/L3f7UPdPjSI>`_"
+msgstr ""
+
+#: ../../appendices.rst:46
+msgid "`Creating a New User Profile in BTT Recorder <https://youtu.be/BKADuEH8TVk>`_"
+msgstr ""
+
+#: ../../appendices.rst:48
+msgid "`How to Log Out and Log In for BTT Recorder <https://youtu.be/OcdluzgQazs>`_"
+msgstr ""
+
+#: ../../appendices.rst:50
+msgid "`Creating a New Recording Project in BTT Recorder <https://youtu.be/OpdGF8L7YdI>`_"
+msgstr ""
+
+#: ../../appendices.rst:52
+msgid "`Downloading BTT Recorder Source Audio <https://youtu.be/S5WXtZXLPlU>`_"
+msgstr ""
+
+#: ../../appendices.rst:54
+msgid "`Inserting a Section into a Recording in BTT Recorder <https://youtu.be/kgNQmFu_XAM>`_"
+msgstr ""
+
+#: ../../appendices.rst:56
+msgid "`Deleting a Section from a Recording in BTT Recorder <https://youtu.be/1C-7qk4na6w>`_"
+msgstr ""
+
+#: ../../appendices.rst:58
+msgid "`Inserting Verse Markers in BTT Recorder <https://youtu.be/u_CnbaF6T9U>`_"
+msgstr ""
+
+#: ../../appendices.rst:60
+msgid "`Compiling a Chapter Recording in BTT Recorder <https://youtu.be/NFEh85VwZ34>`_"
+msgstr ""
+
+#: ../../appendices.rst:63
+msgid "Power Point Presentations (with PDFs)"
+msgstr ""
+
+#: ../../appendices.rst:65
+msgid "**Presentations**"
+msgstr ""
+
+#: ../../appendices.rst:69
+msgid "Title"
+msgstr ""
+
+#: ../../appendices.rst:70
+msgid "Powerpoint"
+msgstr ""
+
+#: ../../appendices.rst:71
+msgid "PDF"
+msgstr ""
+
+#: ../../appendices.rst:73
+msgid "**Installing BTT Recorder 1.4**"
+msgstr ""
+
+#: ../../appendices.rst:74
+msgid "\\* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Installing_v1.4.x.pptx>`_"
+msgstr ""
+
+#: ../../appendices.rst:75
+msgid "\\ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Installing_v1.4.x.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:77
+msgid "**BTT Recorder User Setup 1.4**"
+msgstr ""
+
+#: ../../appendices.rst:78
+msgid "\\* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_User_Setup_1.4.pptx>`_"
+msgstr ""
+
+#: ../../appendices.rst:79
+msgid "\\ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_User_Setup_1.4.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:81
+msgid "**BTT Recorder Menus and Icons 1.4**"
+msgstr ""
+
+#: ../../appendices.rst:82
+msgid "\\* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Menus_and_Icons_v1.4.pptx>`_"
+msgstr ""
+
+#: ../../appendices.rst:83
+msgid "\\ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Menus_and_Icons_v1.4.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:85
+msgid "**Starting a New Project using the Recording Section 1.4**"
+msgstr ""
+
+#: ../../appendices.rst:86
+msgid "\\* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Starting_a_New_Project_Record_Section_v1.4.x.pptx>`_"
+msgstr ""
+
+#: ../../appendices.rst:87
+msgid "\\ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Starting_a_New_Project_Record_Section_v1.4.x.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:89
+msgid "**Starting a New Project using Project Management 1.4**"
+msgstr ""
+
+#: ../../appendices.rst:90
+msgid "\\* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Starting_a_New_Project_Project_Management_v1.4.pptx>`_"
+msgstr ""
+
+#: ../../appendices.rst:91
+msgid "\\ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Starting_a_New_Project_Project_Management_v1.4.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:93
+msgid "**Recording from Project Management WITHOUT source audio 1.4**"
+msgstr ""
+
+#: ../../appendices.rst:94
+msgid "\\* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Recording_from_PM-Audio_Recordings_Without_Source_Audio%20v1.4.pptx>`_"
+msgstr ""
+
+#: ../../appendices.rst:95
+msgid "\\ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Recording_from_PM-Audio_Recordings_Without_Source_Audio%20v1.4.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:97
+msgid "**Editing in Project Management 1.4**"
+msgstr ""
+
+#: ../../appendices.rst:98
+msgid "\\* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Editing_Project_Management_v1.4.pptx>`_"
+msgstr ""
+
+#: ../../appendices.rst:99
+msgid "\\ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Editing_Project_Management_v1.4.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:101
+msgid "**Editing Recordings - Cutting and Inserting 1.4**"
+msgstr ""
+
+#: ../../appendices.rst:102
+msgid "\\* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Editing_Cutting_and_Inserting_v1.4.pptx>`_"
+msgstr ""
+
+#: ../../appendices.rst:103
+msgid "\\ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Editing_Cutting_and_Inserting_v1.4.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:105
+msgid "**Editing Recordings - Verse Markers and Rating 1.4**"
+msgstr ""
+
+#: ../../appendices.rst:106
+msgid "\\* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Editing_VerseMarkers_and_Rating_v1.4.pptx>`_"
+msgstr ""
+
+#: ../../appendices.rst:107
+msgid "\\ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Editing_VerseMarkers_and_Rating_v1.4.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:109
+msgid "**Create Chapter Recordings 1.4**"
+msgstr ""
+
+#: ../../appendices.rst:110
+msgid "\\* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4.pptx>`_"
+msgstr ""
+
+#: ../../appendices.rst:111
+msgid "\\ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4_PPT.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:114
+msgid "**!!! COMING SOON !!!**:  **Uploading to the Citrix ShareFile Server**"
+msgstr ""
+
+#: ../../appendices.rst:118
+msgid "Manuals"
+msgstr ""
+
+#: ../../appendices.rst:120
+msgid "`What to Show the Oral Translator on the Tablet <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/What_to_Show_the_Oral_Translator_on_the_Tablet.pdf>`_"
+msgstr ""
+
+#: ../../appendices.rst:122
+msgid "`Version 1.4 User Manual <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTT_Recorder_Manual_1.4v3.x_Screens.pdf>`_ - Documentation with screen shots"
+msgstr ""
