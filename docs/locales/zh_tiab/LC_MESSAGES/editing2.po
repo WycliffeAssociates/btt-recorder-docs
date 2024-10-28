@@ -1,0 +1,208 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, Door43
+# This file is distributed under the same license as the BTT Recorder
+# Information package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BTT Recorder Information 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-28 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_tiab\n"
+"Language-Team: zh_tiab <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../editing2.rst:4
+msgid "Using the Edit Screen - Cutting and Inserting"
+msgstr ""
+
+#: ../../editing2.rst:7
+msgid "Compare the recording to the Source Language recording"
+msgstr ""
+
+#: ../../editing2.rst:8
+msgid "**First, listen to the Source Audio**:"
+msgstr ""
+
+#: ../../editing2.rst:10
+msgid ""
+"To compare your recording to the Source Language recording press the "
+"hearing ear icon and press the play icon on the gray bar."
+msgstr ""
+
+#: ../../editing2.rst:11
+msgid ""
+"To pause the recording tap the pause button on the gray bar (the pause "
+"icon replaces the play icon.)"
+msgstr ""
+
+#: ../../editing2.rst:12
+msgid ""
+"To rewind (go towards the beginning of the recording) or fast forward (go"
+" towards the end of the recording) press and hold the green dot and slide"
+" your finger to the left for rewind or to the right to fast forward."
+msgstr ""
+
+#: ../../editing2.rst:13
+msgid "To return to your recording tap on the wave form icon."
+msgstr ""
+
+#: ../../editing2.rst:15
+msgid "**Then, listen to the recording**:"
+msgstr ""
+
+#: ../../editing2.rst:17
+msgid "To playback your recording, tap the white play icon on the blue bar."
+msgstr ""
+
+#: ../../editing2.rst:18
+msgid ""
+"To pause the playback of the recording, tap the pause icon on the blue "
+"bar. (The pause icon replaces the play icon.)"
+msgstr ""
+
+#: ../../editing2.rst:19
+msgid ""
+"To rewind the recording tap the rewind icon and tap the fast forward icon"
+" to go farther along in the recording."
+msgstr ""
+
+#: ../../editing2.rst:21
+msgid ""
+"You may go between listening to the source audio and listening to the "
+"recording."
+msgstr ""
+
+#: ../../editing2.rst:25
+msgid "Remove a section of recording"
+msgstr ""
+
+#: ../../editing2.rst:27
+msgid "The action of removing a section of a recording is known as a 'cut.'"
+msgstr ""
+
+#: ../../editing2.rst:29
+msgid ""
+"Position the audio at the thin blue line for the beginning of the "
+"recording to be removed."
+msgstr ""
+
+#: ../../editing2.rst:31
+msgid ""
+"**NOTE**: The blue line does not move. You will need to do the press-and-"
+"hold action to move the recording to the blue line."
+msgstr ""
+
+#: ../../editing2.rst:33
+msgid ""
+"Set the beginning point of the cut by tapping on the flag icon. This will"
+" insert a marker where the cut will start."
+msgstr ""
+
+#: ../../editing2.rst:35
+msgid ""
+"Drag the recording by holding your finger on the screen and sliding to "
+"the left until the end of the part to be removed is at the blue line."
+msgstr ""
+
+#: ../../editing2.rst:37
+msgid "Tap the upside-down flag button. This will mark the section for deletion."
+msgstr ""
+
+#: ../../editing2.rst:39
+msgid ""
+"**OPTIONAL**: Tap the play icon to listen to the section that will be "
+"removed."
+msgstr ""
+
+#: ../../editing2.rst:41
+msgid ""
+"Do you want to change the amount of recording is selected? Press-hold-"
+"drag on the upside-down flag to increase or decrease the amount of the "
+"selected recording."
+msgstr ""
+
+#: ../../editing2.rst:43
+msgid ""
+"Need to start again? Tap on the crossed-off flags icon to remove the "
+"flags and start at step 1."
+msgstr ""
+
+#: ../../editing2.rst:45
+msgid "Delete the selected recording by tapping on the scissors icon."
+msgstr ""
+
+#: ../../editing2.rst:47
+msgid "Optional: Tap on the back arrow icon to undo the delete action."
+msgstr ""
+
+#: ../../editing2.rst:49
+msgid ""
+"Tap on the SD card icon to save the edit. BTT Recorder will return to "
+"Project Management."
+msgstr ""
+
+#: ../../editing2.rst:52
+msgid "Insert a new section of recording."
+msgstr ""
+
+#: ../../editing2.rst:53
+msgid "Sometimes you may want to insert a missing part into the translation."
+msgstr ""
+
+#: ../../editing2.rst:55
+msgid ""
+"Position the audio at the thin blue line for where the new audio will be "
+"added in. (Use the press-hold-drag action.)"
+msgstr ""
+
+#: ../../editing2.rst:57
+msgid ""
+"Tap the Add a Recording icon in the top gray bar. This will open a new "
+"recording session."
+msgstr ""
+
+#: ../../editing2.rst:59
+msgid "**NOTE**: The bar at the bottom of the window is green."
+msgstr ""
+
+#: ../../editing2.rst:61
+msgid "Tap the microphone icon to start recording."
+msgstr ""
+
+#: ../../editing2.rst:63
+msgid "When finished, tap the pause icon."
+msgstr ""
+
+#: ../../editing2.rst:65
+msgid "To insert the new recording, tap the checkmark icon."
+msgstr ""
+
+#: ../../editing2.rst:67
+msgid "A pop up will appear stating it is inserting recording ... please wait."
+msgstr ""
+
+#: ../../editing2.rst:68
+msgid "The original target language recording opens with the added recording."
+msgstr ""
+
+#: ../../editing2.rst:70
+msgid "To save the file tap the save icon. *  A ‘Saving’ pop-up shows."
+msgstr ""
+
+#: ../../editing2.rst:73
+msgid ""
+"Once the program is done saving, the Project Management verse/chunk list "
+"screen opens with a new take added at the bottom of the take list. For "
+"example, if there were 3 takes before recording the new section, the "
+"added take is take 4."
+msgstr ""
+

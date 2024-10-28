@@ -1,0 +1,236 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, Door43
+# This file is distributed under the same license as the BTT Recorder
+# Information package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BTT Recorder Information 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-28 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr_fr\n"
+"Language-Team: fr_fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../recording.rst:2
+msgid "Recording"
+msgstr ""
+
+#: ../../recording.rst:5
+msgid "Steps to Follow from the Home Screen"
+msgstr ""
+
+#: ../../recording.rst:7
+msgid ""
+"**Note**: This procedure enables you to record only the project that is "
+"named in the blue recording area. If a different project is shown, or no "
+"project is shown, you need to record from the Project Management screen "
+"as explained `below <https://btt-"
+"recorder.readthedocs.io/en/latest/recording.html#steps-to-follow-from-"
+"project-management>`_."
+msgstr ""
+
+#: ../../recording.rst:9
+msgid "On the home screen, tap in the blue recording area."
+msgstr ""
+
+#: ../../recording.rst:11
+msgid ""
+"If the Security warning shows, tap in the box before the words ‘Do not "
+"remind again.’ so that there is a checkmark in the box. Then tap the word"
+" ‘ALLOW.’ (This is the only time you will need to check and allow.)"
+msgstr ""
+
+#: ../../recording.rst:13 ../../recording.rst:51
+msgid "Check the information on the top gray bar:"
+msgstr ""
+
+#: ../../recording.rst:15 ../../recording.rst:53
+msgid "Target Language"
+msgstr ""
+
+#: ../../recording.rst:16 ../../recording.rst:54
+msgid "Project Type"
+msgstr ""
+
+#: ../../recording.rst:17 ../../recording.rst:55
+msgid "Book"
+msgstr ""
+
+#: ../../recording.rst:18 ../../recording.rst:56
+msgid "Chapter"
+msgstr ""
+
+#: ../../recording.rst:19 ../../recording.rst:57
+msgid "Verse or Chunk"
+msgstr ""
+
+#: ../../recording.rst:21 ../../recording.rst:59
+msgid "Use the + and – signs to correct the chapter or verse/chunk number."
+msgstr ""
+
+#: ../../recording.rst:23 ../../recording.rst:61
+msgid ""
+"Tap the Microphone icon. (See more `detailed instructions <https://btt-"
+"recorder.readthedocs.io/en/latest/recording.html#detailed-instructions-"
+"for-the-recording-window>`_ for recording below.)"
+msgstr ""
+
+#: ../../recording.rst:25 ../../recording.rst:63
+msgid "Record the verse or chunk."
+msgstr ""
+
+#: ../../recording.rst:27
+msgid ""
+"Tap the Pause icon (2 vertical lines) when done saying the verse/chunk "
+"(the Pause icon replaces the Play icon)."
+msgstr ""
+
+#: ../../recording.rst:29 ../../recording.rst:67
+msgid "Tap the Checkmark icon in the bottom blue bar."
+msgstr ""
+
+#: ../../recording.rst:31 ../../recording.rst:69
+msgid ""
+"Edit and rate the recording. See `Rate the Target Language Recording "
+"<https://btt-recorder.readthedocs.io/en/latest/editing3.html#rate-the-"
+"target-language-recording>`_."
+msgstr ""
+
+#: ../../recording.rst:33
+msgid "Save the recording. The recording window closes and the home screen shows."
+msgstr ""
+
+#: ../../recording.rst:35
+msgid ""
+"Repeat steps 1 to 9 for all verses in the book. Be sure to change the "
+"chapter and/or verse number (step 3) each time."
+msgstr ""
+
+#: ../../recording.rst:39
+msgid "Steps to Follow from the Project Management Screen"
+msgstr ""
+
+#: ../../recording.rst:41
+msgid "On the home screen, tap in the green Project Management side."
+msgstr ""
+
+#: ../../recording.rst:43
+msgid "Tap on the project bar that displays the language and book."
+msgstr ""
+
+#: ../../recording.rst:45
+msgid "Tap on the chapter bar that needs to be recorded."
+msgstr ""
+
+#: ../../recording.rst:47
+msgid "On the verse bar that needs to be recorded, tap on the Microphone icon."
+msgstr ""
+
+#: ../../recording.rst:49
+msgid ""
+"**HINT**: This is an easy way to keep track of which verses/chunks have "
+"recordings already so that you don’t unnecessarily record the same item "
+"over and over. It is also an easy way to navigate to the specific item "
+"you want to record."
+msgstr ""
+
+#: ../../recording.rst:65
+msgid "Tap the Pause icon when done saying the verse/chunk."
+msgstr ""
+
+#: ../../recording.rst:71
+msgid ""
+"Save the recording. The recording window closes and the Project "
+"Management window for the verses in that chapter appears."
+msgstr ""
+
+#: ../../recording.rst:73
+msgid ""
+"On the next verse bar that needs to be recorded, tap on the Microphone "
+"icon."
+msgstr ""
+
+#: ../../recording.rst:75
+msgid "Repeat steps 5 to 13 for all verses in the book."
+msgstr ""
+
+#: ../../recording.rst:80
+msgid "Detailed instructions for the Recording Window"
+msgstr ""
+
+#: ../../recording.rst:82
+msgid ""
+"In the Recording window you can see the Target Language, the Source, the "
+"Book, the Chapter and the Verse in the gray bar at the top of the screen."
+msgstr ""
+
+#: ../../recording.rst:84
+msgid ""
+"If source audio is available, tap the Play button in the gray bar at the "
+"bottom of the screen to listen to the source language for that particular"
+" verse/chunk. The green dot will move along the line. The numbers on the "
+"left of the line count down and the numbers on the right count up the "
+"length of the audio recording."
+msgstr ""
+
+#: ../../recording.rst:86
+msgid "Listen to the verse or chunk."
+msgstr ""
+
+#: ../../recording.rst:88
+msgid "The green dot will move along the line."
+msgstr ""
+
+#: ../../recording.rst:90
+msgid "The numbers on the left of the line count up as the recording plays."
+msgstr ""
+
+#: ../../recording.rst:92
+msgid "The numbers on the right display the length of the audio recording."
+msgstr ""
+
+#: ../../recording.rst:94
+msgid "Tap the Microphone icon in the blue bar to start recording."
+msgstr ""
+
+#: ../../recording.rst:96
+msgid "Speak clearly and loudly."
+msgstr ""
+
+#: ../../recording.rst:98
+msgid ""
+"It is recommended that you use a separate microphone or a headset with a "
+"microphone, not just the microphone that is built into the tablet."
+msgstr ""
+
+#: ../../recording.rst:100
+msgid ""
+"As you begin to speak you will see a wavy line appear on the screen which"
+" is a result of the sound of your voice."
+msgstr ""
+
+#: ../../recording.rst:102
+msgid "When done with that verse or chunk, tap the Pause button."
+msgstr ""
+
+#: ../../recording.rst:104
+msgid "You can also tap Pause to temporarily Pause recording."
+msgstr ""
+
+#: ../../recording.rst:106
+msgid "You can then start recording again by tapping on the Microphone icon"
+msgstr ""
+
+#: ../../recording.rst:108
+msgid "6 When you are finished, tap the Checkmark to go to the Edit window."
+msgstr ""
+

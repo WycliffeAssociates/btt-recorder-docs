@@ -1,0 +1,123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, Door43
+# This file is distributed under the same license as the BTT Recorder Information package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BTT Recorder Information 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-28 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../install.rst:2
+msgid "Installing the BTT Recorder Program"
+msgstr ""
+
+#: ../../install.rst:4
+msgid "There are two places to download the program:"
+msgstr ""
+
+#: ../../install.rst:6
+msgid "The BibleTranslationTools site"
+msgstr ""
+
+#: ../../install.rst:7
+msgid "Google Play Store"
+msgstr ""
+
+#: ../../install.rst:10
+msgid "Installing from the BibleTranslationTools site"
+msgstr ""
+
+#: ../../install.rst:12
+msgid "This option is great if you are planning on leading an event and may not have internet access on site. This may require changes to your device’s permissions. There are benefits to using the downloaded APK:"
+msgstr ""
+
+#: ../../install.rst:14
+msgid "Easily transfer the application to multiple devices without internet."
+msgstr ""
+
+#: ../../install.rst:15
+msgid "Can pick a specific version of BTT Recorder."
+msgstr ""
+
+#: ../../install.rst:16
+msgid "Does not require a Google Play Store account."
+msgstr ""
+
+#: ../../install.rst:17
+msgid "This will be the most up-to-date version of the program"
+msgstr ""
+
+#: ../../install.rst:19
+#: ../../install.rst:40
+msgid "Go to this URL: https://recorder.bibletranslationtools.org/download/."
+msgstr ""
+
+#: ../../install.rst:21
+msgid "Tap **Download APK**."
+msgstr ""
+
+#: ../../install.rst:23
+msgid "The APK file downloads."
+msgstr ""
+
+#: ../../install.rst:25
+msgid "Navigate to the download folder."
+msgstr ""
+
+#: ../../install.rst:27
+msgid "Tap on the **bttRecorder.apk** file and allow the program to install. (You may need to give permission for an APK to install on the device.)"
+msgstr ""
+
+#: ../../install.rst:31
+msgid "Installing from Google Play Store"
+msgstr ""
+
+#: ../../install.rst:33
+msgid "We recommend downloading BTT Recorder directly from the Google Play Store for most people. Be sure to have an internet reliable connection. There are benefits to using Google Play Store:"
+msgstr ""
+
+#: ../../install.rst:35
+msgid "Installation is quick and easy"
+msgstr ""
+
+#: ../../install.rst:36
+msgid "You will automatically have the most up to date version"
+msgstr ""
+
+#: ../../install.rst:37
+msgid "Great for single downloads"
+msgstr ""
+
+#: ../../install.rst:38
+msgid "Allows you to run the application on some Chromebooks."
+msgstr ""
+
+#: ../../install.rst:42
+msgid "Tap **Get it on Google Play**."
+msgstr ""
+
+#: ../../install.rst:44
+#: ../../install.rst:52
+msgid "The BTT Recorder app window displays. Tap **Install**."
+msgstr ""
+
+#: ../../install.rst:46
+msgid "OR"
+msgstr ""
+
+#: ../../install.rst:48
+msgid "Open Google Play Store on your Android device."
+msgstr ""
+
+#: ../../install.rst:50
+msgid "Type in ‘BTT Recorder’ in the search field."
+msgstr ""
