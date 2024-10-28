@@ -1,8 +1,8 @@
 English Appendices
-======
+==================
 
 English Source Audio
------
+--------------------
 
 Go to this page (https://digitalstorage.sharefile.com/share/view/s34cb4b0a5be4ce3a/) for a list of links to download the English source audio files for BTT Recorder. **NOTE** These files are for translation projects for the **ULB by Verse**.
 
@@ -14,8 +14,13 @@ Go to this page (https://digitalstorage.sharefile.com/share/view/s34cb4b0a5be4ce
 4. Download the file to the tablet or computer (to transfer to the tablet later.)
 
 Translator Handouts
+<<<<<<< HEAD
 -----
 Use these files to give to the oral language translators to help them remember the steps. Click on the link to download the file to your device.
+=======
+-------------------
+Use these files to give to the oral language translators to help them remember the steps.
+>>>>>>> 3d27d79 (Updated heading underscores)
 
 `Recording with Source Audio v1.4 <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Recording_with_Source_Audio_1.4.pdf>`_
 
@@ -120,8 +125,12 @@ Power Point Presentations (with PDFs)
  
 
 Manuals
+<<<<<<< HEAD
 -----
 Click on the links to download the PDF document.
+=======
+-------
+>>>>>>> 3d27d79 (Updated heading underscores)
 
 `What to Show the Oral Translator on the Tablet <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/What_to_Show_the_Oral_Translator_on_the_Tablet.pdf>`_
 
