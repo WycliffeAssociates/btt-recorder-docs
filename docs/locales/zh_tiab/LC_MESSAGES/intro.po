@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, Door43
+# This file is distributed under the same license as the BTT Recorder
+# Information package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BTT Recorder Information 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-28 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_tiab\n"
+"Language-Team: zh_tiab <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../intro.rst:2
+msgid "Introduction to BTT Recorder"
+msgstr ""
+
+#: ../../intro.rst:4
+msgid ""
+"BTT Recorder consists of several user interface screens to enable you to "
+"record and edit oral translations of the Bible or Open Bible stories. "
+"Recordings are organized into projects that consist of:"
+msgstr ""
+
+#: ../../intro.rst:6
+msgid "A target language – the language you are translating into"
+msgstr ""
+
+#: ../../intro.rst:7
+msgid "The project type, such as a book of the Bible or an Open Bible story"
+msgstr ""
+
+#: ../../intro.rst:9
+msgid ""
+"A project can optionally use source audio, so that the translator can "
+"listen to the source and then record its translation in the target "
+"language."
+msgstr ""
+
+#: ../../intro.rst:11
+msgid "Before you can start recording, there are some steps you need to take:"
+msgstr ""
+
+#: ../../intro.rst:13
+msgid ""
+"`Install BTT Recorder <https://btt-"
+"recorder.readthedocs.io/en/latest/getstarted.html#install-btt-recorder>`_"
+msgstr ""
+
+#: ../../intro.rst:14
+msgid ""
+"`Open the program <https://btt-"
+"recorder.readthedocs.io/en/latest/getstarted.html#open-btt-recorder>`_"
+msgstr ""
+
+#: ../../intro.rst:15
+msgid ""
+"`Create a new user <https://btt-"
+"recorder.readthedocs.io/en/latest/getstarted.html#create-a-new-user>`_"
+msgstr ""
+
+#: ../../intro.rst:16
+msgid ""
+"`Create a new project <https://btt-"
+"recorder.readthedocs.io/en/latest/getstarted.html#create-a-new-project>`_"
+msgstr ""
+
+#: ../../intro.rst:18
+msgid "The main screens in BTT Recorder are:"
+msgstr ""
+
+#: ../../intro.rst:20
+msgid ""
+"`Home page <https://btt-"
+"recorder.readthedocs.io/en/latest/mainscreens.html#home-page>`_"
+msgstr ""
+
+#: ../../intro.rst:21
+msgid ""
+"`Project Management pages <https://btt-"
+"recorder.readthedocs.io/en/latest/mainscreens.html#project-management-"
+"pages>`_"
+msgstr ""
+
+#: ../../intro.rst:22
+msgid ""
+"`Recording screen <https://btt-"
+"recorder.readthedocs.io/en/latest/mainscreens.html#recording-screen>`_"
+msgstr ""
+
+#: ../../intro.rst:23
+msgid ""
+"`Edit screen <https://btt-"
+"recorder.readthedocs.io/en/latest/mainscreens.html#edit-screen>`_"
+msgstr ""
+
+#: ../../intro.rst:25
+msgid "After completing your recording, you can:"
+msgstr ""
+
+#: ../../intro.rst:27
+msgid ""
+"`Create chapter recordings <https://btt-"
+"recorder.readthedocs.io/en/latest/compiling.html>`_"
+msgstr ""
+
+#: ../../intro.rst:28
+msgid ""
+"`Share your recordings <https://btt-"
+"recorder.readthedocs.io/en/latest/sharing.html>`_"
+msgstr ""
+
+#: ../../intro.rst:30
+msgid ""
+"All of these topics are presented in subsequent pages. You can use the "
+"Next button to go through the topics sequentially, or you can go to a "
+"specific subject by using the links above or on the sidebar."
+msgstr ""
+

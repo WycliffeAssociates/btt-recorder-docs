@@ -1,0 +1,850 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, Door43
+# This file is distributed under the same license as the BTT Recorder
+# Information package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BTT Recorder Information 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-28 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_tiab\n"
+"Language-Team: zh_tiab <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../sharing.rst:2
+msgid "Sharing Your Recordings"
+msgstr ""
+
+#: ../../sharing.rst:4
+msgid ""
+"After the recordings have been made, edited, and reviewed, they are ready"
+" to be exported or uploaded so that others can share them. You can:"
+msgstr ""
+
+#: ../../sharing.rst:6
+msgid "Export the completed project to your tablet as a tr file"
+msgstr ""
+
+#: ../../sharing.rst:8
+msgid "Export the completed audio to your tablet as a zip file"
+msgstr ""
+
+#: ../../sharing.rst:10
+msgid ""
+"Export the completed audio to another application on your tablet as a zip"
+" file"
+msgstr ""
+
+#: ../../sharing.rst:12
+msgid "Upload a project to a Translation Exchange server"
+msgstr ""
+
+#: ../../sharing.rst:14
+msgid "Upload a project to the Citrix ShareFile Server"
+msgstr ""
+
+#: ../../sharing.rst:17
+msgid "Opening the Information window"
+msgstr ""
+
+#: ../../sharing.rst:19
+msgid ""
+"You can share your recordings from the Information window of the project."
+" To open the Information window:"
+msgstr ""
+
+#: ../../sharing.rst:21
+msgid ""
+"On the Project Manager screen, tap the **Information icon** (gray circle "
+"with an \"i\" in it) next to the project that you want to export or "
+"upload. (See `Information icon <https://btt-"
+"recorder.readthedocs.io/en/latest/mainscreens.html#information-icon>`_.)"
+msgstr ""
+
+#: ../../sharing.rst:23
+msgid ""
+"The Information window opens. The icons along the bottom right of the "
+"window enable you to share your recordings. These icons are explained in "
+"the next few paragraphs."
+msgstr ""
+
+#: ../../sharing.rst:25
+msgid "Information Window"
+msgstr ""
+
+#: ../../sharing.rst:30
+msgid "Export Recordings"
+msgstr ""
+
+#: ../../sharing.rst:33
+msgid "Export to your tablet as a tr file"
+msgstr ""
+
+#: ../../sharing.rst:35
+msgid ""
+"This action exports the project as a tr file to your tablet. You can give"
+" this file to others to import into their installation of BTT Recorder so"
+" that they can work on it, or you can use it as a source audio file for "
+"BTT Recorder."
+msgstr ""
+
+#: ../../sharing.rst:37
+msgid "To create a tr file on your tablet, perform the following steps:"
+msgstr ""
+
+#: ../../sharing.rst:39
+msgid ""
+"On the Information window, tap the **Source Audio icon** (listening ear) "
+"to save the tr file to the tablet’s file system."
+msgstr ""
+
+#: ../../sharing.rst:41
+msgid ""
+"A file manager window opens to enable you to navigate to and open the "
+"folder where you want to save the tr file. You can save it anywhere in "
+"your internal storage or to your SD card. You can also rename the file "
+"before saving it if desired. **NOTE**: The SD Card may need to be "
+"“activated.” Follow the directions provided by the tablet on activating "
+"the SD Card so that you can save files there."
+msgstr ""
+
+#: ../../sharing.rst:43 ../../sharing.rst:56
+msgid ""
+"Tap **SAVE** to save the file. If you save it to the SD Card, you can "
+"remove the card to share the file with others."
+msgstr ""
+
+#: ../../sharing.rst:46
+msgid "Export to your tablet as a zip file"
+msgstr ""
+
+#: ../../sharing.rst:48
+msgid ""
+"This action packages the individual wav files into a single zip file that"
+" you can save to your tablet. You can give this file to others or you can"
+" import it into Orature software."
+msgstr ""
+
+#: ../../sharing.rst:50
+msgid ""
+"On the Information window, tap either the **Save icon** or the **Folder "
+"icon** to save the project file to the tablet’s file system."
+msgstr ""
+
+#: ../../sharing.rst:52 ../../sharing.rst:65
+msgid ""
+"Wait while the files are processed. The program compiles a zip file "
+"containing the individual wav files for each chapter."
+msgstr ""
+
+#: ../../sharing.rst:54
+msgid ""
+"A file manager window opens to enable you to navigate to and open the "
+"folder where you want to save the zip file. You can save it anywhere to "
+"your SD card or in your internal storage. You can also rename the file "
+"before saving it if desired. **NOTE**: The SD Card may need to be "
+"“activated.” Follow the directions provided by the tablet on activating "
+"the SD Card so that you can save files there."
+msgstr ""
+
+#: ../../sharing.rst:59
+msgid "Export the file to another application"
+msgstr ""
+
+#: ../../sharing.rst:61
+msgid ""
+"To export the file and have another application immediately use it, such "
+"as in an email as an attachment, perform the following steps:"
+msgstr ""
+
+#: ../../sharing.rst:63
+msgid ""
+"On the Information window, tap the **Share icon** (3 dots with lines "
+"between) to send the project file to another of the tablet’s "
+"applications."
+msgstr ""
+
+#: ../../sharing.rst:67
+msgid ""
+"A window opens to show the available applications on your tablet that you"
+" can use for sharing. Tap the one you wish to open, such as Gmail."
+msgstr ""
+
+#: ../../sharing.rst:69
+msgid ""
+"The chosen application opens – for example, Gmail opens a compose window "
+"with a zip file of the project audio already attached so that you can "
+"easily send it to someone."
+msgstr ""
+
+#: ../../sharing.rst:73
+msgid "Upload Recordings"
+msgstr ""
+
+#: ../../sharing.rst:76
+msgid "Upload to Translation Exchange"
+msgstr ""
+
+#: ../../sharing.rst:78
+msgid ""
+"Translation Exchange is a storage and checking program for audio files. "
+"If you have access to a Translation Exchange server, you can upload to it"
+" directly by completing the following steps:"
+msgstr ""
+
+#: ../../sharing.rst:80
+msgid ""
+"On the Information window, tap the **Upload icon** (cloud with an up "
+"arrow) to upload the project file to the Translation Exchange server."
+msgstr ""
+
+#: ../../sharing.rst:81
+msgid ""
+"**NOTE**: This is the server defined in the Upload Server setting. See "
+"`Settings window <https://btt-"
+"recorder.readthedocs.io/en/latest/mainscreens.html#settings-window>`_."
+msgstr ""
+
+#: ../../sharing.rst:83
+msgid "The program generates and uploads the file to Translation Exchange."
+msgstr ""
+
+#: ../../sharing.rst:85
+msgid ""
+"The file has been uploaded. Optionally, you can open Translation Exchange"
+" to see that it is there."
+msgstr ""
+
+#: ../../sharing.rst:88
+msgid "Upload to the Citrix Server"
+msgstr ""
+
+#: ../../sharing.rst:90
+msgid ""
+"This final method of sharing your recordings does not use the Information"
+" window. You must have a ShareFile account on the Citrix server to be "
+"able to store files there."
+msgstr ""
+
+#: ../../sharing.rst:92
+msgid ""
+"In a browser on the tablet that has the BTT Recorder files, open the "
+"ShareFile server (https://digitalstorage.sharefile.com) using your login "
+"and password."
+msgstr ""
+
+#: ../../sharing.rst:94
+msgid "To upload to the Citrix server, you perform the following steps:"
+msgstr ""
+
+#: ../../sharing.rst:96
+msgid "Find the folder for the files on the Citrix server"
+msgstr ""
+
+#: ../../sharing.rst:98
+msgid "Create the Bible book folder"
+msgstr ""
+
+#: ../../sharing.rst:100
+msgid "Create chapter folders"
+msgstr ""
+
+#: ../../sharing.rst:102
+msgid "Upload chapter recordings to the chapter folders"
+msgstr ""
+
+#: ../../sharing.rst:104
+msgid "**Find the folder for the files on the Citrix server**"
+msgstr ""
+
+#: ../../sharing.rst:106
+msgid ""
+"Tap the folder for target language of your project. The folders are shown"
+" under the region and/or country of the language. You can first tap the "
+"**Magnifying glass icon** to search for the target language if desired. "
+"For example, if the target language of your project is Chickasaw, tap the"
+" Magnifying glass icon and type “Chickasaw” in the search box, and then "
+"tap Sea"
+msgstr ""
+
+#: ../../sharing.rst:108
+msgid ""
+"The search results are returned. It shows that the Chickasaw folder is "
+"found in the Americas/United States folder. Tap the Chickasaw folder to "
+"open it."
+msgstr ""
+
+#: ../../sharing.rst:109
+msgid ""
+"**Hint**: If you will be using that folder frequently, you can tap the "
+"star next to it to mark it as one of your favorites."
+msgstr ""
+
+#: ../../sharing.rst:111
+msgid ""
+"The Chickasaw folder is empty, so you need to create a folder structure "
+"to store the files. Instructions for that in the next section entitled "
+"\"Create the folder structure\". However, if you are in a folder that has"
+" the folder structure already set up, tap the **Oral folder** in the "
+"language that you are recording. The example below shows the structure of"
+" the Tamil language folder."
+msgstr ""
+
+#: ../../sharing.rst:113
+msgid ""
+"Tap the appropriate testament folder – OT for an Old Testament book, or "
+"NT for a New Testament book."
+msgstr ""
+
+#: ../../sharing.rst:115
+msgid "Citrix server"
+msgstr ""
+
+#: ../../sharing.rst:120
+msgid "**Create the folder structure**"
+msgstr ""
+
+#: ../../sharing.rst:122
+msgid ""
+"If the folder structure for the language does not exist, you need to "
+"create it."
+msgstr ""
+
+#: ../../sharing.rst:124
+msgid "Tap the language folder to open it."
+msgstr ""
+
+#: ../../sharing.rst:126 ../../sharing.rst:252 ../../sharing.rst:295
+msgid "Tap the **Plus icon**."
+msgstr ""
+
+#: ../../sharing.rst:128
+msgid "Tap **Create Folder** on the menu."
+msgstr ""
+
+#: ../../sharing.rst:130
+msgid "Tap in the Name field and type **Oral**, and then tap **Create Folder**."
+msgstr ""
+
+#: ../../sharing.rst:132
+msgid "In the Oral folder, create the testament folder (OT or NT)."
+msgstr ""
+
+#: ../../sharing.rst:134
+msgid ""
+"In the testament folder, create a folder for the book of the Bible. You "
+"should name it with a leading identification number"
+msgstr ""
+
+#: ../../sharing.rst:136
+msgid ""
+"Tap in the Name field and type the book name with the leading "
+"identification number. You may use the language’s name for the folder if "
+"the identifying number is there (such as 42-Markos for Spanish)."
+msgstr ""
+
+#: ../../sharing.rst:138
+msgid ""
+"(see table entitled “Global Standard Nomenclature for Books in the Bible”"
+"  below – 2-digit number and 3-letter. For example, the 2nd New Testament"
+" book for the Spanish Bible would be 42-MRK (or 42-Markos if you use the "
+"Spanish name with the leading identification code)."
+msgstr ""
+
+#: ../../sharing.rst:140
+msgid "Tap **Create Folder**. The new folder is created and opened."
+msgstr ""
+
+#: ../../sharing.rst:142
+msgid ""
+"Create Chapter folders – one for each chapter in the book. To create a "
+"new chapter folder:"
+msgstr ""
+
+#: ../../sharing.rst:144
+msgid "``a)`` In the Bible book folder, tap the **Plus icon**."
+msgstr ""
+
+#: ../../sharing.rst:146
+msgid "``b)``      Tap **Create Folder** in the menu."
+msgstr ""
+
+#: ../../sharing.rst:148
+msgid ""
+"``c)`` Tap in the ‘Name’ field and enter the chapter number as 2 digits, "
+"with a leading zero for single-digit numbers."
+msgstr ""
+
+#: ../../sharing.rst:150
+msgid ""
+"``d)`` Tap the blue **Create Folder** button. The new folder is created "
+"and opened."
+msgstr ""
+
+#: ../../sharing.rst:152
+msgid ""
+"``e)`` To return to the book folder to create another chapter folder, tap"
+" the book name in the top breadcrumbs."
+msgstr ""
+
+#: ../../sharing.rst:154
+msgid "Repeat steps a) through e) to create a folder for each chapter."
+msgstr ""
+
+#: ../../sharing.rst:156
+msgid "**Global Standard Nomenclature for Books in the Bible**"
+msgstr ""
+
+#: ../../sharing.rst:160
+msgid "01-GEN"
+msgstr ""
+
+#: ../../sharing.rst:161
+msgid "11-1KI"
+msgstr ""
+
+#: ../../sharing.rst:162
+msgid "21-ECC"
+msgstr ""
+
+#: ../../sharing.rst:163
+msgid "31-OBA"
+msgstr ""
+
+#: ../../sharing.rst:164
+msgid "41-MAT"
+msgstr ""
+
+#: ../../sharing.rst:165
+msgid "51-PHP"
+msgstr ""
+
+#: ../../sharing.rst:166
+msgid "61-1PE"
+msgstr ""
+
+#: ../../sharing.rst:168
+msgid "02-EXO"
+msgstr ""
+
+#: ../../sharing.rst:169
+msgid "12-2KI"
+msgstr ""
+
+#: ../../sharing.rst:170
+msgid "22-SNG"
+msgstr ""
+
+#: ../../sharing.rst:171
+msgid "32-JON"
+msgstr ""
+
+#: ../../sharing.rst:172
+msgid "42-MRK"
+msgstr ""
+
+#: ../../sharing.rst:173
+msgid "52-COL"
+msgstr ""
+
+#: ../../sharing.rst:174
+msgid "62-2PE"
+msgstr ""
+
+#: ../../sharing.rst:176
+msgid "03-LEV"
+msgstr ""
+
+#: ../../sharing.rst:177
+msgid "13-1CH"
+msgstr ""
+
+#: ../../sharing.rst:178
+msgid "23-ISA"
+msgstr ""
+
+#: ../../sharing.rst:179
+msgid "33-MIC"
+msgstr ""
+
+#: ../../sharing.rst:180
+msgid "43-LUK"
+msgstr ""
+
+#: ../../sharing.rst:181
+msgid "53-1TH"
+msgstr ""
+
+#: ../../sharing.rst:182
+msgid "63-1JN"
+msgstr ""
+
+#: ../../sharing.rst:184
+msgid "04-NUM"
+msgstr ""
+
+#: ../../sharing.rst:185
+msgid "14-2CH"
+msgstr ""
+
+#: ../../sharing.rst:186
+msgid "24-JER"
+msgstr ""
+
+#: ../../sharing.rst:187
+msgid "34-NAM"
+msgstr ""
+
+#: ../../sharing.rst:188
+msgid "44-JHN"
+msgstr ""
+
+#: ../../sharing.rst:189
+msgid "54-2TH"
+msgstr ""
+
+#: ../../sharing.rst:190
+msgid "64-2JN"
+msgstr ""
+
+#: ../../sharing.rst:192
+msgid "05-DEU"
+msgstr ""
+
+#: ../../sharing.rst:193
+msgid "15-EZR"
+msgstr ""
+
+#: ../../sharing.rst:194
+msgid "25-LAM"
+msgstr ""
+
+#: ../../sharing.rst:195
+msgid "35-HAB"
+msgstr ""
+
+#: ../../sharing.rst:196
+msgid "45-ACT"
+msgstr ""
+
+#: ../../sharing.rst:197
+msgid "55-1TI"
+msgstr ""
+
+#: ../../sharing.rst:198
+msgid "65-3JN"
+msgstr ""
+
+#: ../../sharing.rst:200
+msgid "06-JOS"
+msgstr ""
+
+#: ../../sharing.rst:201
+msgid "16-NEH"
+msgstr ""
+
+#: ../../sharing.rst:202
+msgid "26-EZK"
+msgstr ""
+
+#: ../../sharing.rst:203
+msgid "36-ZEP"
+msgstr ""
+
+#: ../../sharing.rst:204
+msgid "46-ROM"
+msgstr ""
+
+#: ../../sharing.rst:205
+msgid "56-2TI"
+msgstr ""
+
+#: ../../sharing.rst:206
+msgid "66-JUD"
+msgstr ""
+
+#: ../../sharing.rst:208
+msgid "07-JDG"
+msgstr ""
+
+#: ../../sharing.rst:209
+msgid "17-EST"
+msgstr ""
+
+#: ../../sharing.rst:210
+msgid "27-DAN"
+msgstr ""
+
+#: ../../sharing.rst:211
+msgid "37-HAG"
+msgstr ""
+
+#: ../../sharing.rst:212
+msgid "47-1CO"
+msgstr ""
+
+#: ../../sharing.rst:213
+msgid "57-TIT"
+msgstr ""
+
+#: ../../sharing.rst:214
+msgid "67-REV"
+msgstr ""
+
+#: ../../sharing.rst:216
+msgid "08-RUT"
+msgstr ""
+
+#: ../../sharing.rst:217
+msgid "18-JOB"
+msgstr ""
+
+#: ../../sharing.rst:218
+msgid "28-HOS"
+msgstr ""
+
+#: ../../sharing.rst:219
+msgid "38-ZEC"
+msgstr ""
+
+#: ../../sharing.rst:220
+msgid "48-2CO"
+msgstr ""
+
+#: ../../sharing.rst:221
+msgid "58-PHM"
+msgstr ""
+
+#: ../../sharing.rst:224
+msgid "09-1SA"
+msgstr ""
+
+#: ../../sharing.rst:225
+msgid "19-PSA"
+msgstr ""
+
+#: ../../sharing.rst:226
+msgid "29-JOL"
+msgstr ""
+
+#: ../../sharing.rst:227
+msgid "39-MAL"
+msgstr ""
+
+#: ../../sharing.rst:228
+msgid "49-GAL"
+msgstr ""
+
+#: ../../sharing.rst:229
+msgid "59-HEB"
+msgstr ""
+
+#: ../../sharing.rst:232
+msgid "10-2SA"
+msgstr ""
+
+#: ../../sharing.rst:233
+msgid "20-PRO"
+msgstr ""
+
+#: ../../sharing.rst:234
+msgid "30-AMO"
+msgstr ""
+
+#: ../../sharing.rst:235
+msgid "``*``"
+msgstr ""
+
+#: ../../sharing.rst:236
+msgid "50-EPH"
+msgstr ""
+
+#: ../../sharing.rst:237
+msgid "60-JAS"
+msgstr ""
+
+#: ../../sharing.rst:242
+msgid "``*`` The number 40 is skipped"
+msgstr ""
+
+#: ../../sharing.rst:244
+msgid ""
+"Now that you have the folders set up, you can upload your recordings to "
+"them. Translators typically upload from their tablets; however, a MAST "
+"technical support person may harvest the audio files from a tablet to a "
+"thumb drive and then use the computer to upload them. Both methods are "
+"discussed below."
+msgstr ""
+
+#: ../../sharing.rst:246
+msgid "**Upload chapter recordings from the tablet**"
+msgstr ""
+
+#: ../../sharing.rst:248
+msgid ""
+"Navigate to the correct language, book and chapter folder. If they are "
+"not present – see the instructions to create the folder structure."
+msgstr ""
+
+#: ../../sharing.rst:250
+msgid "Tap the chapter folder."
+msgstr ""
+
+#: ../../sharing.rst:254 ../../sharing.rst:297
+msgid "Tap **Upload** on the menu."
+msgstr ""
+
+#: ../../sharing.rst:256
+msgid "The Upload window opens. Tap **Browse files**."
+msgstr ""
+
+#: ../../sharing.rst:258
+msgid "A file manager window opens. Tap in turn the following folders:"
+msgstr ""
+
+#: ../../sharing.rst:260
+msgid "On the left section, tap **Internal Storage**."
+msgstr ""
+
+#: ../../sharing.rst:262
+msgid "On the right section:"
+msgstr ""
+
+#: ../../sharing.rst:264
+msgid "Tap **BTTRecorder**."
+msgstr ""
+
+#: ../../sharing.rst:266
+msgid "Tap your target language code."
+msgstr ""
+
+#: ../../sharing.rst:268
+msgid "Tap the project type."
+msgstr ""
+
+#: ../../sharing.rst:270
+msgid "Tap the book code."
+msgstr ""
+
+#: ../../sharing.rst:272
+msgid "Tap the chapter number."
+msgstr ""
+
+#: ../../sharing.rst:274
+msgid ""
+"The chapter folder opens and shows all the verse recordings for that "
+"chapter. Do a long tap on one of the files (tap and hold until the file’s"
+" bar turns darker), and then tap each of the other files to select all of"
+" them"
+msgstr ""
+
+#: ../../sharing.rst:276
+msgid "Tap **OPEN** at the top right of the screen."
+msgstr ""
+
+#: ../../sharing.rst:278
+msgid ""
+"The list of files appears in the ShareFile window. Tap **Upload** to "
+"upload the files. **Note**: This screen may not appear – it may upload "
+"the files automatically."
+msgstr ""
+
+#: ../../sharing.rst:281
+msgid "It may take some time to upload the files."
+msgstr ""
+
+#: ../../sharing.rst:283
+msgid "**Upload chapter recordings from the computer**"
+msgstr ""
+
+#: ../../sharing.rst:285
+msgid ""
+"These steps assume that a MAST Tech Support Person, or someone working on"
+" the recordings, has harvested the files from the tablets onto a thumb "
+"drive."
+msgstr ""
+
+#: ../../sharing.rst:287
+msgid ""
+"In a browser on the computer that has the BTT Recorder files, open the "
+"ShareFile server (https://digitalstorage.sharefile.com) using your login "
+"and password."
+msgstr ""
+
+#: ../../sharing.rst:289
+msgid "Follow these steps to add files to a folder on the ShareFile server:"
+msgstr ""
+
+#: ../../sharing.rst:291
+msgid "Navigate to the correct Language, Book and Chapter folder."
+msgstr ""
+
+#: ../../sharing.rst:293
+msgid "Tap the Chapter folder to open it."
+msgstr ""
+
+#: ../../sharing.rst:298
+msgid "The Upload window opens. There are 2 ways to upload the files:"
+msgstr ""
+
+#: ../../sharing.rst:300
+msgid "Browse to files:"
+msgstr ""
+
+#: ../../sharing.rst:302
+msgid "Click **Browse files**."
+msgstr ""
+
+#: ../../sharing.rst:304
+msgid ""
+"Use the File Explorer to browse to the files on the thumb drive or "
+"computer’s hard drive."
+msgstr ""
+
+#: ../../sharing.rst:306
+msgid "Select the desired files and click **Open**."
+msgstr ""
+
+#: ../../sharing.rst:308
+msgid ""
+"On the Upload window on ShareFile, click **Upload**. Wait while the files"
+" upload to the server."
+msgstr ""
+
+#: ../../sharing.rst:310
+msgid "OR"
+msgstr ""
+
+#: ../../sharing.rst:312
+msgid "Drag the files from the File Explorer."
+msgstr ""
+
+#: ../../sharing.rst:314
+msgid ""
+"Open File Explorer and browse to the files on the thumb drive or "
+"computer’s hard drive."
+msgstr ""
+
+#: ../../sharing.rst:316
+msgid ""
+"Select the files and click-hold-and-drag the files to the browser window."
+" Release the mouse button when you see the words “Drop files here”."
+msgstr ""
+
+#: ../../sharing.rst:318
+msgid "Wait while the files upload to the server."
+msgstr ""
+
+#: ../../sharing.rst:320
+msgid "Repeat these steps for all audio files in each of the chapters."
+msgstr ""
+

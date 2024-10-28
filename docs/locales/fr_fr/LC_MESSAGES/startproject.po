@@ -1,0 +1,266 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, Door43
+# This file is distributed under the same license as the BTT Recorder
+# Information package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BTT Recorder Information 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-28 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr_fr\n"
+"Language-Team: fr_fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../startproject.rst:2
+msgid "Starting a New Project"
+msgstr ""
+
+#: ../../startproject.rst:5
+msgid "Start a New Project From the Recording Section (Blue)"
+msgstr ""
+
+#: ../../startproject.rst:7
+msgid ""
+"**NOTE**: You can start a new project in the Recording Section ONLY when "
+"it is the first time BTT Recorder is used (a new install.)"
+msgstr ""
+
+#: ../../startproject.rst:9
+msgid ""
+"From the home screen (half green and half blue), tap in the blue area to "
+"start recording."
+msgstr ""
+
+#: ../../startproject.rst:11 ../../startproject.rst:58
+msgid ""
+"**NOTE**: During these next steps, you may tap on the left arrow in the "
+"top blue bar to go back to the previous screen at any time. You may want "
+"to go to the previous screen to make a different choice."
+msgstr ""
+
+#: ../../startproject.rst:13 ../../startproject.rst:60
+msgid ""
+"Select the Target Language.  (The Target Language is the language into "
+"which you will translate.)"
+msgstr ""
+
+#: ../../startproject.rst:15
+msgid "You can search for your desired language in one of two ways:"
+msgstr ""
+
+#: ../../startproject.rst:17
+msgid ""
+"By swiping from the bottom of the screen up to scroll through the "
+"languages"
+msgstr ""
+
+#: ../../startproject.rst:19
+msgid "By tapping the magnifying glass"
+msgstr ""
+
+#: ../../startproject.rst:21 ../../startproject.rst:68
+#: ../../startproject.rst:104
+msgid "The Keyboard appears. Type in the language or language code."
+msgstr ""
+
+#: ../../startproject.rst:23 ../../startproject.rst:70
+#: ../../startproject.rst:105
+msgid "Close the keyboard by using the down arrow icon, or back arrow icon."
+msgstr ""
+
+#: ../../startproject.rst:25 ../../startproject.rst:72
+msgid ""
+"Tap on the name of the desired Target Language. The program goes to the "
+"Choose a Project step."
+msgstr ""
+
+#: ../../startproject.rst:27 ../../startproject.rst:74
+msgid ""
+"Choose a Project - Choose, by tapping once, from the choices of Bible:Old"
+" Testament or Bible:New Testament or Bible stories:Open Bible Stories."
+msgstr ""
+
+#: ../../startproject.rst:29 ../../startproject.rst:76
+msgid ""
+"Choose a Book - Tap on a book in the Bible. Swipe up to see more book "
+"names, or use the magnifying glass to search for the book."
+msgstr ""
+
+#: ../../startproject.rst:31 ../../startproject.rst:78
+msgid "Choose a Translation Type - Tap to choose."
+msgstr ""
+
+#: ../../startproject.rst:33 ../../startproject.rst:80
+msgid ""
+"If you are using source audio, you must select the same Translation Type "
+"as the source audio."
+msgstr ""
+
+#: ../../startproject.rst:35 ../../startproject.rst:82
+msgid ""
+"If you are translating from the UDB or ULB, tap one of those choices. "
+"Otherwise, tap REG: Regular."
+msgstr ""
+
+#: ../../startproject.rst:36 ../../startproject.rst:83
+msgid "**Note**: This choice does not apply to Open Bible Stories."
+msgstr ""
+
+#: ../../startproject.rst:38 ../../startproject.rst:85
+msgid ""
+"Choose a Mode - Tap to choose either Verse or Chunk mode. This is how the"
+" translation will be divided."
+msgstr ""
+
+#: ../../startproject.rst:40 ../../startproject.rst:87
+msgid ""
+"The ‘Verse’ mode has each recording separated like a regular Bible, one "
+"verse at a time."
+msgstr ""
+
+#: ../../startproject.rst:41 ../../startproject.rst:88
+msgid ""
+"The ‘Chunk’ mode has each recording separated according to groups of "
+"verses."
+msgstr ""
+
+#: ../../startproject.rst:43 ../../startproject.rst:90
+msgid ""
+"**NOTE: You must select the same Translation Type and Mode as the source "
+"audio if you are using source audio.**"
+msgstr ""
+
+#: ../../startproject.rst:45 ../../startproject.rst:92
+msgid "The program goes to the Source Audio step."
+msgstr ""
+
+#: ../../startproject.rst:48
+msgid "From the Project Management Section (Green)"
+msgstr ""
+
+#: ../../startproject.rst:50
+msgid ""
+"From the home screen (half green and half blue), tap in the green area to"
+" access Projects."
+msgstr ""
+
+#: ../../startproject.rst:52
+msgid ""
+"On a new install, tap on the blue ‘New Project’ button that is seen only "
+"on a new install."
+msgstr ""
+
+#: ../../startproject.rst:54
+msgid "Or,"
+msgstr ""
+
+#: ../../startproject.rst:56
+msgid ""
+"if there are project already started, tap on the green circle with a "
+"white plus sign."
+msgstr ""
+
+#: ../../startproject.rst:62
+msgid ""
+"You can search for your desired language by one of the two following "
+"methods:"
+msgstr ""
+
+#: ../../startproject.rst:64
+msgid ""
+"By swiping up from the bottom of the screen to scroll through the "
+"languages."
+msgstr ""
+
+#: ../../startproject.rst:66 ../../startproject.rst:103
+msgid "By tapping the magnifying glass."
+msgstr ""
+
+#: ../../startproject.rst:95
+msgid "Choosing the Source Audio"
+msgstr ""
+
+#: ../../startproject.rst:97
+msgid ""
+"Tap on the top green bar (SOURCE LANGUAGE:) to select the language of the"
+" Source Audio. (The Source Language audio is the language from which you "
+"will translate.)"
+msgstr ""
+
+#: ../../startproject.rst:99
+msgid "You can search for the desired source language in one of two ways:"
+msgstr ""
+
+#: ../../startproject.rst:101
+msgid ""
+"By swiping from the bottom of the screen up to scroll through the "
+"languages."
+msgstr ""
+
+#: ../../startproject.rst:107
+msgid ""
+"Tap on the name of the desired Source Language. The program goes back to "
+"the Source Audio window."
+msgstr ""
+
+#: ../../startproject.rst:109
+msgid ""
+"Tap on the bottom green bar (SELECT SOURCE LOCATION:) to load the source "
+"audio. The file manager should open to the directory of where the audio "
+"files are located."
+msgstr ""
+
+#: ../../startproject.rst:111
+msgid ""
+"**NOTE**: The audio files are named in this way: *Language "
+"Code_Translation Type_Book Code*.tr  So, for the ULB audio of the book of"
+" Titus in Swahili the file would be named \"sw_ulb_Titus.tr\"."
+msgstr ""
+
+#: ../../startproject.rst:113
+msgid ""
+"**Hint**: You may need to search in the Internal Storage for ``*``.tr "
+"files."
+msgstr ""
+
+#: ../../startproject.rst:115
+msgid ""
+"Tap on the name of the desired Source Language audio file. The program "
+"goes back to the Source Audio window."
+msgstr ""
+
+#: ../../startproject.rst:117
+msgid "Confirm that the information in the green bar is correct."
+msgstr ""
+
+#: ../../startproject.rst:119
+msgid "Tap on the word ‘CONTINUE’ at the bottom right of the screen."
+msgstr ""
+
+#: ../../startproject.rst:121
+msgid "The recording window opens."
+msgstr ""
+
+#: ../../startproject.rst:123
+msgid ""
+"You are ready to work within BTT Recorder. At any time, you may tap the "
+"back arrow at the bottom left of the screen. That will take you out to "
+"the main menu."
+msgstr ""
+
+#: ../../startproject.rst:125
+msgid ""
+"Go to `Recording <https://btt-"
+"recorder.readthedocs.io/en/latest/recording.html>`_ for instructions on "
+"how to record."
+msgstr ""
+

@@ -1,0 +1,203 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, Door43
+# This file is distributed under the same license as the BTT Recorder
+# Information package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BTT Recorder Information 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-28 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_tiab\n"
+"Language-Team: zh_tiab <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../fr_appendices.rst:2
+msgid "French Appendices"
+msgstr ""
+
+#: ../../fr_appendices.rst:5
+msgid "Translator Handouts"
+msgstr ""
+
+#: ../../fr_appendices.rst:6
+msgid ""
+"Use these files to give to the oral-only translators. They might help "
+"them remember the steps."
+msgstr ""
+
+#: ../../fr_appendices.rst:8
+msgid "**Icons on the Target Language Checking Screen** Coming Soon"
+msgstr ""
+
+#: ../../fr_appendices.rst:10
+msgid ""
+"**Procédure d’Enregistrement dans translation Recorder- Projet  Manager**"
+"  (https://github.com/unfoldingWord-dev/translationRecorder-"
+"Info/blob/master/french_files"
+"/tR_Recording_Process_From_Project_Manager_for_MTT-FR.pdf) [**tR "
+"Recording Process from the Project Manager**]"
+msgstr ""
+
+#: ../../fr_appendices.rst:12
+msgid ""
+"**Procédure d’enregistrement dans Translation Recorder- Ecran "
+"d’Enregistrement** (https://github.com/unfoldingWord-dev"
+"/translationRecorder-Info/blob/master/french_files"
+"/tR_Recording_Process_From_Audio_for_MTT-FR_%20v1.24.pdf) [**tR Recording"
+" from Source Audio**]"
+msgstr ""
+
+#: ../../fr_appendices.rst:14
+msgid ""
+"**Editer les Enregistrements d’Audio – Ecran d’Enregistrement** "
+"(https://github.com/unfoldingWord-dev/translationRecorder-"
+"Info/blob/master/french_files/tR_Editing_Audio_Recordings_for_MTT-"
+"FR_V1.24.pdf) [**tR Editing Audio Recordings**]"
+msgstr ""
+
+#: ../../fr_appendices.rst:16
+msgid ""
+"**Bons niveaux de la voix d’enregistrement** (https://github.com"
+"/unfoldingWord-dev/translationRecorder-"
+"Info/blob/master/french_files/tR_Sound_Recording_Good_and_"
+"%20Not_Good_for_MTT-FR.pdf) [**Good Recording Levels**]"
+msgstr ""
+
+#: ../../fr_appendices.rst:18
+msgid ""
+"**Annoter des versets dans des passages.** (https://github.com"
+"/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files"
+"/tR_Marking_Verses_in_Chunk_Mode_for_MTT-FR_V1.24.pdf) [**Verse "
+"Tagging**]"
+msgstr ""
+
+#: ../../fr_appendices.rst:25
+msgid ""
+"**Finir le Livre** (https://github.com/unfoldingWord-dev"
+"/translationRecorder-Info/blob/master/french_files"
+"/tR_Finalizing_the_Book_for_MTT-French.pdf) [**Completing a Book**]"
+msgstr ""
+
+#: ../../fr_appendices.rst:27
+msgid ""
+"**Partager le Livre** (https://github.com/unfoldingWord-dev"
+"/translationRecorder-Info/blob/master/french_files"
+"/tR_Sharing_the_Book_for_MTT-French.pdf)  [**Sharing the Audio Files**]"
+msgstr ""
+
+#: ../../fr_appendices.rst:31
+msgid "Videos"
+msgstr ""
+
+#: ../../fr_appendices.rst:32
+msgid "We regret to say that there are no videos in French."
+msgstr ""
+
+#: ../../fr_appendices.rst:36
+msgid "Power Point Presentations (with PDFs)"
+msgstr ""
+
+#: ../../fr_appendices.rst:38
+msgid "**Installing translationRecorder 1.2.4** -"
+msgstr ""
+
+#: ../../fr_appendices.rst:39
+msgid ""
+"Power Point - download from here: (https://github.com/unfoldingWord-dev"
+"/translationRecorder-"
+"Info/raw/master/french_files/translationRecorder_Installing_French_v1.2.4.pptx)"
+msgstr ""
+
+#: ../../fr_appendices.rst:40
+msgid ""
+"PDF - view the file here: (https://github.com/unfoldingWord-dev"
+"/translationRecorder-"
+"Info/blob/master/french_files/translationRecorder_Installing_French_v1.2.4.pdf)"
+msgstr ""
+
+#: ../../fr_appendices.rst:42
+msgid "**Recording from Program Manager - Oral Languages 1.2.4**"
+msgstr ""
+
+#: ../../fr_appendices.rst:43
+msgid ""
+"Power Point - download from here: (https://github.com/unfoldingWord-dev"
+"/translationRecorder-Info/raw/master/french_files"
+"/translationRecorder_Recording-Oral_Languages_French_%20v1.2.4.pptx)"
+msgstr ""
+
+#: ../../fr_appendices.rst:44
+msgid ""
+"PDF - view the file here: (https://github.com/unfoldingWord-dev"
+"/translationRecorder-Info/blob/master/french_files"
+"/translationRecorder_Recording-Oral_Languages_French_%20v1.2.4.pdf)"
+msgstr ""
+
+#: ../../fr_appendices.rst:46
+msgid "**Recording from Program Manager - Audio Recordings 1.2.4**"
+msgstr ""
+
+#: ../../fr_appendices.rst:47
+msgid ""
+"Power Point - download from here: (https://github.com/unfoldingWord-dev"
+"/translationRecorder-"
+"Info/raw/master/french_files/translationRecorder_Editing_Recording_in_Manager_French_v1.2.4.pptx)"
+msgstr ""
+
+#: ../../fr_appendices.rst:48
+msgid ""
+"PDF - view the file here: (https://github.com/unfoldingWord-dev"
+"/translationRecorder-"
+"Info/blob/master/french_files/translationRecorder_Editing_Recording_in_Manager_French_v1.2.4.pdf)"
+msgstr ""
+
+#: ../../fr_appendices.rst:50
+msgid "**Editing Oral Language Recordings 1.2.4**"
+msgstr ""
+
+#: ../../fr_appendices.rst:51
+msgid ""
+"Power Point -download from here: (https://github.com/unfoldingWord-dev"
+"/translationRecorder-Info/raw/master/french_files"
+"/translationRecorder_Editing_Recording-Oral_Language_French_v1.2.4.pptx)"
+msgstr ""
+
+#: ../../fr_appendices.rst:52
+msgid ""
+"PDF - view the file here: (https://github.com/unfoldingWord-dev"
+"/translationRecorder-Info/blob/master/french_files"
+"/translationRecorder_Editing_Recording-Oral_Language_French_v1.2.4.pdf)"
+msgstr ""
+
+#: ../../fr_appendices.rst:54
+msgid "**Editing Audio Recordings 1.2.4**"
+msgstr ""
+
+#: ../../fr_appendices.rst:55
+msgid ""
+"Power Point - download from here: (https://github.com/unfoldingWord-dev"
+"/translationRecorder-Info/raw/master/french_files"
+"/translationRecorder_Editing_Recording-"
+"Audio_Recording_French_v1.2.4.pptx)"
+msgstr ""
+
+#: ../../fr_appendices.rst:56
+msgid ""
+"PDF - view the file here: (https://github.com/unfoldingWord-dev"
+"/translationRecorder-Info/blob/master/french_files"
+"/translationRecorder_Editing_Recording-Audio_Recording_French_v1.2.4.pdf)"
+msgstr ""
+
+#: ../../fr_appendices.rst:59
+msgid "Manuals"
+msgstr ""
+

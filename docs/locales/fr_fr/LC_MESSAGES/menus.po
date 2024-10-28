@@ -1,0 +1,212 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017, Door43
+# This file is distributed under the same license as the BTT Recorder
+# Information package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BTT Recorder Information 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-28 10:29-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr_fr\n"
+"Language-Team: fr_fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../menus.rst:2
+msgid "Menus and Icons"
+msgstr ""
+
+#: ../../menus.rst:5
+msgid "The 3-dot (Options) Menu"
+msgstr ""
+
+#: ../../menus.rst:6
+msgid ""
+"The 3-dot menu (Options menu) is only on the Project Management home "
+"screen and can be found at the far right on the top blue bar.  Choose "
+"from one of the following menu items:"
+msgstr ""
+
+#: ../../menus.rst:8
+msgid "Settings - Tap to view the settings of the program."
+msgstr ""
+
+#: ../../menus.rst:9
+msgid ""
+"Source Audio Location - Sets the default folder that opens when you "
+"select a source audio location for a project. (Although you can set the "
+"value here, the default location changes if you select a different "
+"location when defining a project. So the default value changes to the "
+"most recent location specified when defining a project.)"
+msgstr ""
+
+#: ../../menus.rst:10
+msgid ""
+"Source Language - It is not necessary to set a source language, because "
+"even if it is set you still need to define it each time you create a "
+"project."
+msgstr ""
+
+#: ../../menus.rst:11
+msgid ""
+"Add Temporary Language - Adds a language to the target language list that"
+" displays in BTT Recorder. You may need to do this if your target "
+"language does not appear in the target language list. Enter the common "
+"name of the language and then 6 letters after the code prefix on the "
+"second line. Tap **ADD** to save the new temporary code."
+msgstr ""
+
+#: ../../menus.rst:12
+msgid ""
+"Update Languages From translationDatabase - Updates the list of target "
+"languages that displays in BTT Recorder."
+msgstr ""
+
+#: ../../menus.rst:13
+msgid ""
+"Update Languages From file - A file manager opens to enable you to locate"
+" the file to use."
+msgstr ""
+
+#: ../../menus.rst:14
+msgid ""
+"Change Upload Server – Tap to change the server to which recording "
+"projects get uploaded."
+msgstr ""
+
+#: ../../menus.rst:15
+msgid ""
+"The BTT Recorder Version cannot be changed. It is displayed for "
+"information only."
+msgstr ""
+
+#: ../../menus.rst:17
+msgid ""
+"Tap the back arrow at the top left to return to the Project Management "
+"screen."
+msgstr ""
+
+#: ../../menus.rst:19
+msgid ""
+"Logout - Tap **Logout** to sign out of the program. The program restarts "
+"at the User Account screen."
+msgstr ""
+
+#: ../../menus.rst:20
+msgid ""
+"Help - View this set of documentation on how to use the BTT Recorder "
+"program. Internet connection is necessary to view the documentation."
+msgstr ""
+
+#: ../../menus.rst:22
+msgid "Tap outside the menu to dismiss it."
+msgstr ""
+
+#: ../../menus.rst:25
+msgid "Information on the Project Management Screen"
+msgstr ""
+
+#: ../../menus.rst:26
+msgid "The projects shown on the screen are organized by most recently viewed."
+msgstr ""
+
+#: ../../menus.rst:28
+msgid "Tap on any project bar to enter the project files."
+msgstr ""
+
+#: ../../menus.rst:30
+msgid "The column headings show the order of information on the project bars:"
+msgstr ""
+
+#: ../../menus.rst:32
+msgid "Language - This will be the Target Language of the project."
+msgstr ""
+
+#: ../../menus.rst:33
+msgid "Book - This is the book that is being translated or recorded."
+msgstr ""
+
+#: ../../menus.rst:34
+msgid "Completeness - This circle will fill with blue as the project progresses."
+msgstr ""
+
+#: ../../menus.rst:36
+msgid "In addition are two other icons on each of the project bars:"
+msgstr ""
+
+#: ../../menus.rst:38
+msgid ""
+"Information icon (gray circle with a white 'i' inside) - See further "
+"information below."
+msgstr ""
+
+#: ../../menus.rst:39
+msgid "Microphone - Tap this icon to go directly to the recording screen."
+msgstr ""
+
+#: ../../menus.rst:42
+msgid "Information Window"
+msgstr ""
+
+#: ../../menus.rst:43
+msgid ""
+"Tap on the Information icon (gray circle with a white 'i' inside) for a "
+"project and a window opens with further details about the project."
+msgstr ""
+
+#: ../../menus.rst:45
+msgid ""
+"The Book and Target Language are in the title of the details with the "
+"rest of the details:"
+msgstr ""
+
+#: ../../menus.rst:47
+msgid "Project - The name of the book."
+msgstr ""
+
+#: ../../menus.rst:48
+msgid ""
+"Target Language - The common name followed by the language code in "
+"parenthesis."
+msgstr ""
+
+#: ../../menus.rst:49
+msgid "Translation Type - The choice made for the project. (Regular, UDB, or ULB)"
+msgstr ""
+
+#: ../../menus.rst:50
+msgid "Unit - Either 'chunk' or 'verse.'"
+msgstr ""
+
+#: ../../menus.rst:51
+msgid ""
+"Source Audio Language - If source audio is chosen its language is "
+"displayed here. Tap the pencil to change the Source Audio language."
+msgstr ""
+
+#: ../../menus.rst:52
+msgid ""
+"Source Audio Location - If source audio is chosen its location is "
+"displayed here. Tap on the pencil to change the Source Audio location."
+msgstr ""
+
+#: ../../menus.rst:54
+msgid ""
+"Tapping the Trashcan icon at the lower-left deletes your project. The "
+"other icons along the bottom right are for sharing your project (see "
+"`Sharing Your Recordings <https://btt-"
+"recorder.readthedocs.io/en/latest/sharing.html#>`_)."
+msgstr ""
+
+#: ../../menus.rst:56
+msgid "Tap anywhere outside of the white area to close the Information popup."
+msgstr ""
+
