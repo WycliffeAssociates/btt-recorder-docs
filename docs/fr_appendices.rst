@@ -3,58 +3,74 @@ French Appendices
 
 Translator Handouts
 -----
-Use these files to give to the oral-only translators. They might help them remember the steps.
+Distribuez  ces documents aux traducteurs de langue orale afin de les aider à se souvenir des démarches à suivre. 
+Cliquez sur le lien pour télécharger le document sur votre appareil.
 
-**Icons on the Target Language Checking Screen** Coming Soon
+`BTT-R Édition d’icônes d’écran <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/BTT-R_%C3%89dition_d%E2%80%99ic%C3%B4nes_d%E2%80%99%C3%A9cran.pdf>`_ (BTT Recorder Edit Screen Icons)
 
-**Procédure d’Enregistrement dans translation Recorder- Projet  Manager**  (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/tR_Recording_Process_From_Project_Manager_for_MTT-FR.pdf) [**tR Recording Process from the Project Manager**]
+`BTT-R Sur la Tablette que Pouvez-vous Montrer au Traducteur Oral <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/BTT-R_Sur_la_tablette_que_pouvez-vous_montrer_au_traducteur_%20oral.pdf>`_ (What to Show the Oral Translator on the Tablet)
 
-**Procédure d’enregistrement dans Translation Recorder- Ecran d’Enregistrement** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/tR_Recording_Process_From_Audio_for_MTT-FR_%20v1.24.pdf) [**tR Recording from Source Audio**]
+`BTT-R Créer les Enregistrements d'un Chapitre <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/BTT-R_Cr%C3%A9er_les_enregistrements_d'un_chapitre.pdf>`_ (Create Chapter Recordings)
 
-**Editer les Enregistrements d’Audio – Ecran d’Enregistrement** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/tR_Editing_Audio_Recordings_for_MTT-FR_V1.24.pdf) [**tR Editing Audio Recordings**]
-     
-**Bons niveaux de la voix d’enregistrement** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/tR_Sound_Recording_Good_and_%20Not_Good_for_MTT-FR.pdf) [**Good Recording Levels**]
-      
-**Annoter des versets dans des passages.** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/tR_Marking_Verses_in_Chunk_Mode_for_MTT-FR_V1.24.pdf) [**Verse Tagging**]
+`BTT-R Enregistrement avec une Source Audio <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/BTT-R_Enregistrement_avec_une_source_audio.pdf>`_ (Recording with Source Audio)
 
-.. Image:: ../images/SMALLNEW.jpg
-    :width: 200
-    :align: center
-    :height: 170
+`BTT-R Enregistrement sans la Source Audio <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/BTT-R_Enregistrement_sans_la_source_Audio.pdf>`_ (Recording without Source Audio)
 
-**Finir le Livre** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/tR_Finalizing_the_Book_for_MTT-French.pdf) [**Completing a Book**]
+`BTT-R Bons Nniveaux de la voix d'enregistrement <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/BTT-R_Bons_niveaux_de_la_voix_d'enregistrement.pdf>`_ (Good Recording - Volume)
 
-**Partager le Livre** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/tR_Sharing_the_Book_for_MTT-French.pdf)  [**Sharing the Audio Files**]
+`BTT-R Marquer des Versets en mode par Morceau <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/BTT-R_Marquer_des_versets_en_mode_par_morceau.pdf>`_ (Marking Verses in Chunk Mode)
 
-
-Videos
-----
-We regret to say that there are no videos in French.
+`BTT-R Partager les Fichiers Audio <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/BTT-R_Partager_les_fichiers_audio.pdf>`_ (Sharing the Recording)
 
 
 Power Point Presentations (with PDFs)
 ----
+.. list-table:: 
+   :widths: 15 10 30
+   :header-rows: 1
 
-**Installing translationRecorder 1.2.4** - 
- * Power Point - download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/raw/master/french_files/translationRecorder_Installing_French_v1.2.4.pptx) 
- * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/translationRecorder_Installing_French_v1.2.4.pdf)
+   * - Title - Topic
+     - Powerpoint
+     - PDF
+     
+   * - **Installation**
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/6-Installation.pptx>`_ 
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/6-Installation.pdf>`_ 
 
-**Recording from Program Manager - Oral Languages 1.2.4**
- * Power Point - download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/raw/master/french_files/translationRecorder_Recording-Oral_Languages_French_%20v1.2.4.pptx)
- * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/translationRecorder_Recording-Oral_Languages_French_%20v1.2.4.pdf)
+   * - **Configuration Pour un Nouvel Utilisateur**
+     -  \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/1-Configuration_Pour_un_Nouvel_Utilisateur.pptx>`_ 
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/1-Configuration_Pour_un_Nouvel_Utilisateur.pdf>`_  
+
+   * - **Edition des Enrégistrement-Menus et Icônes**
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/7-Edition_des_Enr%C3%A9gistrement-Menus_et_Ic%C3%B4nes.pptx>`_ 
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/7-Edition_des_Enr%C3%A9gistrement-Menus_et_Ic%C3%B4nes.pdf>`_
+     
+   * - **Démarrer un Nouveau Projet à Partir de la Section Enregistrement**
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/10-D%C3%A9marrer_un_Nouveau_Projet_%C3%A0_Partir_de_la_Section_Enregistrement.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/10-D%C3%A9marrer_un_Nouveau_Projet_%C3%A0_Partir_de_la_Section_Enregistrement.pdf>`_
+     
+   * - **Démarrant un Nouveau Projet à Partir de Project Management**
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/9-D%C3%A9marrant_un_Nouveau_Projet_%C3%A0_Partir_de_Project_Management.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/9-D%C3%A9marrant_un_Nouveau_Projet_%C3%A0_Partir_de_Project_Management.pdf>`_  
+     
+   * - **Partir de la Gestion de Projet Enregistrements sans Audio**
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/8-Partir_de_la_Gestion_de_Projet_Enregistrements_sans_Audio.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/8-Partir_de_la_Gestion_de_Projet_Enregistrements_sans_Audio.pdf>`_
+
+   * - **Rédaction en Gestion de Projet**
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/4-R%C3%A9daction_en_gestion_de_projet.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/4-R%C3%A9daction_en_gestion_de_projet.pdf>`_
+
+   * - **Édition Enregistrements Couper Insertion** 
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/3-%C3%89dition_Enregistrements_Couper_Insertion.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/3-%C3%89dition_Enregistrements_Couper_Insertion.pdf>`_
+
+   * - **L'edition des Enregistrements Marqueurs de Versets et Evaluation**
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/5-L-edition_des_Enregistrements_Marqueurs_de_Versets_et_Evaluation.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/5-L-edition_des_Enregistrements_Marqueurs_de_Versets_et_Evaluation.pdf>`_
+     
+   * - **Édition D'Enregistrements Creer un Enregistrement de Chapitre**
+     - \ `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/2-%C3%89dition_D'Enregistrements_Creer_un_Enregistrement_de_Chapitre.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/french_files/2-%C3%89dition_D'Enregistrements_Creer_un_Enregistrement_de_Chapitre.pdf>`_
+     
  
-**Recording from Program Manager - Audio Recordings 1.2.4**
- * Power Point - download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/raw/master/french_files/translationRecorder_Editing_Recording_in_Manager_French_v1.2.4.pptx)
- * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/translationRecorder_Editing_Recording_in_Manager_French_v1.2.4.pdf)
-  
-**Editing Oral Language Recordings 1.2.4**
- * Power Point -download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/raw/master/french_files/translationRecorder_Editing_Recording-Oral_Language_French_v1.2.4.pptx)
- * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/translationRecorder_Editing_Recording-Oral_Language_French_v1.2.4.pdf)
-
-**Editing Audio Recordings 1.2.4** 
- * Power Point - download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/raw/master/french_files/translationRecorder_Editing_Recording-Audio_Recording_French_v1.2.4.pptx)
- * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/french_files/translationRecorder_Editing_Recording-Audio_Recording_French_v1.2.4.pdf)
-
-Manuals
------
-

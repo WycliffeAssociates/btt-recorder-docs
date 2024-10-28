@@ -3,9 +3,10 @@ Getting Started with BTT Recorder
 
 There are 4 tasks to perform in order to start using BTT Recorder:
 
-* `Install BTT Recorder`_
+* `Installing BTT Recorder <https://btt-recorder.readthedocs.io/en/latest/install.html>`_
 
-* `Open BTT Recorder`_
+* `Open the Program <https://btt-recorder.readthedocs.io/en/latest/install.html#open-the-program>`_
+
 
 * `Create a new user`_ (if you have not used the program before).
 
@@ -13,81 +14,7 @@ There are 4 tasks to perform in order to start using BTT Recorder:
 
 These tasks are described below.
 
-Install BTT Recorder
-=======================
 
-There are two places to download the program:
-
-*	The Bible Translation Tools site
-
-*	Google Play Store
-
-Installing from the Bible Translation Tools site
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-This option is great if you are planning on leading an event and may not have internet access on site. This may require changes to your device’s permissions. There are benefits to using the downloaded APK:
-
-* Easily transfer the application to multiple devices without internet.
-
-* Can pick a specific version of BTT Recorder, including the most up-to-date version of the program
-
-* Does not require a Google Play Store account. 
-
-To install BTT Recorder from the Bible Translation Tools website, perform the following steps:
-
-1.	Go to this URL: https://recorder.bibletranslationtools.org/download/.
-
-2.	Tap **Download APK**.
-
-3.	The APK file downloads.
-
-4.	Navigate to the download folder.
-
-5.	Tap the **bttRecorder.apk** file and allow the program to install. (You may need to give permission for an APK to install on the device.)
-
-Installing from the Google Play Store
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-We recommend downloading BTT Recorder directly from the Google Play Store for most people. This requires a reliable internet connection. There are benefits to using Google Play Store: 
-
-* Installation is quick and easy
-
-* You will automatically have the most up to date version
-
-* Great for single downloads
-
-* Allows you to run the application on some Chromebooks.
-
-To install from Google Play Store, perform the following steps:
-
-1.	Go to this URL: https://recorder.bibletranslationtools.org/download/.
-
-2.	Tap **Get it on Google Play**.
-
-3.	The BTT Recorder app window displays. Tap **Install**.
-
-4.	Once installed, tap **Open**.
-
-OR
-
-1.	Open Google Play Store on your Android device.
-
-2.	Type in ‘BTT Recorder’ in the search field.
-
-3.	The BTT Recorder app window displays. Tap **Install**.
-
-4.	Once installed, tap **Open**.
-
-Open BTT Recorder
-====================
-
-If BTT Recorder does not open after installation, or if you have closed it and need to reopen it, just tap the **BTT Recorder icon** on the device screen. 
-
-.. image:: ../images/BTTRecorderLogo.gif
-    :align: center
-    :alt: BTT Recorder Icon
-
-This icon may not be on the main screen; you may need to scroll to a different screen to find it, or open your apps. You can then tap and drag it to the main screen if desired.
 
 Create a New User
 =======================

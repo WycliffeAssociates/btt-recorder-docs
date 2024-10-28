@@ -15,7 +15,7 @@ Go to this page (https://digitalstorage.sharefile.com/share/view/s34cb4b0a5be4ce
 
 Translator Handouts
 -----
-Use these files to give to the oral language translators to help them remember the steps.
+Use these files to give to the oral language translators to help them remember the steps. Click on the link to download the file to your device.
 
 `Recording with Source Audio v1.4 <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Recording_with_Source_Audio_1.4.pdf>`_
 
@@ -58,6 +58,11 @@ Links to Individual Demos:
 `Inserting Verse Markers in BTT Recorder <https://youtu.be/u_CnbaF6T9U>`_
 
 `Compiling a Chapter Recording in BTT Recorder <https://youtu.be/NFEh85VwZ34>`_
+
+Live Video Demonstrations
+--------------------
+Link to the playlist of videos that are presented during the
+`Great Commission Bible Translation (GCBT) Conferences. <https://www.youtube.com/playlist?list=PLwtF1YaXfQQE0X847imr_kN4OZzwTtPqq>`_
 
 Power Point Presentations (with PDFs)
 -------------------------------------
@@ -111,13 +116,14 @@ Power Point Presentations (with PDFs)
      - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4_PPT.pdf>`_
      
  
-**!!! COMING SOON !!!**:  **Uploading to the Citrix ShareFile Server**
+**!!! COMING SOON !!!**:  **Uploading to the Box Server**
  
 
 Manuals
 -----
+Click on the links to download the PDF document.
 
 `What to Show the Oral Translator on the Tablet <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/What_to_Show_the_Oral_Translator_on_the_Tablet.pdf>`_
 
-`Version 1.4 User Manual <https://github.com/WycliffeAssociates/btt-recorder-docs/raw/master/appendix/BTT_Recorder_Manual_1.4v3.x_Screens.pdf>`_ - Documentation with screen shots 
+`Version 1.4.14 User Manual <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/docs/BTT_Recorder_Manual_1.4.14.x-202308.pdf>`_ - Documentation with screen shots
 
