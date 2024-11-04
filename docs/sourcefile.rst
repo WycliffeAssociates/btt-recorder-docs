@@ -28,8 +28,31 @@ Use the Source Audio Files
 
 Now that the book audio files are downloaded they can be used in BTT Recorder.
 
-Set up a new project.
+1. Tap the plus sign to set up a new project.
 
+2. Choose the Target Language.
+
+3. Choose the Testament - Old or New.
+
+4. Choose the Book.
+
+5. For the Translation Type choose REG: Regular.
+
+6. For the Mode choose Verse.
+
+7. Tap on the green Select Source Language bar.
+
+8. Search for the desired Source Language. (This is the same language of the file downloaded from the GL Source Audio webpage.)
+
+9. Tap on the green 'Select Surce Location' bar.
+
+10. Navigate to the Download folder on the device.
+
+11. Tap on the file that starts with the source language code and ends with .tr.
+
+12. Tap continue and start the recording of the Target Language project. 
+
+Go to `Recording a Project' <https://btt-recorder.readthedocs.io/en/latest/recording.html#>`_.
 
 
 
