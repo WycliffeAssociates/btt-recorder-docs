@@ -2,10 +2,11 @@ Import Source Audio
 =======================
 
 Please NOTE: you will find the source audio files on https://audio.bibleineverylanguage.org/gl.
-Sharing Your Recordings
-=======================
 
-After the recordings have been made, edited, and reviewed, they are ready to be exported or uploaded so that others can share them. You can:
+
+
+
+
 
 *	Export the completed project to your tablet as a tr file
 
