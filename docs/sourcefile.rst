@@ -1,37 +1,44 @@
 Import Source Audio
 =======================
 
-Please NOTE: Click on this link if you need instructions on how to import audio of previous work: `Importing Source Audio <https://btt-recorder.readthedocs.io/en/latest/import.html#>`_.
+Please NOTE: Click on this link if you need instructions on how to import audio of previous work: `Importing an Oral Project from the Box Server' <https://btt-recorder.readthedocs.io/en/latest/import.html#>`_.
 
-Importing from the Bible In Every Language Gateway Source Audio Page
-=================================================
+Download Source Audio
+-----------------------------------------
 
-Please NOTE: you will find the source audio files on https://audio.bibleineverylanguage.org/gl.
+You will find the source audio files on the Bible in Every Language Gateway Source Audio page - https://audio.bibleineverylanguage.org/gl.
 
-Because BTT Recorder does not have a built-in capability to import files from other sources you will need to manually download the audio files from an external source into specific folder on the tablet.
+1. Navigate to the BIEL GL Source Audio page by clicking on the above link.
+2. Use the search field to search for a Gateway Language. Notice that the languages that have source audio available are highlighted.
+3. Tap on the language name card.
+4. Tap on the BTT Recorder card.
+5. Tap on on the desired book card.
+6. Tap the yello Download Book button. (Choose to download each chapter if you have limited Internet bandwidth.)
+
 
 When the recorded wav files are copied into the BTT Recorder folder structure, the project will show in BTT Recorder, and you can continue to work on it.
 
-The BTT folder structure on the internal storage of your device looks like this:
-
-   BTTRecorder > *language* > *type* > *book* > *chapter*
-   
-For example, recordings for chapter 1 of the book of Ruth in a ulb project with a target language of en-x-demo1 would be stored under this folder structure:
-
-   BTTRecorder > en-x-demo1 > ulb > rut > 01
- 
-To create this folder structure, use the device’s file manager to create appropriate subfolders under the BTTRecorder folder, as described below.
-
-To see how the folders should be named, look at the project’s files on Box. Here is an example:
-
-   ta_ulb_b63_1jn_c05_v21_t01.wav
- 
-The “ta” before the first underscore is the language, so that is what you should name the first subfolder under BTTRecorder. After the first underscore is the project type, in this case “ulb”, so that is what you should name the subfolder of “ta”. You do not need to create the book and chapter subfolders. They will get created automatically when you download and extract a zip file from Box.
-
-**Note**: Pay attention to the name of the book in the file name, in this case “1jn”, because you will need this name in a later step.
 
 Create the Folder Structure on Your Device
 -------------------------------------------
+
+a The BTT folder structure on the internal storage of your device looks like this:
+
+  b BTTRecorder > *language* > *type* > *book* > *chapter*
+   
+c For example, recordings for chapter 1 of the book of Ruth in a ulb project with a target language of en-x-demo1 would be stored under this folder structure:
+
+d   BTTRecorder > en-x-demo1 > ulb > rut > 01
+ 
+e T o create this folder structure, use the device’s file manager to create appropriate subfolders under the BTTRecorder folder, as described below.
+
+f To see how the folders should be named, look at the project’s files on Box. Here is an example:
+
+g   ta_ulb_b63_1jn_c05_v21_t01.wav
+ 
+h The “ta” before the first underscore is the language, so that is what you should name the first subfolder under BTTRecorder. After the first underscore is the project type, in this case “ulb”, so that is what you should name the subfolder of “ta”. You do not need to create the book and chapter subfolders. They will get created automatically when you download and extract a zip file from Box.
+
+i **Note**: Pay attention to the name of the book in the file name, in this case “1jn”, because you will need this name in a later step.
 
 Before you begin this process, close BTT Recorder if you have it open.
 
