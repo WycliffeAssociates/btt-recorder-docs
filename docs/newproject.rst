@@ -76,6 +76,4 @@ If you do not have source audio available, tap **SKIP** in the lower right corne
 * If you do have source audio, you must specify the language and the location of the audio file. Go to `Importing Source Audio <https://btt-recorder.readthedocs.io/en/latest/sourcefile.html>`_ for complete instructions.
 
 
-Confirm that the information in the green bar is correct, and then tap **CONTINUE** at the bottom right of the screen. 
-
 The Recording screen opens. You are now ready to record. Go to `Recording screen <https://btt-recorder.readthedocs.io/en/latest/recordingscreen.html>`_ for instructions on how to record. 
