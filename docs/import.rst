@@ -1,23 +1,25 @@
-Importing an Oral Project from the Citrix Server
+Importing an Oral Project from the Box Server
 =================================================
 
-BTT Recorder does not have a built-in capability to import files from other sources. However, if you put recorded wav files into the BTT Recorder folder structure, the project will show in BTT Recorder and you can continue to work on it.
+Because BTT Recorder does not have a built-in capability to import files from other sources you will need to manually download the audio files from an external source into specific folder on the tablet.
+
+When the recorded wav files are copied into the BTT Recorder folder structure, the project will show in BTT Recorder, and you can continue to work on it.
 
 The BTT folder structure on the internal storage of your device looks like this:
 
    BTTRecorder > *language* > *type* > *book* > *chapter*
    
-For example, recordings for chapter 1 of the book of Ruth in a ulb project with a language of en-x-demo1 would be stored under this folder structure:
+For example, recordings for chapter 1 of the book of Ruth in a ulb project with a target language of en-x-demo1 would be stored under this folder structure:
 
    BTTRecorder > en-x-demo1 > ulb > rut > 01
  
 To create this folder structure, use the device’s file manager to create appropriate subfolders under the BTTRecorder folder, as described below.
 
-To see how the folders should be named, look at the project’s files on Citrix. Here is an example:
+To see how the folders should be named, look at the project’s files on Box. Here is an example:
 
    ta_ulb_b63_1jn_c05_v21_t01.wav
  
-The “ta” before the first underscore is the language, so that is what you should name the first subfolder under BTTRecorder. After the first underscore is the project type, in this case “ulb”, so that is what you should name the subfolder of “ta”. You do not need to create the book and chapter subfolders. They will get created automatically when you download and extract a zip file from Citrix.
+The “ta” before the first underscore is the language, so that is what you should name the first subfolder under BTTRecorder. After the first underscore is the project type, in this case “ulb”, so that is what you should name the subfolder of “ta”. You do not need to create the book and chapter subfolders. They will get created automatically when you download and extract a zip file from Box.
 
 **Note**: Pay attention to the name of the book in the file name, in this case “1jn”, because you will need this name in a later step.
 
