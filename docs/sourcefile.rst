@@ -52,7 +52,7 @@ Now that the book audio files are downloaded they can be used in BTT Recorder.
 
 12. Tap continue and start the recording of the Target Language project. 
 
-Go to `Recording a Project' <https://btt-recorder.readthedocs.io/en/latest/recording.html#>`_.
+The Recording screen opens. You are now ready to record. Go to `Recording screen <https://btt-recorder.readthedocs.io/en/latest/recordingscreen.html>`_ for instructions on how to record. 
 
 
 
