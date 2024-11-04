@@ -1,6 +1,8 @@
 Importing an Oral Project from the Box Server
 =================================================
 
+See docs/sourcefile.rst for directions on importing source audio files.
+
 Because BTT Recorder does not have a built-in capability to import files from other sources you will need to manually download the audio files from an external source into specific folder on the tablet.
 
 When the recorded wav files are copied into the BTT Recorder folder structure, the project will show in BTT Recorder, and you can continue to work on it.
