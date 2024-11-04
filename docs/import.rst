@@ -1,7 +1,7 @@
 Importing an Oral Project from the Box Server
 =================================================
 
-Please NOTE: If you need instructions on how to import source audio click on this link: `Importing Source Audio <https://btt-recorder.readthedocs.io/en/latest/sourcefile.html#>`_.
+Please NOTE: Click on this link if you need instructions on how to import source audio: `Importing Source Audio <https://btt-recorder.readthedocs.io/en/latest/sourcefile.html#>`_.
 
 Because BTT Recorder does not have a built-in capability to import files from other sources you will need to manually download the audio files from an external source into specific folder on the tablet.
 
@@ -43,15 +43,17 @@ To create the folders, perform the following steps:
 Download the Recordings
 -----------------------
 
-Now that the folders are set up on your device, you can download the recordings from Citrix by performing the following steps:
+Now that the folders are set up on your device, you can download the recordings from the Box server by performing the following steps:
 
-1.	In your device’s browser, enter the URL for the Citrix server, https://digitalstorage.sharefile.com, and sign in with your credentials.
+1.	In your device’s browser, enter the URL for the Box server, https://account.box.com/login, and sign in with your credentials.
 
-2.	Navigate to the folder on the Citrix server where the recordings are stored. You should see separate subfolders for each Bible book that has been recorded.
+2.	Navigate to the folder on the Box server where the recordings are stored. (You may want to click in the Search field at the top of the window, type in the target language name, and then tap on the language name.)
 
-3.	Find the folder for the book you want to download. Tap and hold the folder until there is a checkmark to the left of it.
+You should see separate subfolders for each Bible book that has been recorded.
 
-4.	You can then tap **Download** at the top of the page, or if a popup menu appears, you can tap **Download** on that.
+3.	Find the folder for the book you want to download. Tap to open the folder.
+
+4.	You can then tap **Download** at the top of the page, you may need to tap the 3-dot menu for the popup menu, and then you can tap **Download** on that.
 
 5.	A message tells you that it may take several minutes for the download to complete.
 
@@ -96,8 +98,4 @@ Extract the Downloaded Files
   *	Tap and hold the zip file to select it and then tap the trash can to delete it.  
 
 4.	Now if you open BTT Recorder and look at your projects, you should see the one that you downloaded from Citrix and you can work with it as with any project.
- 
-
- 
-
  
