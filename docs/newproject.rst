@@ -73,42 +73,8 @@ Step 4: Select the Source Audio (optional)
 
 If you do not have source audio available, tap **SKIP** in the lower right corner of the screen.
 
-If you do have source audio, you must specify the language and the location of the audio file. 
-
-Select the source audio language
-++++++++++++++++++++++++++++++++
-
-Tap the top green bar (**SELECT SOURCE LANGUAGE**) to select the language. The Source Language is the language from which you will translate.
-
-You can search for the desired source language by: 
-
-*	Swiping from the bottom of the screen up to scroll through the languages.
-
-OR
-
-*	Tapping the  **magnifying glass** at the top right of the screen. The keyboard appears. Type in the language or language code.
-  
-You can close the keyboard by tapping your tablet’s **down arrow icon** or **back arrow icon**.
-
-Tap the name of the Source Language. This must match the language of the source audio file. The program goes back to the Source Audio window.
-
-Select the source audio file
-++++++++++++++++++++++++++++
-
-**NOTE**: The audio files are named as follows: [*Language*]_[*type*]_[*3-letterbookcode*].tr. So, for the ULB audio of the book of Titus in English the file would be named en_ulb_tit.tr.
-
-Tap the bottom green bar (**SELECT SOURCE LOCATION**) to load the source audio. 
-
-*	The file manager should open to the directory that is set as the default location for source audio. 
-
-*	If your source audio is not in that directory, you can navigate to the folder where the audio files are located.
-
-  **HINT**: You may need to search in the Internal Storage for *.tr files.
-
-Tap the desired source audio file. 
-
-The program returns to the Source Audio window and displays the location of the source audio file on the lower green bar. 
-
-Confirm that the information in the green bar is correct, and then tap **CONTINUE** at the bottom right of the screen. 
-
 The Recording screen opens. You are now ready to record. Go to `Recording screen <https://btt-recorder.readthedocs.io/en/latest/recordingscreen.html>`_ for instructions on how to record. 
+
+* If you do want to use source audio, you must specify the language and the location of the audio file. Go to `Import Source Audio <https://btt-recorder.readthedocs.io/en/latest/sourcefile.html>`_ for complete instructions.
+
+

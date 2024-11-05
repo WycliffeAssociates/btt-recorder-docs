@@ -1,23 +1,27 @@
-Importing an Oral Project from the Citrix Server
+Importing an Oral Project from the Box Server
 =================================================
 
-BTT Recorder does not have a built-in capability to import files from other sources. However, if you put recorded wav files into the BTT Recorder folder structure, the project will show in BTT Recorder and you can continue to work on it.
+Please NOTE: Click on this link if you need instructions on how to import source audio: `Importing Source Audio <https://btt-recorder.readthedocs.io/en/latest/sourcefile.html#>`_.
+
+Because BTT Recorder does not have a built-in capability to import files from other sources you will need to manually download the audio files from an external source into specific folder on the tablet.
+
+When the recorded wav files are copied into the BTT Recorder folder structure, the project will show in BTT Recorder, and you can continue to work on it.
 
 The BTT folder structure on the internal storage of your device looks like this:
 
    BTTRecorder > *language* > *type* > *book* > *chapter*
    
-For example, recordings for chapter 1 of the book of Ruth in a ulb project with a language of en-x-demo1 would be stored under this folder structure:
+For example, recordings for chapter 1 of the book of Ruth in a ulb project with a target language of en-x-demo1 would be stored under this folder structure:
 
    BTTRecorder > en-x-demo1 > ulb > rut > 01
  
 To create this folder structure, use the device’s file manager to create appropriate subfolders under the BTTRecorder folder, as described below.
 
-To see how the folders should be named, look at the project’s files on Citrix. Here is an example:
+To see how the folders should be named, look at the project’s files on Box. Here is an example:
 
    ta_ulb_b63_1jn_c05_v21_t01.wav
  
-The “ta” before the first underscore is the language, so that is what you should name the first subfolder under BTTRecorder. After the first underscore is the project type, in this case “ulb”, so that is what you should name the subfolder of “ta”. You do not need to create the book and chapter subfolders. They will get created automatically when you download and extract a zip file from Citrix.
+The “ta” before the first underscore is the language, so that is what you should name the first subfolder under BTTRecorder. After the first underscore is the project type, in this case “ulb”, so that is what you should name the subfolder of “ta”. You do not need to create the book and chapter subfolders. They will get created automatically when you download and extract a zip file from Box.
 
 **Note**: Pay attention to the name of the book in the file name, in this case “1jn”, because you will need this name in a later step.
 
@@ -39,15 +43,17 @@ To create the folders, perform the following steps:
 Download the Recordings
 -----------------------
 
-Now that the folders are set up on your device, you can download the recordings from Citrix by performing the following steps:
+Now that the folders are set up on your device, you can download the recordings from the Box server by performing the following steps:
 
-1.	In your device’s browser, enter the URL for the Citrix server, https://digitalstorage.sharefile.com, and sign in with your credentials.
+1.	In your device’s browser, enter the URL for the Box server, https://account.box.com/login, and sign in with your credentials.
 
-2.	Navigate to the folder on the Citrix server where the recordings are stored. You should see separate subfolders for each Bible book that has been recorded.
+2.	Navigate to the folder on the Box server where the recordings are stored. (You may want to click in the Search field at the top of the window, type in the target language name, and then tap on the language name.)
 
-3.	Find the folder for the book you want to download. Tap and hold the folder until there is a checkmark to the left of it.
+You should see separate subfolders for each Bible book that has been recorded.
 
-4.	You can then tap **Download** at the top of the page, or if a popup menu appears, you can tap **Download** on that.
+3.	Find the folder for the book you want to download. Tap to open the folder.
+
+4.	You can then tap **Download** at the top of the page, you may need to tap the 3-dot menu for the popup menu, and then you can tap **Download** on that.
 
 5.	A message tells you that it may take several minutes for the download to complete.
 
@@ -92,8 +98,4 @@ Extract the Downloaded Files
   *	Tap and hold the zip file to select it and then tap the trash can to delete it.  
 
 4.	Now if you open BTT Recorder and look at your projects, you should see the one that you downloaded from Citrix and you can work with it as with any project.
- 
-
- 
-
  
