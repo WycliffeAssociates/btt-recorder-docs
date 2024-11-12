@@ -16,8 +16,8 @@ Contents:
 
    download
    intro
-   getstarted
    mainscreens
+   getstarted
    compiling
    sharing
    import
