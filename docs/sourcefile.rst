@@ -1,7 +1,7 @@
 Import Source Audio
 =======================
 
-Please NOTE: Go to `Importing an Oral Project from the Box Server <https://btt-recorder.readthedocs.io/en/latest/import.html#>`_ if you need instructions on how to import audio of **previous work**.
+**Please NOTE**: Go to `Importing an Oral Project from the Box Server <https://btt-recorder.readthedocs.io/en/latest/import.html#>`_ if you need instructions on how to import audio of **previous work**.
 
 Download Source Audio
 -----------------------------------------
