@@ -10,10 +10,10 @@ A project can optionally use source audio, so that the translator can listen to 
 
 Before you can start recording, there are some steps you need to take:
 
-*	`Install BTT Recorder <https://btt-recorder.readthedocs.io/en/latest/install.rst#install-the-btt-recorder-program>`_
+*	`Install BTT Recorder <https://btt-recorder.readthedocs.io/en/latest/install.html#install-the-btt-recorder-program>`_
 *	`Open BTT Recorder <https://btt-recorder.readthedocs.io/en/latest/install.html#open-the-program>`_
-*	`Create a New User <https://btt-recorder.readthedocs.io/en/latest/createuser.rst#creating-a-new-user-profile>`_
-*	`Create a New Project <https://btt-recorder.readthedocs.io/en/latest/newproject.rst#create-a-new-project>`_
+*	`Create a New User <https://btt-recorder.readthedocs.io/en/latest/createuser.html#creating-a-new-user-profile>`_
+*	`Create a New Project <https://btt-recorder.readthedocs.io/en/latest/newproject.html#create-a-new-project>`_
 
 Once a Project has been created you will:
 
